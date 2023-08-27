@@ -1,0 +1,1570 @@
+{
+  "entries": {
+    "eventEntries": [
+      {
+        "id": "6IwLReehYQPf2WKFzLYryK",
+        "metadata": {
+          "id": "6IwLReehYQPf2WKFzLYryK",
+          "publishedAt": "2023-02-28T14:08:38.270Z",
+          "publishedVersion": 19
+        },
+        "postDate": "1677494697",
+        "sortDate": "1677494697",
+        "lang": "id",
+        "section": "eventEntries",
+        "type": "customEvent",
+        "title": "Brawl Talk - misteri",
+        "hideTitle": true,
+        "ctas": {
+          "7FIHvRdyEWtVeqinAysKBh": {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "green",
+            "url": "https://www.youtube.com/watch?v=Z-rH3lk-bjo",
+            "label": "Pergi!"
+          }
+        },
+        "background": {
+          "small": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "smallRetina": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "medium": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "mediumRetina": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "large": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "largeRetina": {
+            "title": "1098519183_1677245100.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7sUoLkuiNIhgNsuljO15Ho/b20fbbececa8150a0ffc99575877149a/1098519183_1677245100.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          }
+        }
+      },
+      {
+        "id": "XszRXhu7gpQOaV9378g-IbVF63rXEtLy6tz8D708eII",
+        "metadata": {
+          "id": "XszRXhu7gpQOaV9378g-IbVF63rXEtLy6tz8D708eII",
+          "publishedAt": "2023-02-24T11:20:20.259Z",
+          "publishedVersion": 1
+        },
+        "postDate": "1677237620",
+        "sortDate": "1677237620",
+        "lang": "id",
+        "section": "eventEntries",
+        "type": "customEvent",
+        "title": "Sam Boneka Beruang",
+        "hideTitle": true,
+        "ctas": {
+          "6_V33ZxWyHwxii7DMclJx7ostXUUe-UZ21aW_HvuMLI": {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "pink",
+            "url": "brawlstars-inbox://shop",
+            "label": "Sam Boneka Beruang!"
+          }
+        },
+        "background": {
+          "small": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "smallRetina": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "medium": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "mediumRetina": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "large": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "largeRetina": {
+            "title": "0214 Brawlentine Sam 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/AfWZrdSsKnteFmNzUorUy3B-AN-qN86leRnlnrxT3v0/2a464168b03f7bf7e2ffdf7aee6b5abb/1671294775_1676365323.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          }
+        }
+      },
+      {
+        "id": "3JnkVjcY87avb1zmM046ALkx-2fq9j0Qk9uMWGf7_V0",
+        "metadata": {
+          "id": "3JnkVjcY87avb1zmM046ALkx-2fq9j0Qk9uMWGf7_V0",
+          "publishedAt": "2023-02-24T11:20:37.795Z",
+          "publishedVersion": 1
+        },
+        "postDate": "1677237637",
+        "sortDate": "1677237637",
+        "lang": "id",
+        "section": "eventEntries",
+        "type": "customEvent",
+        "title": "Premiere Brawl Talk - Negeri Permen",
+        "hideTitle": true,
+        "ctas": {},
+        "background": {
+          "small": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "smallRetina": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "medium": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "mediumRetina": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "large": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "largeRetina": {
+            "title": "1121 Brawl Talk 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ9Hq6wCRDTTo6c-1MSqrEPBknC9wx-Dvb6uGOIyLdc/a19c98008531d34b6ad2cec6eac0f986/1224641994_1670333407.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          }
+        }
+      },
+      {
+        "id": "EiOxy218iqo9kUtZikziPCl-CgAlxD42c584HkMlR5Q",
+        "metadata": {
+          "id": "EiOxy218iqo9kUtZikziPCl-CgAlxD42c584HkMlR5Q",
+          "publishedAt": "2023-02-24T11:20:49.147Z",
+          "publishedVersion": 1
+        },
+        "postDate": "1677237649",
+        "sortDate": "1677237649",
+        "lang": "id",
+        "section": "eventEntries",
+        "type": "customEvent",
+        "title": "Ikuti Kami",
+        "hideTitle": true,
+        "ctas": {
+          "NqNO_AHY8f0mM2I4UPmPjYsKoOMu1krzvGBI9LSSNp0": {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "red",
+            "url": "https://youtube.com/brawlstars",
+            "label": "Youtube"
+          },
+          "7lPvXpXL-78UixExkrbDIICgCNhCCcCi_-V6hOTN-ek": {
+            "type": "url",
+            "urlType": "url",
+            "order": "1",
+            "variant": "pink",
+            "url": "https://tiktok.com/@brawlstars",
+            "label": "TikTok"
+          }
+        },
+        "background": {
+          "small": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "smallRetina": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "medium": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "mediumRetina": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "large": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          },
+          "largeRetina": {
+            "title": "Girtls 800X1161",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0VRkrnLtKL9U2vSl3ZAtyxhzvDW7iQIWvQnZxi1U_sA/851b4934167b7c607a7fd8612fac48e0/1517787681_1606917955.jpg?w=800&h=1161&fit=fill&f=center",
+            "width": 800,
+            "height": 1161
+          }
+        }
+      }
+    ],
+    "newsEntries": [
+      {
+        "id": "5v1uwAgbr2ABi6NiqfFqK3",
+        "metadata": {
+          "id": "5v1uwAgbr2ABi6NiqfFqK3",
+          "publishedVersion": 28,
+          "publishedAt": "2023-02-28T11:22:09.247Z"
+        },
+        "postDate": "1677481380",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "#MisteriNgeriDiStarrPark Catatan Rilis!",
+        "categories": [],
+        "newUntil": "1677621600",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "425926611_1677498405.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7616SAgTqsqlQgM3eIkGXY/3ae4f7b4a515cf4fe530fb3d6e2a64b4/425926611_1677498405.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "442608470_1677498416.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1lFDPhFCh5RgGLQNgwRdKy/ef8b8f136eabe62bc13db2ddfa7dd454/442608470_1677498416.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "#MisteriNgeriDiStarrPark Catatan Rilis!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p><b>Jagoan Baru: R-T (Kromatik)</b></p><ul><li><p>Serangan: Penanda Target/Transmisi Radio</p><ul><li><p>R-T Menembakkan proyektil tunggal yang akan meninggalkan tanda pada Jagoan yang terkena. Tanda ini akan membuat target menerima kerusakan ekstra dan tanda akan habis sedikit demi sedikit setiap kali target menerima kerusakan.</p></li><li><p>Jika terpisah, R-T dan kedua kakinya akan memancarkan sinyal kuat yang memberi kerusakan pada semua target di\nsekitarynya.</p></li></ul></li><li><p>Super: Petak Umpet/Gelombang Radar</p><ul><li><p>R-T akan membelah diri menjadi dua. Saat terpisah, kaki dan badan R-T mampu melancarkan serangan jarak dekat\nyang akan memberi tanda pada lawan. R-T juga akan bergerak lebih cepat dalam kondisi ini.</p></li><li><p>R-T akan berteleportasi ke lokasi kakinya berada, kembali menyatu dengan kakinya, dan memulihkan 1000 kesehatan.</p></li></ul></li><li><p>Gadget: Satu Frekuensi</p><ul><li><p>R-T akan memancarkan sinyal ke kakinya saat terpisah dan memberi 500 kerusakan serta melambatkan lawan yang berada di antara dia dan kakinya.</p></li></ul></li><li><p>Gadget: Detonator</p><ul><li><p>Semua tanda aktif pada target akan langsung terpicu dan memberikan kerusakan.</p></li></ul></li><li><p>Kekuatan Bintang: Redam Jejak</p><ul><li><p>R-T dan kakinya akan menerima kerusakan 20% lebih sedikit saat terpisah.</p></li></ul></li><li><p>Kekuatan Bintang: Tanda Tahan Lama</p><ul><li><p>Tanda pada target akan bertahan 3 detik lebih lama.</p></li></ul></li></ul><p><b>Jagoan Baru: Willow (Mistis)</b></p><ul><li><p>Serangan: Kutukan Lentera</p><ul><li><p>Willow akan melemparkan lentera dan memberikan kerusakan pada lawan yang terkena.</p></li></ul></li><li><p>Super: Guna-Guna</p><ul><li><p>Willow akan melemparkan satu kecebong ke arah lawan. Jika berhasil mengenai lawan, Willow akan memulihkan penuh\nkesehatan mereka dan mengendalikan pikiran mereka. Willow bisa menggunakan serangan dasar lawan dan menggerakkan mereka sesuka hati. Pengendalian pikiran akan berhenti setelah 4 detik atau saat kesehatan Jagoan lawan tinggal tersisa 30% dari kesehatan total.</p></li></ul></li><li><p>Gadget: Jampi Sakti</p><ul><li><p>Serangan Kutukan Lentera berikutnya akan memberikan 500 kerusakan lebih banyak. Kerusakan ini akan diberikan sekaligus (tidak seiring waktu)</p></li></ul></li><li><p>Gadget: Menyelam</p><ul><li><p>Willow akan menyelam selama 2 detik dan tidak bisa menjadi target. Namun, dia juga tidak bisa melakukan apa-apa\nselama durasi waktu tersebut.</p></li></ul></li><li><p>Kekuatan Bintang: Pelet</p><ul><li><p>Kutukan Lentera juga akan mengurangi kecepatan isi ulang lawan yang terkena sebesar 25%.</p></li></ul></li><li><p>Kekuatan Bintang: Azimat Cepat</p><ul><li><p>Kecepatan gerak lawan yang terkena Guna-Guna akan meningkat 75%.</p></li></ul></li></ul><p><b>Kostum Baru</b></p><p>Musim: Misteri Ngeri Di Starr Park - Lisensi Berlaga</p><ul><li><p>El Mayordomo (Brawl Pass Tingkat 1, 79 Permata)</p></li><li><p>R-T Merah (Brawl Pass Tingkat 70, 149 Permata)</p></li><li><p>Piper Mariposan (Liga Bintang, 25,000 Poin Bintang/149 Permata)</p></li><li><p>Detektif Gray (79 Permata)</p></li><li><p>Detektif Gray Edisi Noir (Hanya tersedia jika suda mempunyai Detective Gray - 29 Permata)</p></li><li><p>Bull Kucing Garong</p></li></ul><p>Klan Ayakashi</p><ul><li><p>Otis Oni (149 Permata)</p></li><li><p>Mike Tengu (149 Permata)</p></li><li><p>Lola Kitsune (149 Permata)</p></li></ul><p>Remodel</p><ul><li><p>Penny Kelinci (79 Permata)</p></li><li><p>Penny Kelinci Hitam (10,000 Poin Bintang, 79 Permata)</p></li><li><p>Jessie Tanuki (149 Permata)</p></li><li><p>Jessie Musim Panas (79 Permata)</p></li></ul><p>Kostum Tambahan!</p><ul><li><p>Nani Lonceng (79 Permata) | Paskah</p></li><li><p>Sultan Carl (149 Permata) | Pasir Waktu</p></li><li><p>Janet Bintang Pop (79 Permata)</p></li><li><p>Frank Kesatria Hantu (149 Permata) | Supercell MAKE</p></li><li><p>R-T Patroli (29 Permata)</p></li><li><p>Willow Axolotl (29 Permata)</p></li></ul><p>Silver/Emas</p><ul><li><p>Gus</p></li><li><p>Gray</p></li><li><p>Chester</p></li><li><p>Sam</p></li><li><p>Buster</p></li><li><p>Mandy</p></li></ul><p><b>Penguasaan</b></p><p><i>Apa itu Penguasaan?</i></p><p>Penguasaan adalah sistem perkembangan baru yang menggantikan Level Pengalaman saat ini. Level Pengalaman Kalian saat ini akan disimpan dan terlihat di bagian Warisan Profil Pemain Kalian.</p><p>Semuanya sangat mudah: Kalian mendapatkan poin dengan Brawler yang Kalian mainkan dengan memenangkan pertandingan (Liga Trofi) atau putaran (Liga Bintang dan Liga Geng). Poin yang diperoleh dikalikan berdasarkan peringkat Piala dan Liga Bintang Kalian saat ini serta dengan menjadi MVP pertandingan. Semakin tinggi peringkat Trofi/Liga Kekuatan/Liga Klub, semakin banyak Poin Penguasaan yang Kalian peroleh dengan menang. Mengingat pengalaman kami sebelumnya dengan Misi dan betapa menantangnya membuat Misi yang bermakna (Oper bola pada, siapa pun?!) yang masih memiliki tujuan untuk memenangkan permainan, kami telah memutuskan untuk menggunakan kriteria kemenangan murni alih-alih Misi spesifik.</p><p>Pemain akan mendapatkan tambahan 20% Poin Penguasaan lebih banyak jika menjadi MVP dalam sebuah pertandingan.</p><p><i>Hal lain yang harus Kalian ketahui!</i></p><ul><li><p>Semua pemain mulai dari Level Penguasaan 1</p></li><li><p>Poin Penguasaan (dan Level) diperoleh per Jagoan</p></li><li><p>Poin Penguasaan (dan Level) hanya meningkat, Anda tidak kehilangannya dengan kalah dalam permainan (atau putaran)*</p></li><li><p>Penguasaan tidak diatur ulang</p></li><li><p>Ada batasan harian untuk mendapatkan Poin Penguasaan (mirip dengan Level Pengalaman sebelumnya) untuk memastikan orang memainkan Brawl Stars dalam jumlah yang wajar per hari dan tidak ada yang benar-benar gila!</p><ul><li><p>Jika Kalian mencapai batas itu, itu adalah pengingat yang baik untuk istirahat :D</p></li></ul></li></ul><p>* Untuk memberikan lebih banyak konteks pada keputusan ini: tujuan kami adalah untuk menciptakan sistem yang inklusif dan dapat diakses, daripada menciptakan sistem baru yang hanya akan dipedulikan oleh beberapa orang di komunitas kami. Alasannya adalah jika Kalian memainkan Brawler cukup lama untuk mendapatkan level Penguasaan tertinggi, Kalian juga akan memiliki kemungkinan lebih tinggi untuk menjadi lebih baik dalam memainkan Brawler ini selama perjalanan ini.</p><p><i>Apa yang Kalian dapatkan dengan menjadi Master in a Brawler?</i></p><ul><li><p>Ikon baru keren yang ditampilkan disaat Pertandingan Dimulai dan di profil Jagoan Kalian</p></li><li><p>Setiap Level Penguasaan membuka hadiah satu kali, tergantung pada kelangkaan Brawler: beberapa kelangkaan memiliki hadiah perkembangan yang lebih baik daripada yang lain</p></li><li><p>Hadiah pada Level yang lebih rendah didasarkan pada perkembangan (Koin, Poin Kekuatan, Kredit). Kredit Kroma hanya tersedia di trek Penguasaan Jagoan Kromatik</p></li><li><p>Hadiah pada Level yang lebih tinggi adalah item kosmetik eksklusif (Pin baru, Gambar Profil sekunder, dan kosmetik baru - Gelar!)</p></li></ul><p><b>Preview Pertandingan Baru</b></p><p>Layar Pertandigan Dimulai hampir tidak tersentuh sejak kami meluncurkan Brawl Stars secara global pada tahun 2018 dan kami telah memutuskan bahwa sudah waktunya untuk melakukan beberapa perbaikan. Alur Pertandingan Dimulai yang baru akan menampilkan peta dan kemudian menampilkan &quot;kartu pemain&quot; yang lebih detail dari para pemain yang memasuki pertandingan. Ini akan memiliki format yang sedikit berbeda tergantung pada mode permainan</p><p>Kartu Pemain</p><p>Kartu Pemain adalah campuran dari informasi yang telah ditentukan sebelumnya dan elemen khusus yang dapat dikonfigurasi oleh Kalian. Item spesifik yang ditampilkan pada Kartu Pemain adalah:</p><ul><li><p>Nama pemain dengan warna</p><ul><li><p>Nama akun Kalian</p></li></ul></li><li><p>Gelar Pemain\n</p><ul><li><p>Terbuka di tier terakhir Mastery Track</p></li><li><p>Setelah dibuka, itu dapat digunakan dengan Jagoan apa pun</p></li></ul></li><li><p>Level Ketenaran</p><ul><li><p>Perlu dibuka terlebih dulu</p></li></ul></li><li><p>Level Penguasaan</p><ul><li><p>Menggunakan Level Penguasaan Anda saat ini dengan Brawler yang Kalian gunakan</p></li></ul></li><li><p>Jagoan dengan Kostumnya</p><ul><li><p>Gunakan Jagoan Kalian saat ini, dan Kostum saat ini yang Kalian gunakan</p></li></ul></li><li><p>Pin</p><ul><li><p>Pin apa pun yang pernah Kalian buka dapat digunakan - bahkan jika itu khusus Jagoan</p></li></ul></li><li><p>Gambar Profil\n</p><ul><li><p>Gambar Profil apa pun yang pernah dibuka dapat digunakan - Kalian dapat menggunakan dua gambar sekaligus</p></li></ul></li></ul><p><b>Item Kosmetik</b></p><p>Pin</p><ul><li><p>Pin Tepuk Jidat untuk Semua Jagoan (di jalur Penguasaan)</p></li><li><p>Pin R-T</p></li><li><p>Pin R-T Merah</p></li><li><p>Pin Willow</p></li><li><p>Pin Kostum untuk: Piper Mariposa, Detektif Gray, El Mayordomo Primo, Bull Kucing Garong, Nani Lonceng, Janet Bintang Pop, Sultan Carl, Lola Kitsune, Mike Tengu, Otis Oni, Frank Kesatria Hantu, Nita Sahabat Paus, Gale Prahurit Mainan, Bea Penjahat, Bo Inferno, Bo Horus, Colette Gladiator, dan DJ 3.M.Z</p></li><li><p>Pin Acara: Paskah, Santo Patrick, Jagoan Lunar (2 Pin), Bintang Pop, Jagoan Esports (2 Pin), Penny Kelinci, dan Penny Kelinci Hitam</p></li></ul><p>Cat Baru</p><ul><li><p>Brawl Pass (2 Cat)</p></li><li><p>Cat spesifik Jagoan untuk: Gale, Surge, Lou, Colette, Ruffs, Belle, Buzz, Lola, Eve, Fang, Janet, Otis, Sam, Buster, Mandy, R-T</p></li><li><p>Cat Kostum (6)</p></li><li><p>Cat Acra (6)</p></li></ul><p>Ikon Profil</p><ul><li><p>Brawl Pass (2 Gambar Profil)</p></li><li><p>Profil Pemain Unik untuk semua Jagoan (dijalur Penguasaan)</p></li><li><p>Gambar Profil Kostum (5)</p></li><li><p>Gambar Profil Acara (7)</p></li></ul><p>BARU: Gelar</p><ul><li><p>66 Gelar Baru (dijalur Penguasaan)</p></li></ul><p><b>Perubahan keseimbangan</b></p><p>Buff</p><ul><li><p>Sandy</p><ul><li><p>Serangan Dasar - Kerusakan - 860 → 900</p></li><li><p>Sandy telah keluar dari meta untuk sementara karena perubahan sebelumnya dan kumpulan peta. Mengembalikan kekuatan untuk dasar-dasarnya seharusnya memungkinkan dia untuk berduel lebih banyak petarung secara efisien, sambil menjaga utilitas Supernya tetap terkendali. Mari kita lihat apakah dia akan tidur setelahnya.</p></li></ul></li><li><p>Byron</p><ul><li><p>Serangan Dasar - Kecepatan Isi Ulang - 1600ms → 1450ms</p></li><li><p>Pedagang minyak ular favorit kami mendapati bisnisnya menurun setelah nerf isi ulang sebelumnya. Meskipun kami tidak ingin dia serba bisa seperti sebelumnya, jelas kami melangkah terlalu jauh, dan memutar kembali setengahnya akan membuatnya menjadi pilihan yang lebih baik dalam situasi tertentu.</p></li></ul></li></ul><p>Nerf</p><ul><li><p>Gray</p><ul><li><p>Super - Rekan satu tim tidak lagi berteleportasi secara instan</p></li><li><p>Katakan CHEESE. Gray telah mengaktifkan semua jenis varian cheese, yang paling populer adalah kombinasi Grey, Jacky, Bo. Meskipun kami sangat menyukai permainan mencolok yang dapat dilakukan Gray sendiri dengan supernya, itu tidak harus meluas ke rekan satu timnya.</p></li></ul></li><li><p>Sam</p><ul><li><p>Super - Kerusakan - 1400 → 1200</p></li><li><p>Knock kn ... tunggu aku melakukan lelucon itu di catatan tambalan terakhir. Ah baiklah, dia agak terlalu pandai menembak petarung dengan kesehatan rendah dengan sarung tangannya, dan sekarang harus lebih dekat dan pribadi lebih lama untuk menjatuhkan petarung.</p></li></ul></li><li><p>Otis</p><ul><li><p>Kesehatan Dasar - 3400 → 3200</p></li><li><p>Anda tahu perasaan itu ketika Kalian terakhir memilih dalam pertandingan PL dan otak Kalian seperti kosong tetapi tiba-tiba Kalian melihat makhluk seperti cumi-cumi, menembakkan tinta, pembungkam muncul dengan paduan suara malaikat di latar belakang? Hanya aku? Terlepas dari itu, Otis terlalu fleksibel di pembaruan terbaru, terutama di gameplay level yang lebih tinggi. Dia memiliki sangat sedikit peta dan pertarungan yang buruk, jadi menyetel HP-nya berarti pertarungan itu akan berkurang sambil menjaga keserbagunaannya tetap utuh.</p></li></ul></li><li><p>Grom</p><ul><li><p>Kerusakan Dasar 1160 →1060</p></li><li><p>Dia menjadi pelempar andalan di sebagian besar peta karena outputnya yang tipis, yang akan semakin terlihat dengan perubahan dinding. Menyetelnya terlebih dahulu harus memungkinkan pelempar lain juga melihat beberapa sorotan</p></li></ul></li><li><p>Poco</p><ul><li><p>Kesehatan Dasar - 4000 → 3700</p></li><li><p>Solo Poco telah melelehkan wajah terlalu efektif, dan perubahan dinding akan meningkatkannya. Untuk seorang brawler yang memiliki begitu banyak penyembuhan di perlengkapannya, dia tidak perlu sekuat dia, jadi kami akan sedikit menurunkannya.</p></li></ul></li></ul><p>Rework</p><ul><li><p>Bo</p><ul><li><p>Gadget - Totem Super - Tidak lagi mengisi daya super secara pasif, tetapi meningkatkan daya super di dalam totem untuk rekan satu tim sebesar 50%</p></li><li><p>Tingkatkan area Gadget sebesar 100%</p></li><li><p>Terkait dengan di atas, totem Bo telah menjadi rasa sakit yang konstan disana maksud saya bermasalah. Sebelumnya, Nani yang banyak menggunakannya, dan sekarang mengaktifkan strat Gray/Bo/x. Meskipun pintar, ia menawarkan sangat sedikit serangan balik dan merasa tidak enak berada di pihak penerima. Mengubah mekanik sepenuhnya akan memberi penghargaan kepada pemain karena melakukan pukulan mereka, daripada berdiri diam dalam lingkaran, yang terasa seperti pengalaman yang jauh lebih baik bagi kedua belah pihak. Semoga kita tidak akan melihat lebih banyak strategi membosankan (hehe, saya sangat pintar) dengan totem setelah perubahan ini.</p></li></ul></li></ul><p><b>Slot Permanen Baru: Acara Komunitas</b></p><p>Dengan pembaruan ini, kami memperkenalkan Slot Acara Permanen baru yang dibuka dengan 350 Trofi, menampilkan dua (2) Mode Permainan dalam rotasi harian. Komunitas akan dapat memilih Mode Permaian yang berbeda untuk musim mendatang melalui jajak pendapat Media Sosial.</p><p>Mode Game pertama yang ditampilkan adalah:</p><ul><li><p>Duel</p></li><li><p>Basket Jagoan</p></li></ul><p><b>Pengembalian: Tembok yang Tidak Bisa Dihancurkan</b></p><p>Tembok yang Tidak Bisa Dihancurkan kembali ke Brawl Stars dan akan ditampilkan di sebagian besar peta lama kami. Jika Kalian belum pernah ada selama masa-masa awal Brawl Stars ketika Tembok yang Tidak Bisa Dihancurkan adalah sesuatu - itu benar-benar mudah: itu adalah tembok. Mereka tidak bisa dihancurkan. Dikombinasikan dengan beberapa perubahan keseimbangan, kami berharap pengenalan kembali Tembok yang tidak bisa dihancurkan akan mengguncang banyak hal secara signifikan, dan beberapa peta akan menjadi tempat yang lebih ramah untuk karakter dengan jarak pendek atau melempar proyektil. </p><p>Catatan: Dinding yang tidak bisa dihancurkan di Brawl Ball dan Basket Brawl tidak dihancurkan selama tambahan waktu</p><p><b>Peta</b></p><p>Kami telah membuat beberapa keputusan seputar peta: lima (5) peta terbaik di setiap Mode Permainan akan tetap ada.</p><p>Pada saat yang sama, kami telah memutuskan untuk menambah kumpulan peta dari tujuh (7) menjadi delapan (8) peta per Mode Permainan, yang dalam praktiknya berarti jika kalian hanya bermain pada hari-hari tertentu (misalkan akhir pekan), Kalian masih akan mengalami berbagai peta setiap minggu. Untuk melengkapi kumpulan peta, kami akan memperkenalkan kembali beberapa klasik lama dan memperkenalkan peta baru yang dibuat oleh komunitas kami.</p><p>Slot Acara Komunitas baru akan menampilkan empat (4) peta per Mode Permainan dengan total delapan (8) peta dalam rotasi, dan semua peta di slot ini adalah baru: kami telah memasukkan umpan balik komunitas tentang peta Duels sebelumnya ke dalam yang baru ini. dan membuat masing-masing lebih berbeda, termasuk peta yang pasti akan kontroversial: Grim Island.</p><p>Kami juga telah memindahkan lokasi spawn untuk semua peta Duel lebih jauh ke depan untuk menghemat waktu berharga semua orang dan beraksi sedikit lebih cepat. Peta Basket Brawl baru memiliki filosofi serupa: ruang desain (secara harfiah) lebih kecil menciptakan situasi di mana banyak peta pada dasarnya terasa identik atau setidaknya serupa. Peta baru memiliki desain yang lebih jelas dengan implikasi meta yang kurang lebih jelas.</p><ul><li><p>Basket Jagoan</p><ul><li><p>Dancing Roof (Baru)</p></li><li><p>Basket Fort (Baru)</p></li><li><p>Iron Curtain (Baru)</p></li><li><p>Green Meadows (Baru)</p></li></ul></li><li><p>Buronan</p><ul><li><p>Aktif</p><ul><li><p>Layer Cake</p></li><li><p>Temple Ruins</p></li><li><p>Dry Season</p></li><li><p>Shooting Star</p></li><li><p>Canal Grande</p></li><li><p>Crossroads (Baru)</p></li><li><p>Nowhere to Hide (Baru)</p></li><li><p>Iron Standoff (Baru)</p></li></ul></li><li><p>Dihilangkan</p><ul><li><p>Excel</p></li><li><p>Hideout</p></li><li><p>Purple Paradise (Laga Persahabatan)</p></li></ul></li></ul></li><li><p>Bola Jagoan\n</p><ul><li><p>Aktif</p><ul><li><p>Backyard Bowl</p></li><li><p>Pinhole Punt</p></li><li><p>Sneaky Fields</p></li><li><p>Super Beach</p></li><li><p>Beach Ball</p></li><li><p>Field Goal</p></li><li><p>Circular Motion (Baru)</p></li><li><p>Iron Corridor (Baru)</p></li></ul></li><li><p>Dihilangkan</p><ul><li><p>Center Stage</p></li><li><p>Sunny Soccer</p></li></ul></li></ul></li><li><p>Duel</p><ul><li><p>Iron Core (Baru)</p></li><li><p>Grim Island (Baru)</p></li><li><p>Four Lakes (Baru)</p></li><li><p>Mogura Tataki (Baru)</p></li></ul></li><li><p>Rebut Permata\n</p><ul><li><p>Aktif</p><ul><li><p>Crystal Arcade</p></li><li><p>Double Swoosh</p></li><li><p>Gem Fort</p></li><li><p>Hard Rock Mine</p></li><li><p>Minecart Madness</p></li><li><p>Acute Angle</p></li><li><p>Four Doors (Baru)</p></li><li><p>Solid Center (New)</p></li></ul></li><li><p>Disabled</p><ul><li><p>Deep Diner</p></li><li><p>Undermine</p></li></ul></li></ul></li><li><p>Penjarahan\n</p><ul><li><p>Aktif</p><ul><li><p>Bridge Too Far</p></li><li><p>Hot Potato</p></li><li><p>Kaboom Canyon</p></li><li><p>Pit Stop</p></li><li><p>Safe Zone</p></li><li><p>Cover Crowd</p></li><li><p>Offset Heist (Baru)</p></li><li><p>Center Control (Baru)</p></li></ul></li><li><p>Dihilangkan</p><ul><li><p>Tornado Ring</p></li><li><p>Snaked Assault</p></li></ul></li></ul></li><li><p>Zona Panas\n</p><ul><li><p>Aktif</p><ul><li><p>Parallel Plays</p></li><li><p>Ring of Fire</p></li><li><p>Dueling Beetles</p></li><li><p>Open Zone</p></li><li><p>Split</p></li><li><p>Triumvirate</p></li><li><p>Rush Hour (Baru)</p></li><li><p>Iron Cover (Baru)</p></li></ul></li><li><p>Dihilangkan</p><ul><li><p>Quarter Pounder</p></li><li><p>Controller Chaos</p></li></ul></li></ul></li><li><p>K.O</p><ul><li><p>Aktif</p><ul><li><p>X Marks the Spot</p></li><li><p>Goldarm Gulch</p></li><li><p>Belle&#39;s Rock</p></li><li><p>Out in the Open</p></li><li><p>Flaring Phoenix</p></li><li><p>Flowing Springs</p></li><li><p>Healthy Middle Ground (Baru)</p></li><li><p>Step by Step (Baru)</p></li></ul></li><li><p>Dihilangkan</p><ul><li><p>Riverside</p></li><li><p>New Perspective</p></li></ul></li></ul></li><li><p>Showdown</p><ul><li><p>Aktif</p><ul><li><p>Skull Creek</p></li><li><p>Scorched Stone</p></li><li><p>Rockwall Brawl</p></li><li><p>Feast or Famine</p></li><li><p>Acid Lakes</p></li><li><p>Double Trouble</p></li><li><p>Hard Limits (Baru)</p></li><li><p>Lush Poles (Baru)</p></li></ul></li><li><p>Dhilangkan</p><ul><li><p>Dark Passage</p></li><li><p>Cavern Churn</p></li></ul></li></ul></li><li><p>Rank (PL/CL)</p><ul><li><p>Buronan: Canal Grande, Shooting Star, Nowhere to Hide</p></li><li><p>Bola Jagoan: Beach Ball, Pinhole Punt, Iron Corridor</p></li><li><p>Rebut Permata: Hard Rock Mine, Double Swoosh, Acute Angle</p></li><li><p>Penjarahan: Kaboom Canyon, Safe Zone, Center Control</p></li><li><p>Zona Panas: Split, Ring of Fire, Iron Cover</p></li><li><p>K.O: Flaring Phoenix, Out in the Open, Belle&#39;s Rock</p></li></ul></li></ul><p>Perubahan Lingkungan Peta</p><p>Ditambahkan:</p><ul><li><p>The Hub (Baru)</p></li><li><p>Rooftop (Baru) | Basket Jagoan</p></li><li><p>Tara&#39;s Bazaar</p></li></ul><p>Dihapus:</p><ul><li><p>Mortis&#39; Mortuary (Regular)</p></li><li><p>Mortis&#39; Mortuary (Showdown)</p></li><li><p>Ghost Station</p></li><li><p>Snowtel</p></li><li><p>Fighting Game</p></li></ul><p><b>Kelas Jagoan Diperbarui</b></p><p><i>Berdasarkan Umpan Balik Komunitas, kami memutuskan untuk memperluas Kelas Jagoan yang ada dengan pembaruan ini agar semuanya menjadi lebih jelas bagi semua orang.</i></p><ul><li><p>Penyerang</p></li></ul><p>Peran utama Penyerang dalam permainan adalah memberikan kerusakan pada tim dan tujuan musuh. Dibiarkan, mereka adalah ancaman konstan bagi tim. Penyerang dapat memberikan DPS yang sangat berkelanjutan atau kerusakan yang meledak. Biasanya Penyerang berpengetahuan luas, dengan perpaduan yang baik antara kerusakan dan kemampuan bertahan hidup. Karena potensi kerusakannya, mereka paling cocok untuk menghadapi Tank dan Pemburu - tetapi dapat dilawan oleh Penembak jitu dan Artileri.</p><ul><li><p>Pemburu</p></li></ul><p>Pemburu memiliki kemampuan dalam kit keterampilan utama mereka yang memungkinkan mereka untuk menutup jarak ke target mereka dan menghilangkannya dengan kerusakan yang tinggi. Sebagian besar, tetapi tidak semua, Pemburu memiliki kesehatan yang relatif rendah dan mengandalkan keterampilan mereka untuk tetap hidup dan keluar dari situasi sulit - tetapi tidak ditangani, mereka dapat menghancurkan lini belakang tim musuh sendirian. Pemburu kuat melawan Penembak jitu dan Artileri dan memiliki potensi besar untuk membawa tim di punggung mereka, tetapi mereka sulit dilawan oleh Tank dan perlu waspada terhadap Penyerang.</p><ul><li><p>Penembak Jitu (Baru)</p></li></ul><p>Penembak jitu memberikan kerusakan dalam jumlah besar dalam jarak yang sangat jauh. Mereka biasanya menggunakan proyektil sekali tembak, memiliki laju tembakan yang lambat, dan kecepatan muat ulang yang lambat. Penembak jitu tidak dapat mengandalkan kesehatan mereka untuk bertahan hidup, tetapi kebanyakan dari mereka memiliki keterampilan sekunder yang memungkinkan mereka melarikan diri dari pertemuan dekat dengan Jagoan lain, setidaknya untuk sementara. Penembak jitu kuat melawan sebagian besar kelas pada jarak jauh tetapi tidak memiliki DPS berkelanjutan untuk menghadapi Tank. Penembak jitu dari atas dan dekat dapat ditangani oleh semua kelas lain, tetapi karena poin hit mereka yang rendah, mereka secara khusus rentan terhadap Pemburu dan Artileri (sekali dalam jangkauan).</p><ul><li><p>Artilleri (Baru)</p></li></ul><p>Jagoan Artileri melempar atau menembakkan proyektil melewati rintangan dan dinding dan akibatnya dapat memanfaatkan lingkungan dengan sangat efektif. Mereka biasanya memiliki jumlah kesehatan rendah dan menggabungkan elemen Pengontrol dan Penyerang. Kerusakan mereka biasanya tidak memiliki potensi ledakan dan daya henti, yang berarti mereka kesulitan berurusan dengan Tank dan Pemburu. Namun, kemampuan unik mereka untuk menggunakan dinding dapat membuat mereka sangat frustasi untuk dihadapi, dan kerusakan berkelanjutan mereka dapat membuat hampir tidak mungkin untuk memulihkan kesehatan.</p><ul><li><p>Tank</p></li></ul><p>Tank dapat mengalahkan jagoan secara signifikan, baik dengan menggunakan jumlah kesehatan tertinggi dari Jagoan mana pun dalam permainan atau melalui kombinasi keterampilan pasif dan aktif yang memungkinkan kelangsungan hidup mereka. Tank biasanya sangat kuat dalam pertemuan jarak dekat dan langsung melawan Assassin. Mereka memiliki peluang yang adil melawan Artillery/Penembak Jitu jika mereka berhasil mendekat, tetapi rentan terhadap damage tinggi dari Penyerang yang secara langsung melawan mereka.</p><ul><li><p>Pendukung</p></li></ul><p>Keahlian utama Jagoan Pendukung dibangun untuk mendukung tim mereka dengan cara yang berbeda. Mereka dapat memberikan penyembuhan untuk tim mereka atau kemampuan lain untuk mengaktifkan atau memperkuat Jagoan yang - meningkatkan peluang semua orang untuk menang. Jagoan Pendukung biasanya memiliki potensi rendah untuk ledakan kerusakan tetapi kesehatan dan/atau kemampuan bertahan hidup yang adil, dan merupakan target bagi setiap Jagoan dengan potensi ledakan tinggi - terutama Penyerang, Pemburu, Penembak jitu, dan Tank.</p><ul><li><p>Pengontrol (Baru)</p></li></ul><p>Keahlian utama pengontrol dibangun di sekitar gagasan untuk mengendalikan area tertentu di peta, baik dengan mematikan area secara proaktif atau reaktif dengan kemampuan Area of Effect (AoE), yang memungkinkan tim mereka memanfaatkan posisi musuh yang terlantar. Pengontrol biasanya memiliki jumlah kesehatan yang cukup banyak dan memiliki sedikit variasi antara ledakan dan kerusakan berkelanjutan.</p><p><b>Perbaikan Kerusaka</b></p><ul><li><p>Memperbaiki beberapa VFX Kostum</p></li><li><p>Memperbaiki berbagai masalah pelokalan</p></li><li><p>Memperbaiki beberapa pin yang tidak dianimasikan saat digunakan dalam obrolan</p></li></ul><p><b>Lainnya</b></p><ul><li><p>Menambahkan donasi otomatis untuk pin untuk Kostum tertentu</p><ul><li><p>Kostum yang memiliki pin yang terkait dengannya akan disumbangkan secara otomatis saat Kalian membuka permainan</p></li></ul></li><li><p>Konfirmasi tambahan untuk toko</p><ul><li><p>Untuk semua pembelian Permata yang belum memiliki konfirmasi ganda untuk pembelian, kami telah menambahkan langkah &quot;konfirmasi&quot; tambahan untuk menghindari frustrasi</p></li><li><p>Menambahkan dialog konfirmasi tambahan ke Toko Klub</p></li></ul></li><li><p>Toko Geng QoL</p><ul><li><p>Poin Kekuatan sekarang selalu dapat dibeli untuk Koin Geng kecuali saldo Poin Kekuatan sudah mencapai batas</p></li></ul></li><li><p>Menambahkan Dukungan untuk Tantangan dengan Nyawa Tak Terbatas</p></li><li><p>Peningkatan Matchmakin untuk Mode Tim</p><ul><li><p>Setelah pemain ditemukan untuk pertandingan, mereka sekarang didistribusikan secara lebih merata di antara kedua tim berdasarkan total trofi mereka</p></li></ul></li></ul><p></p>"
+          }
+        }
+      },
+      {
+        "id": "PjzAumgwK2-ZOQmIIRGIljPyL53FPp7d-_7CKUtCflk",
+        "metadata": {
+          "id": "PjzAumgwK2-ZOQmIIRGIljPyL53FPp7d-_7CKUtCflk",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:29:26.640Z"
+        },
+        "postDate": "1676542658",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Vote untuk kostum terbaik- #SupercellMAKE",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "externalNewsEntry",
+        "url": "https://make.supercell.com/en/campaign/3447",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0216 Make Voting 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/B4yIkYCEgoCdYeOLZTCrQgIMGw0ZhV4ZUb2YJXilJws/a1c30a8cc2c4029ba4ec8389515f4edd/684939173_1676499197.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "Oj75rT2RW18q_qZxMl7nfriVswK4bazBq1CmSw5BfoE",
+        "metadata": {
+          "id": "Oj75rT2RW18q_qZxMl7nfriVswK4bazBq1CmSw5BfoE",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:29:59.986Z"
+        },
+        "postDate": "1676021019",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Acara Brawlentines sudah dimulai!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0210 Love Letter 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/az5ydBNKKJNNtt9toPmLtvojwgCHdBjaXLZ2gst2Yp8/37a9a662899c3eb40426c3eb3b85de59/440683437_1676017665.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "0210 Love Letter 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BJGBUjh2kLZCy83bmaGrlzIKTxxGdErT-5ZTUAbS5no/6974d6581c51f647f0d9128660e74fef/1115727318_1676017674.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Acara Brawlentines sudah dimulai!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Inilah yang terjadi selama beberapa hari ke depan!</p><p>10 Februari - Separuh dari pemain akan memiliki Pin hati yang mencium secara GRATIS di toko! Separuh lainnya akan memiliki Pin hati yang dicium - Bisakah Kalian menemukan separuh lainnya dalam pertandingan?\n11 Februari - SELESAIKAN TANTANGAN LENGKAPI SAYA! Duo Challenge dengan Modifikasi Penyembuh - Kalahkan dengan belahan jiwa Kalian untuk mendapatkan 2 buah Cat Hati. Semprotan juga akan tersedia di toko pada tanggal 14\n14 Februari - peluncuran kostum Sam Teddy (untuk 29 Permata!)</p><p>Kostum Brawlentine sebelumnya akan tersedia selama seminggu dengan harga diskon!</p><p>Nikmati momen Brawlentine Kalian!</p>"
+          }
+        }
+      },
+      {
+        "id": "QEkBHNstDvBiMvtwAWTJzrtiJ1nacOA-TnHkm4epqsQ",
+        "metadata": {
+          "id": "QEkBHNstDvBiMvtwAWTJzrtiJ1nacOA-TnHkm4epqsQ",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:34:23.085Z"
+        },
+        "postDate": "1674720000",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Pembaruan #NegeriPermen - Catatan Rilis",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "1206 Brawl 4Th Anniversary 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6wmo0jad8TR81vfZD4JEq3c8Rjz3QoTic6e_U8n2c6E/fa9b4cbcadb74c0f9d1f6edc9ba00fa8/691681060_1670827244.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "1206 Brawl 4Th Anniversary 1600X443 V3",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/nvd7753HSWNJbwGLdG3D-_1Iqk9V8Cbnd3RfT5e6Y_E/a33982a1f221d5e120753d4e8282d8f8/1667801785_1670827279.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Pembaruan #NegeriPermen - Catatan Rilis",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Perbaikan 26/01/2023</p><ul><li><p>Memperbaiki Super Griff bekerja dengan aneh jika digunakan di sekitar tepi peta</p></li><li><p>Memperbaiki beberapa perilaku aneh dengan penawaran khusus di toko</p></li><li><p>Menghapus ketenaran dari profil yang memilikinya tanpa memiliki semua Jagoan</p></li></ul><p>Perbaikan 12/01/2023\n</p><p>Perubahan keseimbangan:\n\nMandy\n</p><ul><li><p>Pengisian bar Fokus Mandy dikurangi sebesar 40%</p></li></ul><p>Chester\n</p><ul><li><p>Stun - Kerusakan secara signifikan dikurangi (1400 menjadi 200)\n</p></li><li><p>Stun - Kecepatan proyektil dikurangi sebesar 25%\n</p></li><li><p>Stun - Durasi Stun dikurangi dari 2 detik menjadi 1 detik</p></li><li><p>Serangan Utama - kerusakan dikurangi (720 menjadi 640)\n</p></li></ul><p>Cam</p><ul><li><p>Durasi Super dikurangi setengahnya</p></li><li><p>Kerusakan Serangan Utama dikurangi (1480 menjadi 1320)\n</p></li><li><p>Pengurangan Kerusakan Rompi Kevlar dikurangi (20% menjadi 10%)\n</p></li></ul><p>Grom\n</p><ul><li><p>Serangan Utama: kecepatan proyektil dikurangi (880 ms menjadi 840 ms - sebelum December adalah 800 ms)\n</p></li></ul><p>Gray\n</p><ul><li><p>Gadget Piano - area dikurangi sebesar 50%\n</p></li></ul><p>Perbaikan Kerusakan</p><ul><li><p>Memperbaiki masalah yang dapat menyebabkan pemain terjebak di layar pemuatan selama 24 jam\n</p></li><li><p>Memperbaiki masalah di mana kotak serangan Super Mandy menjadi miring setelah keluar batas\n</p></li></ul><p>\n</p><p>Perbaikan 21/12\n</p><ul><li><p>Peningkatan hadiah untuk Brawl Pass Negeri Permen dan setiap Brawl Pass setelah itu (mulai Januari)\n</p></li></ul><p>Setelah membaca beberapa umpan balik komunitas, kami melihat kembali hadiah perkembangan dan membuat keputusan untuk meningkatkan Brawl Pass untuk musim berikutnya dan seterusnya. Tujuannya agar pemain sedikit mendapatkan lebih banyak koin dari sebelumnya dan juga harus mendapatkan lebih banyak Poin Kekuatan.\n</p><p>Namun, perlu diingat bahwa lebih banyak hadiah dapat diklaim dari Toko Geng, Misi Khusus, dan Tantangan.\n</p><p>Berikut perubahannya:\n</p><p><b>Jalur Gratis</b></p><ul><li><p>Poin Kekuatan ditingkatkan sebesar 15.6%\n</p></li><li><p>Koin ditingkatkan sebesar 9.4%\n</p></li><li><p>Kredit ditingkatkan sebesar 11.7%\n</p></li></ul><p><b>Jalur Premium</b></p><ul><li><p>Poin Kekuatan ditingkatkan sebesar 6.7%\n</p></li></ul><p><b>Hadiah Bonus</b></p><ul><li><p>Poin Kekuatan ditingkatkan sebesar 5%\n</p></li></ul><ul><li><p>Menghapus Ketenaran dari beberapa pemain yang didapat dari eksploitasi\n</p></li></ul><p>Pembaruan Opsional (segera tersedia hari ini untuk iOS dan Android)\n</p><ul><li><p>Memperbaiki masalah di mana mata uang berlebihan ditampilkan di UI pemilihan kostum\n</p></li><li><p>iOS: Memperbaiki masalah di mana item gratis di toko ditampilkan secara tidak benar di UI jika pemain memiliki semua Jagoan\n</p></li><li><p>Memperbaiki Fame yang tumpang tindih dengan nama pemain dalam skenario tertentu di UI\n</p></li></ul><p>\n</p><p>Perbaikan 16/12\n</p><ul><li><p>Kami harus melakukan perbaikan kembali untuk memperbaiki beberapa masalah mengenai kompensasi</p></li></ul><p>Perbaikan: 16/12\n</p><ul><li><p>Memperbaiki timer Acak Ulang Tugas menjadi lebih lama dari yang seharusnya\n</p></li><li><p>Memperbaiki Sandy Buster Badai Penguras Tenaga yang dikombinasikan dengan Angin Penyembuh yang bisa memberikan 1 kerusakan pada musuh\n</p></li><li><p>Memperbaiki masalah di mana super slow Chester tidak berfungsi jika dia gugur setelah mengaktifkannya\n</p></li><li><p>Kompensasi sekarang dikirimkan - Harus diklaim dalam waktu 2 minggu. Pemain yang mendapatkan kembali Hadiah Ambang Trofi tidak akan menerima kompensasi (karena mereka sudah mendapatkan hadiah ekstra dari kerusakan/bug ini)*\n</p></li><li><p>Memperbaiki beberapa kesalahan ketik lokalisasi\n</p></li><li><p>Memperbaiki masalah di mana tombol pengabaian ditampilkan untuk pemain yang hanya memiliki satu brawler tersisa untuk dibuka\n</p></li><li><p>Memperbaiki masalah di mana Poin Kekuatan tambahan yang akan Kalian dapatkan tidak diubah menjadi Koin jika Kalian telah mencapai batas Poin Kekuatan\n</p></li></ul><p><b>Beberapa catatan tentang kompensasi:</b></p><ul><li><p>Kompensasi akan mulai diberikan kurang lebih pada pukul 20:00 WIB</p></li><li><p>Ini didasarkan pada jumlah trofi yang Kalian miliki saat ini, dan dibagi menjadi tingkatan trofi yang berbeda (di setiap pencapaian 2500 trofi)\n</p></li><li><p>Kumpulkan dalam 2 minggu, atau Kalian akan melewatkannya!\n</p></li><li><p>Kompensasi ini HANYA TERSEDIA untuk pemain yang tidak mendapatkan hadiah Ambang Trofi lagi - ini adalah kerusakan/bug sebelumnya\n</p></li><li><p>Kalian hanya dapat mengumpulkan kompensasi ini SEKALI\n</p></li></ul><p><b>Pertanyaan yang Sering Diajukan:</b></p><ul><li><p><b>Di mana hadiah Ambang Trofi saya?</b></p><p></p></li></ul><p>Ini adalah bug/kerusakan. Seharusnya tidak ada yang mendapatkan hadiah Ambang Trofi lagi. Orang-orang yang dapat mengumpulkan hadiah mereka akan dapat menyimpannya. Orang-orang yang tidak mendapatkannya akan menerima kompensasi sebagai gantinya.\n</p><ul><li><p><b>Mengapa Anda tidak memberikan hadiah Trophy Road kepada semua orang?</b></p><p></p></li></ul><p>Kerusakan/Bug memengaruhi orang secara tidak konsisten, yang berarti kerusakan/bug itu memberikan satu set hadiah acak berdasarkan berapa banyak Trofi yang dimiliki pemain. Jadi, mungkin saja beberapa pemain dengan trofi lebih sedikit mendapat hadiah lebih banyak daripada pemain yang memiliki lebih banyak trofi. Kompensasi akan memberi hadiah kepada orang berdasarkan kemajuan mereka sendiri. Semakin banyak Trofi yang kalian miliki, semakin banyak yang akan Kalian dapatkan (berdasarkan tingkatan Trofi, untuk setiap 2500 Trofi mulai dari 5000 Total Trofi).\n</p><ul><li><p><b>Mengapa butuh waktu seminggu?</b></p><p></p></li></ul><p>Terlepas dari banyak diskusi dan perhitungan tentang apa yang harus menjadi kompensasi, dan siapa yang harus mendapatkannya, kami harus mengembangkan fungsionalitas baru yang memungkinkan kami HANYA menargetkan pemain yang tidak terpengaruh oleh kerusakan/bug ini. Keputusan, pengembangan, pengujian, dan implementasi membutuhkan banyak waktu.\n</p><p>\n</p><p>Perbaikan 12/12\n\n- Memperbaiki masalah terkait hadiah Ambang Trofi yang tersedia lagi setelah pembaruan</p><p>Jagoan Baru: <b>Mandy</b> (Kromatik) Mandy adalah CEO Negeri Permen milik Star Park. Dia tampak manis, tapi itu hanya kedok untuk pelanggan. Ketika dia sendirian, dia selalu rewel, entah karena Chester mengganggunya, atau karena pelanggan tetap bertingkah seperti… pelanggan.</p><ul><li><p>Serangan: Dispenser Permen</p><ul><li><p>Mandy menembakkan permen dari Dispenser Permen. Saat diam, dia akan mendapatkan Fokus dan jangkauan serangannya akan meningkat.</p></li></ul></li><li><p>Super: Sinar Sukrosa</p><ul><li><p>Mandy menembakkan sinar sukrosa panjang yang mampu menembus lawan dan lingkungan serta menimbulkan kerusakan dahsyat.</p></li></ul></li><li><p>Gadget: Tembakan Karamel</p><ul><li><p>Permen selanjutnya yang ditembakkan Mandy dari Dispenser Permen akan melambatkan lawan selama 2,5 detik.</p></li></ul></li><li><p>Gadget: Kue Keras</p><ul><li><p>Permen selanjutnya yang ditembakkan Mandy dari Dispenser Permen akan menembus lawan dan lingkungan.</p></li></ul></li><li><p>Kekuatan Bintang: Dalam Jarak Pandang</p><ul><li><p>Saat sedang Fokus, kecepatan tembakan permen Mandy meningkat 20%.</p></li></ul></li><li><p>Kekuatan Bintang: Permen Pelindung</p><ul><li><p>Mandy akan menerima 20% perisai saat sedang Fokus.</p></li></ul></li></ul><p>Jagoan Baru: <b>Gray </b>(Mistis)</p><p>Bersama Lola, Gray adalah Brawler kedua dari trio Brawlywood! Dia tidak banyak bicara, tetapi menggunakan tubuh dan gerak tubuhnya untuk mengekspresikan dirinya.\n</p><ul><li><p>Serangan: Pistol Jari</p><ul><li><p>Dia menembak dalam garis yang bisa memberikan kerusakan terhadap musuh saat mengenainya.\n</p></li></ul></li><li><p>Super: Portal Antardimensi</p><ul><li><p>Gray menciptakan portal agar dia dan rekan tim bisa kabur dengan cepat dan menyerang secara diam-diam!</p></li></ul></li><li><p>Gadget: Tongkat Berjalan</p><ul><li><p>Serangan Pistol Jari berikutnya akan mengerahkan tongkat berjalan yang bisa menarik lawan mendekati Gray dalam jarak pendek.</p></li></ul></li><li><p>Gadget: Piano Besar</p><ul><li><p>Serangan Pistol Jari berikutnya akan meninggalkan tanda di lantai arena, di mana sebuah piano akan mendarat jatuh dan memberikan kerusakan pada lawan. Sangat disayangkan jika ada lawan yang terkena, betul ... ?</p></li></ul></li><li><p>Kekuatan Bintang: Cedera Palsu</p><ul><li><p>Saat kesehatan Gray penuh, kerusakan yang diterima berikutnya akan berkurang sebanyak 25%.</p></li></ul></li><li><p>Kekuatan Bintang: Perspektif Baru</p><ul><li><p>Saat Gray atau rekan Jagoan menggunakan Portal, kesehatan mereka akan pulih sebesar 1000.</p></li></ul></li></ul><p>Jagoan Baru:<b> Chester </b>(Legendaris)\n</p><p>Chester adalah orang iseng yang kacau dan sangat menyebalkan, terutama bagi Mandy. Dia menganggapnya lucu, tetapi hanya dengan itulah cara dia mengungkapkan kasih sayang.\n</p><ul><li><p>Serangan: Topi Berisik</p><ul><li><p>Chester menembakkan lonceng dalam pola kerucut dari topinya. Tembakan pertama mengeluarkan satu lonceng, kemudian dua, dan terakhir tiga lonceng.</p></li></ul></li><li><p>Atribut: Jack di dalam Kotak</p><ul><li><p>Jagoan ini memulai laga dengan kekuatan Super acak yang berubah setelah digunakan.</p></li></ul></li><li><p>Super: Permen Meledak</p><ul><li><p>Chester melemparkan permen meledak yang bisa menghancurkan lingkungan, menghantam mundur, dan memberikan kerusakan pada lawan.</p></li></ul></li><li><p>Super: Permen Keras</p><ul><li><p>Chester menembakkan permen besar dan keras yang memberikan efek kejut pada lawan yang dikenai.</p></li></ul></li><li><p>Super: Salmiakki</p><ul><li><p>Chester menyemprotkan bubuk salmiakki asin yang memberi efek racun pada lawan dan memberi kerusakan seiring waktu.</p></li></ul></li><li><p>Super: Permen Tajam</p><ul><li><p>Chester melemparkan Permen Tajam ke tanah yang bisa memberi kerusakan seiring waktu pada lawan yang berdiri diatasnya.</p></li></ul></li><li><p>Super: Min Segar</p><ul><li><p>Chester memakan permen min menyegarkan untuk menyembuhkan dirinya seiring waktu.</p></li></ul></li><li><p>Gadget: Dadu Pedas</p><ul><li><p>Chester akan mendapatkan kekuatan Super acak yang berbeda dengan yang dimiliki saat ini.</p></li></ul></li><li><p>Gadget: Permen Kacang</p><ul><li><p>Chester memakan permen kacang dengan rasa tak dikenal dari topinya, Dia akan mendapatkan peningkatan secara acak selama 5 detik.</p><ul><li><p>Peningkatan Kecepatan\n</p></li><li><p>Buff Kerusakan\n</p></li><li><p>Menyembuhkan seiring waktu</p></li></ul></li></ul></li><li><p>Kekuatan Bintang 1: Lonceng Mania</p><ul><li><p>Chester akan mengerahkan satu serangan tambahan dengan empat lonceng.</p></li></ul></li><li><p>Kekuatan Bintang 2: Intip Rahasia</p><ul><li><p>Chester akan selalu mengetahui kekuatan Super berikutnya.</p></li></ul></li></ul><p><b>Kostum Baru</b></p><p><b>Musim Negeri Permen</b></p><ul><li><p>Mandy Magma (Brawl Pass, Tingkat 70, 149 Permata)\n</p></li><li><p>Nita Permen Beruang (Brawl Pass, Tingkat 1, 79 Permata)\n</p></li><li><p>Ash Piñata (Liga Bintang, 25,000 Poin Bintang atau 149 Permata)\n</p></li><li><p>Buzzette (149 Permata)\n</p></li><li><p>Darryl Kue Mangkuk (149 Permata)\n</p></li></ul><p><b>Liburan Jagoan Kegelapan</b></p><p><b>Kostum Liburan Jagoan Kegelapan tidak bersifat musiman dan akan muncul di rotasi toko reguler.</b></p><ul><li><p>Amber Ratu Es (149 Permata)\n</p></li><li><p>Sam Yeti (149 Permata)\n</p></li><li><p>Ash Krampus (79 Permata)\n</p></li></ul><p><b>Imlek 2023</b></p><p><b>Skin Imlek 2023 tidak bersifat musiman dan akan muncul di rotasi toko reguler.</b></p><ul><li><p>Eve Baiku (149 Permata)\n</p></li><li><p>Griff Arkade (79 Permata)\n</p></li></ul><p><b>Lainnya</b></p><ul><li><p>Shelly Klasik (Liburan Jagoan, GRATIS pada 25 Desember)\n</p></li><li><p>Gus Juara Dunia (149 Permata)\n</p></li><li><p>Sam Boneka Beruang (Brawlentine, 29 Permata)\n</p></li><li><p>Mandy MC (29 Permata)\n</p></li><li><p>Chester Kegelapan (29 Permata)\n</p></li><li><p>Gray Buronan (29 Permata)\n</p></li></ul><p><b>Jalan Starr</b></p><p>Jalan Starr adalah cara baru untuk membuka Jagoan!\n</p><ul><li><p>Kalian akan membuka kunci semua Jagoan selain Kromatik di Jalan Starr\n</p></li><li><p>Bergantung pada pengalaman dan kemajuan Kalian dalam membuka Jagoan, Kalian akan memiliki Jagoan yang telah ditentukan sebelumnya untuk dibuka atau Kalian akan memiliki opsi untuk memilih Jagoan dengan kelangkaan tertentu dari daftar Jagoan yang telah ditentukan sebelumnya\n</p></li><li><p>Setiap kali Kalian mengumpulkan </p><p><b>Kredit</b></p><p> (lihat di bawah), Kalian akan mendapatkan kemajuan untuk membuka Jagoan itu\n</p></li><li><p>Jika Kalian memiliki opsi di antara beberapa Jagoan untuk Tingkat pembukaan itu, Kalian dapat beralih di antara opsi ini kapan saja dan Kalian akan mendapatkan kesempatan terakhir untuk beralih setelah Kalian mengumpulkan semua Kredit yang diperlukan untuk kelangkaan Jagoan tersebut\n</p></li><li><p>Saat Jagoan baru dirilis, Kalian dapat beralih untuk membuka brawler tersebut jika Kalian memenuhi persyaratan (lihat di bawah)\n</p></li><li><p>Jika Kalian mengumpulkan semua Jagoan </p><p><b>non-Kromatik</b></p><p>, semua </p><p><b>Kredit</b></p><p> yang terkumpul mulai saat itu akan masuk ke Kemajuan </p><p><b>Ketenaran</b></p><p> Kalian.\n</p></li><li><p>Kalian dapat </p><p><b>mempercepat</b></p><p> progres membuka Jagoan menggunakan Permata kapan pun di Jalan Starr atau dari layar Jagoan\n</p></li><li><p>Semua Jagoan sekarang dapat dibeli dengan </p><p><b>Permata</b></p><p> kapan saja dari layar Jagoan\n</p></li></ul><p><b>Toko Kromatik</b></p><ul><li><p>Kalian dapat membeli Jagoan Kromatik pilihan Kalian menggunakan </p><p><b>Kredit Chroma</b></p><p> atau </p><p><b>Permata</b></p><p></p></li><li><p>Untuk membeli Jagoan dengan Kredit Chroma, kalian harus memenuhi persyaratan minimum Jagoan tersebut yang didasarkan pada berapa banyak Jagoan Kromatik lain yang Kalian miliki saat itu\n</p></li><li><p>Jika semua Jagoan telah terkumpul, Kredit Chroma dapat digunakan untuk membeli kemajuan Ketenaran\n</p></li><li><p>Harga untuk Jagoan Kromatik (dalam Kredit Chroma dan Permata) mengikuti rumus penurunan kelangkaan Kromatik normal per musim, yaitu selama musim nilai Jagoan adalah Legendaris, kemudian Mistis, dan terakhir, Epik. Untuk membeli Jagoan Kromatik musim ini, Kalian juga harus mencapai Tingkat 30 di Brawl Pass. Chromatic Brawler terbaru tidak dapat langsung dibeli untuk Permata karena lebih baik membukanya dari Brawl Pass Premium dalam kasus khusus ini.\n</p></li></ul><p><b>Jagoan Baru Rilis di Jalan Starr</b></p><p>Setiap kali kami merilis Jagoan baru di Jalan Starr, Kalian dapat memilih untuk mengalihkan progres buka kunci Kalian saat ini ke Jagoan baru. Namun, kami telah menerapkan beberapa aturan untuk melindungi pemain baru dan yang sudah ada agar tidak &quot;macet&quot; saat membuka Brawler terlalu lama.\n</p><ul><li><p>Agar memenuhi syarat untuk membuka Jagoan yang baru dirilis, Kalian </p><p><b>harus membuka Jagoan dengan kelangkaan tersebut sebelum rilis</b></p><p></p></li><li><p>Jendela keputusan untuk beralih membuka Jagoan yang baru dirilis adalah </p><p><b>7 hari</b></p><p>, setelah itu Jagoan akan dipindahkan ke ujung Jalan Starr\n</p></li><li><p>Setelah Kalian membuat keputusan untuk membuka Jagoan yang baru dirilis, Kalian dapat memutuskan untuk mengabaikan proses membuka kunci dan kembali untuk membuka Jagoan sebelumnya yang sedang Kalian kerjakan - jika Kalian memilih untuk melakukannya, Kalian tidak akan dapat pergi kembali untuk membuka Brawler yang baru dirilis dan akan dipindahkan ke ujung Jalan Starr\n</p></li></ul><p><b>Perubahan Mata Uang</b></p><p><b>Berubah:</b></p><ul><li><p><b>Poin Kekuatan</b></p><ul><li><p>Semua </p><p><b>Poin Kekuatan khusus Brawler</b></p><p> dan </p><p><b>Kartu Bebas Poin Kekuatan</b></p><p> sekarang menjadi </p><p><b>Poin Kekuatan</b></p><p></p></li><li><p><b>Poin Kekuatan (PP)</b></p><p> sekarang menjadi mata uang yang dapat diakumulasikan di seluruh akun\n</p></li><li><p>Kapasitas maksimal yang dapat ditampung pemain: </p><p><b>4.000</b></p><p></p></li></ul></li></ul><p><b>Ditambahkan:</b></p><ul><li><p><b>Kredit</b></p><p>\n</p><p></p><ul><li><p>Digunakan untuk </p><p><b>membuka kunci semua Jagoan non-Kromatik</b></p><p> melalui Jalan Starr yang baru\n</p></li><li><p>Diperoleh dari sebagian besar sumber (Brawl Pass, Ambang Trofi, Toko, Tugas dan Tantangan)\n</p></li></ul></li><li><p><b>Kredit Kroma</b></p><ul><li><p>Diperoleh dari jalur Brawl Pass Gratis atau Toko\n</p></li><li><p>Digunakan untuk membeli Jagoan Kromatik dari </p><p><b>Toko Kromatik</b></p><p></p></li><li><p>Kapasitas maksimal yang dapat ditampung pemain: </p><p><b>5.000</b></p><p></p></li></ul></li></ul><p><b>Brawl Pass</b></p><ul><li><p>Hadiah dari Brawl Pass telah berubah secara signifikan sejak Kotak Jagoan dihapus dari permainan</p></li><li><p>Mengingat perubahannya, sekarang Kalian hanya dapat &quot;mengamankan&quot; satu musim Brawl Pass sebelumnya (turun dari dua) - musim yang lebih lama akan diklaim secara otomatis saat Kalian mencapai batas\n</p></li><li><p>Hadiah &quot;bonus&quot; untuk Brawl Pass berubah dari Kotak Besar untuk setiap 500 Token menjadi Hadiah khusus:</p><ul><li><p>Kredit x 27\n</p></li><li><p>koin x 145\n</p></li><li><p>Poin Kekuatan x 38\n</p></li></ul></li></ul><p><b>Klaim Otomatis &amp; Kompensasi Luar Biasa untuk pemilik Brawl Pass Premium</b></p><p>Pada 12 Desember 2022, semua Brawl Box yang tidak diklaim dalam inventaris Kalian akan diklaim secara otomatis. Hal ini memengaruhi Brawl Pass (musim sebelumnya dan musim saat ini), Ambang Trofi, dan Kotak Jagoan lama yang disimpan sebelum Brawl Pass diperkenalkan. Jagoan yang dirilis mulai 12 Desember 2022 dan seterusnya tidak dapat lagi dikeluarkan dari Kotak Jagoan, tetapi Kalian masih dapat membuka Jagoan lama dari kotak ini.\n</p><ul><li><p>Pemain yang membeli Brawl Pass Premium </p><p><b>sebelum</b></p><p> Pembaruan tiba pada 12-Desember 2022 akan menerima kompensasi awal tambahan Kredit berdasarkan kemajuan musiman Kalian saat ini, yaitu semakin jauh Kalian berada di musim Brawl Pass sebelum pembaruan tiba, semakin banyak Kredit yang akan Kalian terima!\n</p></li><li><p>Pemain yang membeli Brawl Pass Premium sebelum Pembaruan tiba dan pemain yang membeli Brawl Pass Premium selama musim berjalan (yang berakhir pada 2 Januari-2023) akan menerima kompensasi satu kali yang luar biasa sebesar 80 Permata (senilai IDR 79,000) yang dapat diklaim di Toko!\n</p></li></ul><p><b>Hadiah Pengganti</b></p><p>Di mana pun Kotak Jagoan diberikan akan ada hadiah pengganti, dan hadiah telah diganti.\n</p><ul><li><p>Saat Power Point diberikan, Kalian sekarang mendapatkan Koin dengan perbandingan 1 Power Point berbanding 2 Koin.\n</p></li><li><p>Paket Pin di Brawl Pass memiliki hadiah pengganti sebesar 275 Kredit\n</p></li></ul><p><b>Toko Harian</b></p><p>Karena kami telah menghapus Kotak Jagoan dan Poin Kekuatan khusus Jagoan serta memungkinkan Kalian untuk membeli Kekuatan Bintang dan Gadget langsung dari Halaman Brawler, kami telah membuat keputusan untuk menghapus Toko Harian dalam bentuknya saat ini, namun - kami akan tetap menawarkan Kalian hadiah harian GRATIS. Kami mungkin akan memperkenalkan kembali Toko Harian di masa mendatang.\n</p><ul><li><p>Toko Harian telah sepenuhnya dihapus\n</p></li><li><p>Hadiah GRATIS harian baru telah ditambahkan ke Toko\n</p></li><li><p>Hadiah yang mungkin:</p><ul><li><p>Koin</p></li><li><p>Poin Kekuatan</p></li><li><p>Kredit</p></li><li><p>Kredit Kroma</p></li></ul></li></ul><p><b>Buster</b></p><p><b>Buster Mistis Baru:</b></p><ul><li><p>Crow - Meningkatkan kerusakan yang dilakukan oleh efek racun sebesar 30%\n</p></li><li><p>Leon - Meningkatkan durasi super sebanyak 1 detik\n</p></li><li><p>Sandy - Mengurangi kerusakan musuh sebesar 10% saat Badai Pasir (Super)\n</p></li><li><p>Spike - Super sekarang memperlambat 50% lebih efektif\n</p></li></ul><p><b>Item Kosmetik Baru</b></p><p><b>Pin</b> x 64\n</p><ul><li><p>Chester x 9 (animasi)\n</p></li><li><p>Mandy + Magma Mandy x 18 (animasi)\n</p></li><li><p>Gray x 9 (animasi)\n</p></li><li><p>Kostum Baru x 11\n</p></li><li><p>Kostum Lama x 9\n</p></li><li><p>Musiman x 8 (animasi)\n</p></li></ul><p><b>Cat Baru </b>x 16\n</p><ul><li><p>Jagoan Legendaris x 7\n</p></li><li><p>Ulang Tahun Brawl Stars ke-4 x 2\n</p></li><li><p>Negeri Permen (Musim Brawl Pass) x 2\n</p></li><li><p>Brawlentine x 2\n</p></li><li><p>Hadiah Gratis Liburan Jagoan x 2\n</p></li><li><p>Imlek x 1\n</p></li></ul><p><b>Ikon Profil </b>x 21\n</p><ul><li><p>Senioritas Game x 4 (Ikon Profil Ulang Tahun)\n</p></li><li><p>Musiman + Tema Pembaruan x 17\n</p></li></ul><p><b>Tantangan</b></p><ul><li><p><b>Tantangan Liburan Jagoan </b></p><p>(Dapatkan Ikon Profil berdasarkan Pin Liburan Jagoan sebelumnya)\n</p></li><li><p><b>Tantangan Arkade</b></p><p> (Dapatkan Ikon Profil berdasarkan Kostum Arkade baru)\n</p></li><li><p><b>Tantangan Set Pin Shelly </b></p><p>(Semua Pin default Shelly - Seperti Tantangan Set Pin Nita yang kami miliki sebelumnya)\n</p></li><li><p><b>Tantangan Valentine </b></p><p>(Tantangan Duo Showdown - Dapatkan dua bagian hati)\n</p></li></ul><p><b>tugas</b></p><ul><li><p>Jagoan sekarang dapat didefinisikan sebagai hadiah tugas\n</p></li></ul><p><b>Peta, Mode Permainan &amp; Perubahan Rotasi</b></p><ul><li><p>7 Peta Duel Baru untuk persiapan Duel menjadi Mode Game permanen</p><ul><li><p>Hamilton&#39;s End\n</p></li><li><p>Black River\n</p></li><li><p>Petticoat Duel\n</p></li><li><p>Swallow Cut\n</p></li><li><p>No excuses\n</p></li><li><p>Gladiators\n</p></li><li><p>Hotheaded\n</p></li></ul></li><li><p>Pencuri Hadiah alis Pencuri Trofi Alias Present Plunder telah... kembali!\n</p></li></ul><p><b>Perubahan Lingkungan Peta</b></p><p>Ditambahkan:\n</p><ul><li><p>Negeri Permen (Baru)\n</p></li><li><p>Permainan Perkelahian</p></li><li><p>Mr.C Snowtel</p></li></ul><p>Dihapus:\n</p><ul><li><p>Retropolis\n</p></li></ul><p><b>Perubahan Keseimbangan</b></p><p><b>Buff</b></p><ul><li><p><b>Mr. C</b></p><ul><li><p>Peningkatan kerusakan dasar 720 → 760 (+5%) Mr. C telah merasakan efek dari pandangan ekonomi, tetapi untungnya telah berinvestasi dalam saham yang tepat dan mendapatkan kembali sebagian kekuatannya!\n</p></li></ul></li><li><p><b>El Primo</b></p><ul><li><p>Peningkatan kerusakan Super 800 → 960 (+20%) Eeeel Buffoooo! Memberinya lebih banyak kekuatan untuk supernya seharusnya membuatnya lebih berbahaya dan memiliki lebih banyak ledakan untuk musuh!\n</p></li></ul></li><li><p><b>Colt</b></p><ul><li><p>Peningkatan kecepatan proyektil serangan Dasar 3804 → 4000 (+5%) Perubahan Colt?! Kalian membacanya dengan benar. Master penembak kami telah tertinggal di belakang beberapa jagoan berbasis proyektil yang lebih baru dan lebih bersinar. Menambahkan beberapa kecepatan proyektil membuatnya sedikit lebih mudah untuk mendaratkan tembakannya, tetapi tetap memberikan bidikan yang tepat dan membuatnya menjadi petarung dengan skill yang lebih tinggi.\n</p></li></ul></li><li><p><b>Jessie</b></p><ul><li><p>Peningkatan Kesehatan Turret 3000 → 3300 (10%) Jessie dan turretnya sebagian besar telah dikalahkan pada level permainan yang lebih tinggi, karena turretnya sangat rentan dan biasanya dapat dihancurkan tanpa terlalu banyak keributan. Memberikannya lebih banyak Kesehatan mengubah beberapa interaksi, dan juga merupakan buff untuk kemampuannya tetap hidup dengan Kekuatan Bintangnya. Scrappy, aku memilihmu!\n</p></li></ul></li><li><p><b>Bull</b></p><ul><li><p>Peningkatan kerusakan Super 800 → 960 (+20%) Bull telah berada di kapal yang sama dengan Primo, dan karenanya dapat menggunakan perubahan serupa karena supernya cukup mengecewakan untuk digunakan dalam banyak waktu. Seharusnya sekarang menjadi lebih baik terlibat dan dapat mengakhiri lawan.\n</p></li></ul></li><li><p><b>Bibi</b></p><ul><li><p>Peningkatan Kesehatan Dasar 4400 → 4600 (+5%) Meskipun Bibi belum banyak melakukan homerun akhir-akhir ini, dia masih lebih baik dari sebelumnya! Beberapa kesehatan harus membantunya menghadapi beberapa petarung yang lebih lincah dan cepat dan benar-benar berhasil memanfaatkan kerusakannya yang sudah cukup mengesankan.\n</p></li></ul></li><li><p><b>Grom</b></p><ul><li><p>Peningkatan kerusakan Dasar 1100 → 1160 (+5%)\n</p></li><li><p>Peningkatan kecepatan proyektil serangan dasar 800 → 880 (+10%) Bom lebih cepat! Seharusnya membantunya memukul tembakannya sedikit lebih baik, tetapi masih memberikan waktu untuk menghindar bagi mereka yang telah membaca polanya dengan benar.\n</p></li></ul></li><li><p><b>Dynamike</b></p><ul><li><p>Pengurangan waktu mempersenjatai serangan dasar 1100 ms → 1000 ms (-10%) Masalah dengan petarung eksplosif favorit kami adalah semakin baik Kalian mendaratkan tembakan, semakin baik lawan Kalian dalam menghindar. Penundaan dinamitnya untuk meledak membuat sebagian besar pemain merasa cukup mudah untuk menghindarinya sebelum aktivasi. Mengurangi jendela itu akan membuatnya sedikit lebih sulit untuk dihindari dan memberikan bidikan yang bagus. Ini juga berarti kami melakukan buff Dyna-Jumps, tetapi Anda tidak dapat menggandakan Dyna-Jump lagi. Kami memahami ini mungkin membuat beberapa Dyna-Jumpers kesal, tetapi sebelum melakukan yang terbaik di Media Sosial, beri tahu kami jika buff berhasil untuknya! Kita bisa mengatur lompatan nanti.\n</p></li></ul></li><li><p><b>Sam</b></p><ul><li><p>Peningkatan Kesehatan Dasar 5200 → 5400 (+4%) Dia mengalami kesulitan memberikan pukulan yang dia mampu lakukan setelah nerf sebelumnya ke kekuatan bintangnya. Perubahan kesehatan akan membantunya menjadi lebih efektif tanpa kekuatan penyembuhan bintang, dan juga sedikit meningkatkannya, tetapi masih tidak pada tingkat yang sama dengan pra-nerf. Semoga balas dendam terhadap robot akan kembali.\n</p></li></ul></li><li><p><b>Gene</b></p><ul><li><p>Buster - Panjang Tangan - Ubin meningkat dari 1 → 3 Jaraknya lebih jauh tapi kami terus kehilangan Supernya, jadi mungkin ada yang salah dengan Busternya\n</p></li></ul></li></ul><p>Nerf</p><ul><li><p><b>Otis</b></p><ul><li><p>Mengurangi kerusakan dasar 460 → 440 (-5%) (Lelucon tentang makhluk laut yang muncul ke permukaan). Keserbagunaannya bersama dengan kerusakannya membuatnya menjadi pilihan yang sangat bagus di sebagian besar waktu setelah buff sebelumnya, jadi menurunkan kerusakannya seharusnya membuatnya tetap cukup baik, tetapi juga memungkinkan petarung lain untuk mengisi perannya secara memadai.\n</p></li></ul></li><li><p><b>Griff</b></p><ul><li><p>Mengurangi pengisian Super dari serangan Super sekitar 23%</p></li><li><p>Pengurangan pengisian Super dari serangan utama 10%</p><p>\n</p><p>Griff, ironis kedengarannya, terlalu lama berada dalam meta. Dia hanya memiliki waktu yang terlalu mudah untuk mendapatkan supernya dan memutarnya, sekarang pemain Griff harus sedikit lebih berhati-hati tentang kapan harus menggunakan super, dan juga akan memberikan tujuan yang lebih baik.</p></li></ul></li><li><p><b>Cam</b></p><p>\n</p><p></p><ul><li><p>Mengurangi kerusakan dasar 1580 → 1480 (6%)\n</p></li><li><p>Pengurangan Kesehatan Dasar 5000 → 4800 (4%) Cam, meski tidak terlalu Over Power, dia masih terlalu kuat, terutama di tangan terampil. Menurunkan beberapa kerusakan dan basis kesehatannya memudahkan lebih banyak petarung untuk berhadapan langsung dengannya. Dia masih yang terbaik yang bisa kamu temukan di Starr Park.\n</p></li></ul></li><li><p><b>Gale</b></p><ul><li><p>Pengurangan pengisian Super dari serangan dasar 120 → 90 (-25%)\n</p></li><li><p>Mengurangi pengisian super dari super 170 → 100 (-40%)\n</p></li><li><p>Durasi Gadget Tornado dikurangi dari 200 → 100 (-50%) Gale telah menjadi raja kontrol dan TERBAIK untuk memilih sebagian besar peta bola perkelahian karena pertahanannya yang luar biasa, tetapi juga secara tunggal dapat melawan hampir setiap tank dalam permainan. Seperti Mr.C, kami juga tidak ingin pensiun darinya, tetapi jelas dia mampu melakukan siklus super dan mampu mematikan sebagian besar petarung, tidak hanya tank. Mengurangi kontrolnya sedikit berarti Kalian sekarang harus mendaratkan lebih banyak tembakan untuk mendapatkan akses ke kontrol dan ledakan itu.\n</p></li></ul></li></ul><p><b>Perbaikan Kerusakan</b></p><ul><li><p>Peningkatan kinerja game pada perangkat iOS kelas bawah\n</p></li><li><p>Menambahkan VFX untuk Frankengrom\n</p></li></ul>"
+          }
+        }
+      },
+      {
+        "id": "7eu5C9sy23grkGeHvAV4NKIryBWGkB47mxYs7fQxADE",
+        "metadata": {
+          "id": "7eu5C9sy23grkGeHvAV4NKIryBWGkB47mxYs7fQxADE",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:30:50.609Z"
+        },
+        "postDate": "1674535920",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Perubahan Supercell ID untuk membuat akun Anda lebih aman!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0124 Scid Security Thingy 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/NTDLiYUSLQvyUqcWCj859t2NL0AtlshGk2bjRmWlpkE/ad10d2aebf2875e55213ae555eb30dad/1491121163_1674556269.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "0124 Scid Security Thingy 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IH1PLVMGA3X555uprwK_BbCvFLapaANbfakxP2f-b9s/b2c49f67572cbe713f0396df997fd0f0/1740652461_1674556280.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Perubahan Supercell ID untuk membuat akun Anda lebih aman!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p><b>Mengubah Alamat Email SCID Anda</b></p><p>Saat Anda mengubah alamat email yang terkait dengan akun SCID Anda, Anda harus memasukkan kode konfirmasi yang dikirimkan ke alamat email terdaftar saat ini.\nBagian luar biasa dari fitur ini adalah mengubah alamat email terdaftar Anda akan memperbarui semua game kami yang terlampir ke Supercell ID Anda.</p><p>\n</p><p><b>Fitur Perlindungan Akun Baru</b></p><p>Fitur keamanan baru sekarang ditambahkan ke akun SCID Anda. Mengaktifkan fitur ini memungkinkan Anda melindungi akun Anda dari pemulihan atau “phishing” oleh pihak jahat. Cara fitur Perlindungan Akun mengamankan akun Anda adalah dengan meminta siapa pun yang memulihkan akun Anda untuk memberikan kode yang hanya dapat Anda terima ke ponsel atau kode pemulihan Anda.</p><p>Mengaktifkan Perlindungan Akun</p><p>Untuk menggunakan fitur Perlindungan Akun yang baru, Anda memerlukan:</p><ul><li><p>Nomor telepon aktif yang dapat Anda akses dan dapat menerima pesan SMS.</p></li><li><p>Tempat cadangan yang aman bagi Anda untuk menyimpan kode pemulihan cadangan tambahan jika Anda kehilangan akses ke ponsel atau kehilangan ponsel itu sendiri.</p></li></ul><p>Anda dapat mengaktifkan fitur Perlindungan Akun dalam game di bawah Pengaturan, lalu mengetuk &quot;Supercell ID&quot;. Petunjuk di layar akan memandu Anda melalui proses untuk mengaktifkan fitur perlindungan. Setelah Perlindungan Akun diaktifkan, itu tidak dapat dinonaktifkan.</p><p>\n</p><p><b>Kode Pemulihan Cadangan</b></p><p>Apa yang Anda lakukan jika Anda kehilangan akses ke nomor telepon yang terdaftar di akun SCID Anda? Kami tahu mengubah perangkat seluler Anda adalah bagian dari kehidupan, baik karena rusak secara tidak sengaja, tertinggal di bus, atau Anda baru saja mendapatkan perangkat baru. Saat Anda mengaktifkan fitur Perlindungan Akun, Anda akan dapat membuat kode pemulihan cadangan.</p><p>Kode ini untuk berjaga-jaga jika Anda kehilangan akses ke nomor telepon Anda dan tidak dapat mengambil kode verifikasi SMS. Anda juga dapat menggunakan kode cadangan ini. Kami sangat menyarankan Anda menyimpan kode ini di tempat yang aman.</p><p>Setiap kode pemulihan cadangan hanya dapat digunakan sekali, meskipun Anda selalu dapat membuat kode pemulihan cadangan baru.</p><p><b>CATATAN: Jika Anda kehilangan akses ke nomor dan alamat email yang terdaftar di akun SCID Anda dan Anda kehilangan kode pemulihan cadangan, Anda TIDAK akan dapat memulihkan akun Anda.</b></p><p><b>Selain itu, jika Anda telah membagikan akun atau informasi akun Anda dengan orang lain di masa lalu, Dukungan tidak akan dapat memberikan bantuan untuk perselisihan antara individu berbeda yang mencoba mengaktifkan Perlindungan Akun di satu akun.</b></p><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fhelp.supercellsupport.com%2Fbrawl-stars%2Fen%2Farticles%2Fap.html')\">Jika Anda ingin mengetahui lebih lanjut tentang fitur ini TAP DI SINI!</a></p>"
+          }
+        }
+      },
+      {
+        "id": "k4WnmdhnZz2LJFLjU1jGqt6f-wm_53s6kqDWqPMiBZU",
+        "metadata": {
+          "id": "k4WnmdhnZz2LJFLjU1jGqt6f-wm_53s6kqDWqPMiBZU",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:31:36.458Z"
+        },
+        "postDate": "1674205671",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Kekuatan Bintang dan Gadget kedua Mandy!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/DHsQQVdrY9oAw_eb9Y1XqomBrUFBifdi5qo-tsSR4V0/ebee107a3a38441efbfdd1103e1b02cc/2026648866_1674199230.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "0119 Mandys 2Nd Sp And Gadget 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/GahTJfJFGwOeWDUqBxMpCYyELaI9QlKpXc5VnOVDJNc/c8e7024cb0f518636d5341739bd360d7/1356091560_1674199351.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Gadget dan Star Power kedua Mandy kini ada di sini! </p><p>Gadget: Kue Keras\nPermen Mandy berikutnya dari Candy Dispenser-nya menusuk musuh dan lingkungan</p><p>Kekuatan Bintang: Permen Pelindung\nMandy menerima 20% perisai saat fokus</p>"
+          }
+        }
+      },
+      {
+        "id": "IR1hu-8hY20ItBoiyVDMfNFml7gOFHN4flgx0KWb6Mo",
+        "metadata": {
+          "id": "IR1hu-8hY20ItBoiyVDMfNFml7gOFHN4flgx0KWb6Mo",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:31:58.317Z"
+        },
+        "postDate": "1673860200",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Tahun Baru Imlek dengan Hadiah Gratis! ",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0116 Eve Lunar New Yea 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/bJ6em0giL-djkcUKe9nS0PS99EUlm3dTobxVaaEAnmM/e033d38f03b29206e1551764ca05811d/654523808_1673854365.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "0116 Eve Lunar New Yea 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/I7MJWVPZMDH__F5ralZhTgRpHabPBwiA2Bx1w-DyIOc/74159942ef9dd4946f5feadb19cc21d0/1481672935_1673854375.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Acara Tahun Baru Imlek!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Acara Tahun Baru Imlek dimulai sekarang!</p><ul><li><p>Kostum Tahun Baru Imlek 2021 dan 2022 telah kembali!\n</p></li><li><p>Eve Baiku (dirilis pada 17 January 17)\n</p></li><li><p>Griff Arcade (dirilis pada 18 January)\n</p></li><li><p>Hadiah Gratis!</p><ul><li><p>Hari 1 - 90 Kredit</p></li><li><p>Hari 2 - 400 Pengganda Token</p></li><li><p>Hari 3 - 50 Kroma Kredit</p></li><li><p>Hari 4 - 200 Koin</p></li><li><p>Hari 5 - 100 Poin Kekuatan</p></li><li><p>Hari 6 - Pin Tahun Baru Imlek</p></li><li><p>Hari 7 - 90 Kredit + 50 Kroma Kredit</p></li></ul></li><li><p>Tantangan Untuk Ikon Profil</p></li><li><p>Tugas Spesial untuk sebuah Cat</p></li><li><p>Hujan Koin dimulai dari 20 Januari sampai 22 Januari</p></li></ul><p>Main setiap hari untuk mendapatkan semua hadiah!!</p>"
+          }
+        }
+      },
+      {
+        "id": "ob9AoU6OL56dmNCr6rhxrsosudiJ5lWB0E5Wl7gmfow",
+        "metadata": {
+          "id": "ob9AoU6OL56dmNCr6rhxrsosudiJ5lWB0E5Wl7gmfow",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:32:30.345Z"
+        },
+        "postDate": "1673343281",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Supercell MAKE - Kehidupan seorang Bajak Laut untuk Surge!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "0110 Make Surge Illustration 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rosz7Wii1cd6GmO5zeWc_Aj6RBZ3I3MVDmEAANm92zE/590aef629d897aad9876a68547410c1a/1944897667_1673340202.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "smallRetina": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "medium": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "mediumRetina": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "large": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          },
+          "largeRetina": {
+            "title": "0110 Make Surge Illustration 1600X443",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ihFlAxrJ5F83GKjCTOQTgqg4PCkjjLMYLVqyflC0ziQ/b5129938a65ed1864709e8e36d863bf1/237471632_1673340190.jpg?w=1600&h=443&fit=fill&f=center",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Supercell MAKE - Kehidupan seorang Bajak Laut untuk Surge!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Kampanye Supercell MAKE baru telah tiba! Kali ini, alih-alih melindungi Kota Super, dia akan melindungi Tujuh Lautan dengan pakaian seperti bajak laut! Terserah Kalian untuk mendesainnya! Pengajuan dimulai pada 12 Januari pukul 16:00 WIB. Pastikan untuk membaca semua pedoman dan lihat kostum bajak laut kami sebelumnya untuk mendapatkan inspirasi, tetapi jangan ragu untuk menjadi gila dan terinspirasi oleh apa pun yang berhubungan dengan tema!</p><p>Semoga berhasil, sobat! <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmake.supercell.com%2Fen')\">https://make.supercell.com/en</a></p>"
+          }
+        }
+      },
+      {
+        "id": "HHZPkjO7EFoiW5YZJdmsz1As1Ug6pTZZlBoPUBNr_iY",
+        "metadata": {
+          "id": "HHZPkjO7EFoiW5YZJdmsz1As1Ug6pTZZlBoPUBNr_iY",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:32:31.049Z"
+        },
+        "postDate": "1672648200",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Season 16 video! #NegeriPermen",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/l5pGrW3R9u0",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Thumb En A 1280X720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fBoNraMYbEPRXp6a6MdWUfTiVVapxC616UBCD-a-wxA/8f9029431d2178dccff5b10bd65b2c5e/608322296_1672647639.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "MV81ZAfozHiZrY_1GJuMcJ0WQTfRK4cT7l9PJpHQ7xE",
+        "metadata": {
+          "id": "MV81ZAfozHiZrY_1GJuMcJ0WQTfRK4cT7l9PJpHQ7xE",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:33:01.614Z"
+        },
+        "postDate": "1672484940",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Apakah Kalian memenangkan Brawlies tahun ini? Tonton videonya untuk mencari tahu!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/xGd_HhPYX4A",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "1231 Brawiles 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M2xD5pDqxh4JeoWeFRpQEc145OSd00qVFnKIui__N9Q/06c8ddd1f0c2e852bd248a1a24c0b520/2122885898_1672483632.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "5nxtwLJ0aQ99xl_lw2aZG3QR7MH3Py_Zjm-VatAygMA",
+        "metadata": {
+          "id": "5nxtwLJ0aQ99xl_lw2aZG3QR7MH3Py_Zjm-VatAygMA",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:33:15.397Z"
+        },
+        "postDate": "1672302300",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "2021 Brawlies bloopers selagi menunggu untuk Brawlies 2022! ",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/jfrZ4eSL9cc",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "1231 Bloopers21 800X433",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/v4ziLBU3joGmorziew3w3B6Mahi4_0puLbtcr3NmLx8/920aff4c40bab82d1cebfb3a6f1dd97f/1415999220_1672236172.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "r54KZDHs0DZX3BPao4atlK05xA2ps1Y2PVBBmmu7DsI",
+        "metadata": {
+          "id": "r54KZDHs0DZX3BPao4atlK05xA2ps1Y2PVBBmmu7DsI",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:33:44.183Z"
+        },
+        "postDate": "1671280977",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Animasi baru! Liburan Jagoan Kegelapan di Negeri Permen",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/Od28DKIU60o",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Thumbnails01",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HbeIh6DDIqYfJEyk_ljY7WSgRyHB2vvynJxbo4eeq4/7f233e523c85533ef429faf8a4e5ddaa/53696095_1671267953.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "DejrthYK52b1uTNwHd74c-VKi8O8u_UIhq0sLjE35Dk",
+        "metadata": {
+          "id": "DejrthYK52b1uTNwHd74c-VKi8O8u_UIhq0sLjE35Dk",
+          "publishedVersion": 1,
+          "publishedAt": "2023-02-24T08:34:04.836Z"
+        },
+        "postDate": "1670990760",
+        "lang": "id",
+        "section": "newsEntries",
+        "title": "Snapdragon Pro Series - Season 2 Total Hadiah $52,000 TELAH HADIR!",
+        "categories": [],
+        "newUntil": "1677662930",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "S2 Asia In App Signup Promo Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BbKyTsLqurpB6Dg6uOvbR5haCZ72OybZRiNNBmZXH7s/68a53cec1f595fecc8ddb8d383bfe62b/615415774_1670990745.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Snapdragon Pro Series - Season 2",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Snapdragon Pro Series - Season 2 TELAH HADIR!</p><p>Apakah Kalian ingin merasakan pertandingan besar dan bertanding dengan para pemain Kelas Dunia Brawl Stars di Asia Pasifik?\n</p><p>Ayo daftarkan segera Tim terbaik kalian di Snapdragon Pro Series - Season 2 dan menangkan Total Hadiah hingga $52,000!</p><p>Dapatkan juga kesempatan untuk mendapatkan Tiket menuju Snapdragon Mobile Master di Dreamhack Japan!</p><p>Berikut Link Pendaftaran Snapdragon Pro Series - Season 2\n<a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fap.snapdragonproseries.com%2Fbrawl-stars%2F%3Ffbclid%3DIwAR39_h1KfAtMNSUWmNy2xuK4u7Cd0cP_FVlMEWtV3xm-RuHCUBBXm89QG78%23%2Fjoin')\">https://ap.snapdragonproseries.com/brawl-stars/#/join</a></p><p>Buktikan jika Kalianlah Brawler terbaik di Asia Pasifik!</p><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.facebook.com%2Fhashtag%2Feslbrawlstars%3F__eep__%3D6%26__cft__%255B0%255D%3DAZUnRiOY1v73-k8gPiIrHFGANEUlo7F2G0Nu2MGuuw0AK2J6lTcF7WjNRT_s40RMEaVSEfOo5hNRAEq5RpN5B9T73oJ7pv36hvp1umtY6cjQirUlBmJCdmrs4cRXNOaRo3p146IxksxmiGEbYxwpv5gBpb6L-c1wXQl8Krxjl1w1mA%26__tn__%3D*NK-R')\">#ESLBrawlStars</a> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.facebook.com%2Fhashtag%2Fsnapdragonproseries%3F__eep__%3D6%26__cft__%255B0%255D%3DAZUnRiOY1v73-k8gPiIrHFGANEUlo7F2G0Nu2MGuuw0AK2J6lTcF7WjNRT_s40RMEaVSEfOo5hNRAEq5RpN5B9T73oJ7pv36hvp1umtY6cjQirUlBmJCdmrs4cRXNOaRo3p146IxksxmiGEbYxwpv5gBpb6L-c1wXQl8Krxjl1w1mA%26__tn__%3D*NK-R')\">#SnapdragonProSeries</a> <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.facebook.com%2Fhashtag%2Fbrawlstarsesports%3F__eep__%3D6%26__cft__%255B0%255D%3DAZUnRiOY1v73-k8gPiIrHFGANEUlo7F2G0Nu2MGuuw0AK2J6lTcF7WjNRT_s40RMEaVSEfOo5hNRAEq5RpN5B9T73oJ7pv36hvp1umtY6cjQirUlBmJCdmrs4cRXNOaRo3p146IxksxmiGEbYxwpv5gBpb6L-c1wXQl8Krxjl1w1mA%26__tn__%3D*NK-R')\">#BrawlStarsEsports</a>\n</p>"
+          }
+        }
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langCastYourVote": "Berikan Suaramu",
+    "globalText.esportLive": "",
+    "globalText.esportFollowing": "",
+    "globalText.esportChangeRegion": "",
+    "globalText.esportFollow": "",
+    "globalText.esportDone": "",
+    "communityText.langLive": "Langsung",
+    "globalText.langNew": "Baru",
+    "globalText.langHourCountdown": "j",
+    "globalText.langDayAgo": "{x} hari yang lalu",
+    "globalText.langDays": "hari",
+    "globalText.langDaysAgo": "{x} hari yang lalu",
+    "globalText.langHourAgo": "{x} jam yang lalu",
+    "globalText.langHoursAbbreviated": "j",
+    "globalText.langMinuteAgo": "{x} menit yang lalu",
+    "globalText.langMinutesAgo": "{x} menit yang lalu",
+    "globalText.langMinutesAbbreviated": "mnt",
+    "globalText.langLoading": "Memuat...",
+    "globalText.langVoteTryAgainLabel": "Coba Lagi",
+    "globalText.langYouVoted": "Telah Memilih",
+    "globalText.langHoursAgo": "{x} jam yang lalu",
+    "globalText.langHoursCountdown": "j",
+    "globalText.langNewer": "Lebih Baru",
+    "globalText.langOlder": "Lebih Lama"
+  },
+  "socialLinks": [
+    {
+      "linkUrl": "https://www.reddit.com/r/Brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.youtube.com/channel/UCooVYzDxdwTtGYAkcPmOgOw",
+      "socialLinkImage": {
+        "small": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.facebook.com/brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://twitter.com/brawlstars",
+      "socialLinkImage": {
+        "small": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "http://supr.cl/tiktok-inbox",
+      "socialLinkImage": {
+        "small": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.instagram.com/brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        },
+        "smallRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        },
+        "medium": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        },
+        "mediumRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        },
+        "large": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        },
+        "largeRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg",
+          "width": 48,
+          "height": 48
+        }
+      }
+    }
+  ]
+}

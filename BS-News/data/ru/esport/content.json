@@ -1,0 +1,621 @@
+{
+  "entries": {
+    "esportNewsEntries": [
+      {
+        "id": "0bIYQugKZI6iOm6l2I8LV",
+        "targeting": null,
+        "metadata": {
+          "id": "0bIYQugKZI6iOm6l2I8LV",
+          "publishedVersion": 33,
+          "publishedAt": "2023-07-25T10:18:36.598Z"
+        },
+        "postDate": "1690123030",
+        "lang": "ru",
+        "section": "esportNewsEntries",
+        "title": "EMEA: Победители Июля - Reply Totem",
+        "categories": [{ "title": "Киберспорт", "color": "#0000ff" }],
+        "newUntil": "1693125092",
+        "esportRegions": ["EMEA"],
+        "type": "externalNewsEntry",
+        "url": "https://twitter.com/Brawl_esports/status/1682802879076220930",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Новый РУBSC LCQ Reply Qualified.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1NK7p5KTDja1eD9OSJZDbN/ee3f1a03eb2ce99cd36ea8906c27e067/_________BSC_LCQ_Reply_Qualified.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "5ZroYN9Be71jZ4jqmv314D",
+        "targeting": null,
+        "metadata": {
+          "id": "5ZroYN9Be71jZ4jqmv314D",
+          "publishedVersion": 11,
+          "publishedAt": "2023-07-23T16:45:20.974Z"
+        },
+        "postDate": "1688673669",
+        "lang": "ru",
+        "section": "esportNewsEntries",
+        "title": "Финал Июня: Лучшие Моменты!",
+        "categories": [{ "title": "Киберспорт", "color": "#0000ff" }],
+        "newUntil": "1693125092",
+        "esportRegions": ["APAC", "EMEA", "NA & LATAM N", "LATAM S"],
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/P6MBglkJ4NM",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Июнь финал Лучшие моментыBSC_Youtube_MF_June_Highlights.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7dDsl6OaNgYeeq1Y7BoIDp/0b35d01304cd45493a488ee89812a10c/_________________________BSC_Youtube_MF_June_Highlights.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "1UBXJd2jPxi7qWq3IOP3Ng",
+        "targeting": null,
+        "metadata": {
+          "id": "1UBXJd2jPxi7qWq3IOP3Ng",
+          "publishedVersion": 10,
+          "publishedAt": "2023-07-23T16:32:27.961Z"
+        },
+        "postDate": "1687624639",
+        "lang": "ru",
+        "section": "esportNewsEntries",
+        "title": "EMEA: Победители Июня - ZETA DIVISION",
+        "categories": [{ "title": "Киберспорт", "color": "#0000ff" }],
+        "newUntil": "1693125092",
+        "esportRegions": ["EMEA"],
+        "type": "externalNewsEntry",
+        "url": "https://twitter.com/Brawl_esports/status/1672642117389402113",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Июнь победителиBSC MF Champion EMEA.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5LgVNxfTQ2DVG7Ygpsgqz6/5442ae785f1d3df87c7968e6ca97185f/_______________BSC_MF_Champion_EMEA.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      }
+    ],
+    "esportCarouselEntries": [
+      {
+        "type": "liveEntry",
+        "title": "EUR & MENA Challenge Finals День 2",
+        "subtitle": "",
+        "eventPromotionName": "EUR & MENA День 2",
+        "eventPromotionLogo": {
+          "small": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=26&h=26&f=center&fit=fill",
+            "width": 26,
+            "height": 26
+          },
+          "smallRetina": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=51&h=51&f=center&fit=fill",
+            "width": 51,
+            "height": 51
+          },
+          "medium": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=64&h=64&f=center&fit=fill",
+            "width": 64,
+            "height": 64
+          },
+          "mediumRetina": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=77&h=77&f=center&fit=fill",
+            "width": 77,
+            "height": 77
+          },
+          "large": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=102&h=102&f=center&fit=fill",
+            "width": 102,
+            "height": 102
+          },
+          "largeRetina": {
+            "title": "Snapdragon pro series logo.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7xgGVdoxdREXZDAORlNO6N/9cdc7f38b39454c92eafb4a1768d8af8/Snapdragon_pro_series_logo.png?w=128&h=128&f=center&fit=fill",
+            "width": 128,
+            "height": 128
+          }
+        },
+        "carouselImage": {
+          "small": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "Day 2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3JUI26sbNNeY9IGURdc1Ob/cb74673b9023c3f3176fdfd746d8a2e9/Day_2.png?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "livestreamEndTime": "2023-08-27T08:30:00.000-07:00",
+        "livestreamStartTime": "2023-08-27T04:00:00.000-07:00",
+        "readMoreButton": {
+          "type": "url",
+          "urlType": "url",
+          "order": "1",
+          "variant": "blue",
+          "url": "https://event.brawlstars.com/ru/",
+          "label": "Напоминание!"
+        },
+        "watchLiveButton": {
+          "type": "url",
+          "urlType": "url",
+          "order": "1",
+          "variant": "blue",
+          "url": "https://event.brawlstars.com/ru/",
+          "label": "В Эфире!"
+        },
+        "esportRegions": ["EMEA"]
+      },
+      {
+        "type": "eventEntry",
+        "title": "Подробности #BSC23 ",
+        "subtitle": "",
+        "carouselImage": {
+          "small": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "Ingame Teaser",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N0feiVdW5FipvclCP5neM724gfw71lElFI-FnQjR2KQ/821f4ba4e700974d89e49264cb8a719c/1170368816_1671752773.png?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [
+          {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "orange",
+            "url": "https://twitter.com/Brawl_esports/status/1605896079119376384",
+            "label": "Что известно?"
+          }
+        ],
+        "esportRegions": ["EMEA", "NA & LATAM N", "LATAM S", "APAC"]
+      },
+      {
+        "type": "eventEntry",
+        "title": "ZETA DIVISION ZERO",
+        "subtitle": " Поздравляем!",
+        "carouselImage": {
+          "small": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "Smallest2022 11 27 Brawl Stars World Final 3163 Joe Brady 2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YoK6YkT0xusZQpGMi2bA-n7IrrkfgWiBe658VDwRTis/773c70e2d09232f440bbfd9148475c68/1018909435_1671142290.png?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [
+          {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "primary",
+            "url": "https://www.youtube.com/watch?v=2Flje_tssto&t=21893s",
+            "label": "Повтор!"
+          }
+        ],
+        "esportRegions": ["APAC", "EMEA", "LATAM S", "NA & LATAM N"]
+      },
+      {
+        "type": "eventEntry",
+        "title": "Партнерская Программа BSC",
+        "subtitle": "",
+        "carouselImage": {
+          "small": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "It 0826 Bsc Partner Program 1920X1080 V2",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PE-JMT2jHZ4nHHvgCbRivhu2fq_XVgNJp0gdXv5qcDc/2a743147825518766c15eba12b321e08/178893601_1663083560.jpg?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [
+          {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "orange",
+            "url": "https://supercell.com/en/games/brawlstars/ru/blog/esports/bsc-partner-program-support-teams-by-purchasing-unique-pins-10/",
+            "label": "Узнать больше!"
+          }
+        ],
+        "esportRegions": ["NA & LATAM N", "LATAM S", "EMEA", "APAC"]
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langNewer": "Новое",
+    "globalText.langVoteTryAgainLabel": "Ой! Придется попробовать еще раз.",
+    "globalText.langVoteResultsButtonLabel": "Результаты",
+    "globalText.langVoteDefaultButtonLabel": "Голосовать",
+    "globalText.close": "Закрыть",
+    "globalText.thanksForVoting": "Спасибо за участие в голосовании!",
+    "globalText.langVoteSubmitLabel": "Отправить",
+    "globalText.langDay": "день",
+    "globalText.langOlder": "Архив",
+    "globalText.langLoadMore": "Еще",
+    "globalText.langNew": "Новое",
+    "globalText.esportLive": "Прямой эфир!",
+    "globalText.langCastYourVote": "Oтдай свой голос",
+    "globalText.langBy": "Автор:",
+    "globalText.langEsportLive": "Прямой эфир!",
+    "globalText.langEsportGlobalPosts": "Глобальные события",
+    "globalText.langCommunityWatchLive": "Прямой эфир: [NAME_OF_PLAYER]",
+    "globalText.langCommunityLive": "Прямой эфир",
+    "globalText.langFollowUs": "Подписаться",
+    "globalText.esportFollowing": "Подписки",
+    "globalText.esportChangeRegion": "Сменить регион",
+    "globalText.esportFollow": "Вы можете отслеживать 3 региона - мы выбрали самые подходящии для вас.",
+    "globalText.esportDone": "Готово",
+    "communityText.langLive": "Прямой эфир",
+    "globalText.langEsportChange Region": "Сменить регион",
+    "globalText.langEsportCurrentlyFollowing": "Подписки",
+    "globalText.langEsportFollowMore": "Подписаться ещё",
+    "globalText.langEsportDoneCTAButton": "Готово",
+    "globalText.langEsportYouCanFollow": "Вы можете отслеживать 3 региона - мы выбрали самые подходящии для вас.",
+    "globalText.langEsportCTANextText": "Далее",
+    "globalText.langEsportWelcomeTo": "Добро пожаловать в Киберспорт!",
+    "globalText.langEsportEsportIntro": "Здесь вы сможете найти новости про киберспорт, трансляции игр ЧБС 2021 и общественных турниров!",
+    "globalText.langEsportRevealScore": "Показать счёт",
+    "globalText.langEsportLiveIn": "Прямой эфир через",
+    "globalText.langHourCountdown": "ч.",
+    "globalText.langSecondsAbbreviated": "sec",
+    "globalText.langDayAgo": "{x} день назад",
+    "globalText.langDays": "д.",
+    "globalText.langDaysAgo": "{x} д. назад",
+    "globalText.langHourAgo": "{x} час назад",
+    "globalText.langHoursAbbreviated": "ч.",
+    "globalText.langMinuteAgo": "{x} минуту назад",
+    "globalText.langMinutesAgo": "{x} мин. назад",
+    "globalText.langMinutesAbbreviated": "мин.",
+    "globalText.langHoursAgo": "{x} ч. назад",
+    "globalText.langHoursCountdown": "ч.",
+    "globalText.langMinuteCountdown": "мин.",
+    "globalText.langMinutesCountdown": "мин.",
+    "globalText.langEndsIn": "Окончание:",
+    "globalText.langSecondCountdown": "sec",
+    "globalText.langSecondsCountdown": "sec",
+    "globalText.langGo": "Перейти"
+  },
+  "socialLinks": [
+    {
+      "linkUrl": "https://twitter.com/Brawl_esports",
+      "socialLinkImage": {
+        "small": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
+      "socialLinkImage": {
+        "small": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.instagram.com/brawlstars_esports/",
+      "socialLinkImage": {
+        "small": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    }
+  ]
+}

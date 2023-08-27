@@ -1,0 +1,4393 @@
+{
+  "meta": { "id": 0, "date": "1677662935" },
+  "entries": {
+    "communityCreators": [
+      {
+        "id": "MjFNqXsdsB8Q0VP33PRc48mNfic1osVpuTbYEEvPXo4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "PKYkGQNuoolACZ1OJJyFr0ocvlSeYfghaNHMqdf3b-4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "FHahEia6dKh-Ey7lzHhBR_B7WWOdmaHJ0Ff2zQnwiQs",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "9kk-VeL4IUvI2vSB9R1c03ClL0zO_yC2ACHEo9mi37g",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "Aqq_96HBrDQ2zkM1e7mYqQf6-BSdRSKOqRLdd3QHc7Q",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "dBGXiMF-4o3T-6zkB_peTItm2aj2MHDFG9IMF-OAHSQ",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "wQMLGdTrxgWiBvn9KN5k4_nu6to4HfdwHWpYSFWq3RQ",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "Hgasyzd7doUAS9Tvwa42VVvSLlp5GbEXU-4l2BV6QV4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "2V3n8s1njVnjWmRN5XBMUwle8Co620mu46KaYlFUsHc",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "eTZxoVnYwfNGmUk-7VmH67D9MiJEMFspla-qpU88pYc",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "W3TL23zjy33b59NvoPYcbc72TiQ_aXZVU-9NnvTgvps",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "z-BzxoR2OFTziY3uW5xYIjRsbxSC4nOcbvqnFCo6rvA",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "oiGvg1afMtfIyU5lrB9_S4MX8V6gKNTPQnUaA2E2rv4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "4iM6TOzTJHOJnBpksh1TLcF2KcsJehsBqEvrPQfXA6U",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "2N6abW7NQKnhGr0ap-44uWbzdialLdK2WdpLt4ou18w",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "4KDVGDnOrL7RH7JIexi2mpYoKF3BQSiZhouXEFa3MRw",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "qQ1Dtx1lM7uiN2vBBaPusBTC1QCNEu0bizMgIMszENc",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "Kxqm4maF5-iv_qctv1h1VbZ_DAMUYK10u68te4ajnm0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "pOyaoA0YlKVUrvMUyAE5L-bcG3qBmPLgZ_y_zBOVE_A",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "zwXflJ6NR8FqScyHPsrJ3TqtYvCPbPI16V_rh7NGeQc",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "zWZcFolCj3SCjXsuIe2d-A6kPR83n7kZUZ5cvl6ovu4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "lNEdQb9ubqUhgBhTXyr_doPM5ZJM2qcDL3ntkhjFuaI",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "3bwTTj1GXoYeWpL2hJWxFCYj6Kj1yXoWoW9sP5a4uVs",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "linhsKiFBnmgyWFU-0BySrxQ-CZC8YMrptdrF0BPf_0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "HSOmzb3Mb17Tj5rsbo5wX369Ig8YhYdBC38wfWQfYqc",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "kAL_hvVbHsA4c5uMN-ZKjQH3RHorxdi083WvZJJPuB0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "0YCjO6h8zw1aOiR6lmd97PNYRaCBMqttzzdeRWVed08",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "1sacOwsJwkNAn6gQqQ_dE0pAmBTkCo_ZFWcWIdpVC7M",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "b3YmIs7C-Ma57tY0UQ75bLQeZ8Ej1qJ1AHn3yzONwog",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "-BQ0xq66M2moF62dYv6eAJJDABy-9u8Yrn-N7dzhDSM",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "AEm4eP-hLI5tFGGaoKmiRk_2metwi4WDegYy7-SJh5c",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "-46Q30MGK6xAM3lRG9rhBlK0RLuFEiG6haKCLlX2lL0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "rseQuE5qe_sX8RUJAvBuFN0FKQx4GLnTbO0lJUTmN10",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "hsde6M8GQWGRlkSThKLdt1VMx-TYEkaDBkFfBqWBS94",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "tLGx41vaL8DX_fZhXPrsD89qmzzUsVuse_G6fQTvSh0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "JdgxAnwATg6lDOTVZOWpzxD90fEaq-_GX3j3-Gopfaw",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "cNK03W8VQbIsymJSW3YUZbJ4QgCdLFM4iSzuMj9aQtE",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "Tpl9xoJEqF9P74tTbxtUB1DT-t_J5sF_3kIXOLlcqQA",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "71lx4g_V04R05rSFi4C-m2iI2Q9wdz-7pinmMSE0U8A",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "CrxCFUQsLg6aFxWlr9ve3Txw2ebAVYxa0nDIPG2dwz0",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "sWMtqPkMUtCUWz9KMNq_Hokph3E8uqECNVAcTEVDCms",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "00F6hxiUXvPtD5nKnTJupxuJuJt_faGwTh6FW-g-pdw",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "bKU3RBCgk35vj-Gmx_DxtGK2gTveLj-0z5wvDGLfVJA",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "iy_h3fWe0WIwWOWgHmTMoj4dq6R85X0I-3kzkxz0H0k",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "Yt6tIXG7xEmhFKeA7EAwxkpc6pu43MC1JiF5sIDL2d4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "X9yCd4-bRgSQtPhH5yk0-6ehuZiX0xtoVRve6ny4ZD4",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "aTYphaJ9s1RiOBfPj_okH7u5uZMxCOtsbaJu49xtkfo",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "jxO6JFAUhHzwHO2ehekxco8AsL38eqY1yCBVTTYNCMA",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "kQQ9I_wpoCDvfeCv1R8m_D8hoFp9Y1vzFwIn1RZru3E",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "sWqYYIoxV-syn04yvs_g4o6gmMvQoGKOi-bFzRS6bXo",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "2Iwxhyh6ChlBxQSHrhWZGaqOwJzeOJNfO7CRwcl5Ihk",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "xLFGPkxOxFMGdSDBFzU3CnDSDrTTRPNN46-HYE9qjlE",
+        "postDate": "1677234613",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Stromm",
+        "thumbnail": {
+          "small": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          },
+          "smallRetina": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          },
+          "medium": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          },
+          "mediumRetina": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          },
+          "large": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          },
+          "largeRetina": {
+            "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg",
+            "width": 140,
+            "height": 140
+          }
+        },
+        "creatorId": "23-26f2a72b-3365-49cf-8fd0-dda08e2206a9",
+        "submissionInfo": "https://admin.creators.supercell.com/user/23-26f2a72b-3365-49cf-8fd0-dda08e2206a9"
+      },
+      {
+        "id": "KQGp2X92W9ErVhvSIt0lfqFTwVZN6jUNScGTSNA_i4A",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "ePsbidQvvlB_KaA0sGVRcGiqWhLo8oLwz6RNF1KrsYU",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "HZJF5W3KJeYwBjUEHF_E9zDXtHwEL-J1-Mkb1CoPqbw",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      },
+      {
+        "id": "E1eaNrV0lbLslKIEsfYspPJ9zb3Oq_HMJLWhPEyj-1s",
+        "postDate": "1677662935",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "",
+        "creatorId": "",
+        "submissionInfo": ""
+      }
+    ],
+    "communityEntries": [
+      {
+        "id": "MjFNqXsdsB8Q0VP33PRc48mNfic1osVpuTbYEEvPXo4",
+        "postDate": "1677232285",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "BRAWLER ROBOT BARU DAN MODE BARU AKAN SEGERA HADIR! 😱",
+        "videoUrl": "https://youtu.be/z1xosUi6P3c",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Prediksi Robot Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/CNzazrqNEFRahVEBZafzQQFdlJM_c2yBU1kLH99N8hU/f823790938823769c2be26c031bbadb9/1069543558_1677066047.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/z1xosUi6P3c",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "FHahEia6dKh-Ey7lzHhBR_B7WWOdmaHJ0Ff2zQnwiQs",
+        "postDate": "1677232284",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "THROWER INI JARANG DIPAKE PADAHAL SAKIT BANGET COY! 😱",
+        "videoUrl": "https://youtu.be/7RWGzFYLx-o",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Barley Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/prHHV4Moxqu7bBC-iuAcmdZrvMxFiNeI98_X_ieyifY/6aa233a338c531463e9e73780f0a98df/196581344_1676898258.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/7RWGzFYLx-o",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "PKYkGQNuoolACZ1OJJyFr0ocvlSeYfghaNHMqdf3b-4",
+        "postDate": "1677232284",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "VOTING SKIN SURGE BAJAK LAUT DAN APAKAH SEASON BARU BAJAK LAUT IS REAL?! 😍",
+        "videoUrl": "https://youtu.be/Ok6k1toOUq8",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Make Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/P2W3Kb6B8FZlc8l2NoxoVQfmYksfuvO3V9ve9RbCcbU/0088956da5c8d1f67202673fe4ffc7e1/1973528071_1676898118.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/Ok6k1toOUq8",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "dBGXiMF-4o3T-6zkB_peTItm2aj2MHDFG9IMF-OAHSQ",
+        "postDate": "1677232281",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN VALENTINE SAM BIKIN KECEWA! 💔",
+        "videoUrl": "https://youtu.be/M-fgBE7FaLs",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Sam Valentine Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rjw2LTSf7UyqDwW97dtUHiCxZ4gCYjmINcFkmz5i51k/46fceae55d50c5030b10e4733e6f7efa/43556658_1676371066.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/M-fgBE7FaLs",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "Aqq_96HBrDQ2zkM1e7mYqQf6-BSdRSKOqRLdd3QHc7Q",
+        "postDate": "1677232281",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "TERNYATA MIXUE BUKA CABANG JUGA DI BRAWL STARS! 🍦",
+        "videoUrl": "https://youtu.be/R4o404qdYjg",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Lou Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KScHrwufAG-Gg3x4PQKn6JOlFk_W58Nzifve_UUFcTA/d6e6139c88863210d404f4641826fbe2/2139658849_1676283025.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/R4o404qdYjg",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "9kk-VeL4IUvI2vSB9R1c03ClL0zO_yC2ACHEo9mi37g",
+        "postDate": "1677232282",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "BERESIN CHALLENGE BELAHAN JIWA TANPA AYANG! 🔥",
+        "videoUrl": "https://youtu.be/gp1iCOvOoPo",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Belahan Jiwa Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4uuPImDrVEsJoKSIxCu9I90pwoILaJVniCyl6r4Jj1c/8ebb6a585ab06cf3a0e9c790339d3d86/374755110_1676110499.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/gp1iCOvOoPo",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "Hgasyzd7doUAS9Tvwa42VVvSLlp5GbEXU-4l2BV6QV4",
+        "postDate": "1677232279",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "CARA MAIN STU BIAR BISA FAST HAND! 🔥",
+        "videoUrl": "https://youtu.be/vxn9Y6DRlVw",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Stu Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/b6bZZd3XT26QLRCTBhxi9yvo-zYOuMuB8VhhaneEagQ/cb32207d763c5947c7b14905cdfac00e/1911121608_1675861887.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/vxn9Y6DRlVw",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "2V3n8s1njVnjWmRN5XBMUwle8Co620mu46KaYlFUsHc",
+        "postDate": "1677232278",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "5 BRAWLER COUNTER ALAMI PARA TANKER! ",
+        "videoUrl": "https://youtu.be/DdH2ON8OkGg",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Counter Tank",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_7dOFnaPi1zNKZBRdmHpSoji0FyUDnMso_5ZNwQluUk/335b9d1f3abfdb88fce52e4e0bb4341c/487912979_1675679851.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/DdH2ON8OkGg",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "wQMLGdTrxgWiBvn9KN5k4_nu6to4HfdwHWpYSFWq3RQ",
+        "postDate": "1677232279",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "CARA MAIN EDGAR BIAR NGGAK JADI FEEDER! 🤪",
+        "videoUrl": "https://youtu.be/JMhCd3V2kTE",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Edgar Anti Feeder Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/fzDeh0QQ1RT6GWLCTnO7jGblLhWyqs79ag0Ma-aigDA/a1d5886c55b52bdb31e90aec578b1a1c/2146105231_1675345078.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/JMhCd3V2kTE",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "z-BzxoR2OFTziY3uW5xYIjRsbxSC4nOcbvqnFCo6rvA",
+        "postDate": "1677232275",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "CARA LICIK MENANGIN SOLO SHOWDOWN CHALLENGE! 😁",
+        "videoUrl": "https://youtu.be/t4QArXYL2mE",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Solo Sd Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/MBtJeekGJTIGHFv8HzYT9dBiCe6nF9vbWP1La9gmdwk/53f72b85a9cce2849f74ac2f811dba58/1264935553_1675159327.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/t4QArXYL2mE",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "eTZxoVnYwfNGmUk-7VmH67D9MiJEMFspla-qpU88pYc",
+        "postDate": "1677232275",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN MAGMA MANDY KUALITAS 500 RIBU! 🤩",
+        "videoUrl": "https://youtu.be/SFrcV_YSVJw",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Magma Mandy",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pobLzdOoocGmOlQvxfQOs2XGclImAyznpoKvlQhwICg/40cf412d495e578c6f4ceee8908ac8b8/414569064_1674739672.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/SFrcV_YSVJw",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "W3TL23zjy33b59NvoPYcbc72TiQ_aXZVU-9NnvTgvps",
+        "postDate": "1677232275",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "KAPAN BRAWL TALK? FITUR BARU MASTERY AKAN SEGERA HADIR?! 😱",
+        "videoUrl": "https://youtu.be/KSOo7a0cnK4",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Tgl Bt Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/RgXiF_RyYTpSPNkkrR7fuW7e91mVK-yiS8llPN0O_jM/a484d605c55ad2d09262ecd4724beab4/322093070_1674644674.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/KSOo7a0cnK4",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "2N6abW7NQKnhGr0ap-44uWbzdialLdK2WdpLt4ou18w",
+        "postDate": "1677232272",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "KOMBO HARAM MUNCUL LAGI DI MODE K.O! 😱",
+        "videoUrl": "https://youtu.be/7tQXH3ovoHA",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Kombo Haram K O",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/yB-1TqSB5oG_H_bYSB2IW4FC1PMD8dsGCems8F2jxo4/62031f0117b83106490dce05c6975973/1730441907_1674367198.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/7tQXH3ovoHA",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "oiGvg1afMtfIyU5lrB9_S4MX8V6gKNTPQnUaA2E2rv4",
+        "postDate": "1677232273",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GADGET DAN STAR POWER 2 MANDY MASIH BUTUH BUFF! 🤔",
+        "videoUrl": "https://youtu.be/WOG1jpTb4kc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Sp Dan Gadget Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/qikuqpJXVEm4fHS7-pwRTU9vg-pvxa9wRvvs1r_ZzKQ/4124bc840a804344e44d62495e8a6a5b/557610994_1674214864.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/WOG1jpTb4kc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "4iM6TOzTJHOJnBpksh1TLcF2KcsJehsBqEvrPQfXA6U",
+        "postDate": "1677232272",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN BARU GRIFF PATUT KALIAN PERHITUNGKAN! 🤩",
+        "videoUrl": "https://youtu.be/QIk-2mdcm8I",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Griff Arkade",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/KrHr3a_4utOxMyFK782YhmzlAmqrpv_Lscuy8S5sOOo/8dfd735446b4fc16c84d268724183780/1473042522_1674134111.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/QIk-2mdcm8I",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "Kxqm4maF5-iv_qctv1h1VbZ_DAMUYK10u68te4ajnm0",
+        "postDate": "1677232268",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "KOMBO BRAWLER UNTUK BERESIN TANTANGAN IMLEK! 😍",
+        "videoUrl": "https://youtu.be/TdmAHbVfZL8",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Imlek Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/l1HFe8ama2UaB_bin8koWPXsf8JCg1nRT1E0LhfbDsU/2f1dab283b6a5aa774f4048f913e2e29/230369035_1674043603.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/TdmAHbVfZL8",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "4KDVGDnOrL7RH7JIexi2mpYoKF3BQSiZhouXEFa3MRw",
+        "postDate": "1677232269",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN BALAP PERTAMA DI BRAWL STARS! 😱",
+        "videoUrl": "https://youtu.be/2p1MfUwV0_4",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Eve Baiku Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Mb6GWRZjW8H5HeI9CHI4hISVHj9c1uNdIKkS6q10m7U/d321e9e089d32971c105ba4058a989cd/1546365150_1673956912.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/2p1MfUwV0_4",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "qQ1Dtx1lM7uiN2vBBaPusBTC1QCNEu0bizMgIMszENc",
+        "postDate": "1677232269",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "URUTAN SUPER CHESTER DARI YANG TERBURUK SAMPAI YANG TERBAGUS SETELAH NERF! 🔥",
+        "videoUrl": "https://youtu.be/WQfEcWrbL44",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Rank Super Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W_6pabu6rhKOTlZRF91eiRrRRDE-ib_GVcxgP94WnAU/245d16048f563721f0946d2e1790f63f/952871014_1673693397.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/WQfEcWrbL44",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "zWZcFolCj3SCjXsuIe2d-A6kPR83n7kZUZ5cvl6ovu4",
+        "postDate": "1677232266",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "BRAWLER OP KENA NERF SEMUA! CHESTER SEKARANG BENERAN JADI BADUT! 😱",
+        "videoUrl": "https://youtu.be/atVuDkVThLY",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Nerf Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VDw9SAYvqneJRX1T-ewZZLIP9eBq1dRGAQPXRRBK4Ew/b0563b26945af98568af31fb5253dc95/1346540508_1673531801.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/atVuDkVThLY",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "zwXflJ6NR8FqScyHPsrJ3TqtYvCPbPI16V_rh7NGeQc",
+        "postDate": "1677232266",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "TERNYATA MANDY SEBAGUS INI?! 😱",
+        "videoUrl": "https://youtu.be/xVtWuDsfMVk",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/kS_iQ_o1_z0KDh2A40xFnZ4tLafS28EjIh2o0I_9E8g/c2d60b7ec203a0b9fd12a7646a22baff/714095167_1673429656.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/xVtWuDsfMVk",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "pOyaoA0YlKVUrvMUyAE5L-bcG3qBmPLgZ_y_zBOVE_A",
+        "postDate": "1677232267",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN POWER LEAGUE MEMANG TIDAK MENGECEWAKAN! 😍",
+        "videoUrl": "https://youtu.be/VPuR8fJmQd4",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Ash Pinata",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/IVD9tUEJebQurLN7cgc8XYShPSAFQV_rCEwlp599ikw/8e445db96046687955b083451caf8e96/69877264_1673343504.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/VPuR8fJmQd4",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "3bwTTj1GXoYeWpL2hJWxFCYj6Kj1yXoWoW9sP5a4uVs",
+        "postDate": "1677232263",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "JANGAN BUANG GEMS KALIAN UNTUK SKIN BARU DARRYL INI! 😤",
+        "videoUrl": "https://youtu.be/Wu2mAiflNl0",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Cup Cake Darryl",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/sJer3QTscMZrd4FyPLGxAcyo56PdAqOpZD483NTmKBo/2054362b96d8d1bbbe51ae69e426b385/1614435100_1673007048.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/Wu2mAiflNl0",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "lNEdQb9ubqUhgBhTXyr_doPM5ZJM2qcDL3ntkhjFuaI",
+        "postDate": "1677232263",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GEAR MISTIS SANDY JADI YANG TERJELEK SAAT INI?! 🤔",
+        "videoUrl": "https://youtu.be/nxktCjGwLZA",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Whats App Image 2023 01 05 At 17 12 21",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/gHU7NrM67Ujb-D0_xenEL2-hTManKSYYqPVvRXOfjjk/742a8b3822b9270445ab56c9a032029b/1800663323_1672933097.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/nxktCjGwLZA",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "linhsKiFBnmgyWFU-0BySrxQ-CZC8YMrptdrF0BPf_0",
+        "postDate": "1677232262",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN BUZZETTE PENUH DENGAN WARNA! 🌈",
+        "videoUrl": "https://youtu.be/yd3INXUgZkI",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Buzzette Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R0FvEJA88rVeGqbJ1T-sVy8HD8sTX21ala7lOTNw4zo/a3707c75612b694a80d4f3d639408c08/492858560_1672838696.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/yd3INXUgZkI",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "0YCjO6h8zw1aOiR6lmd97PNYRaCBMqttzzdeRWVed08",
+        "postDate": "1677232258",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GEAR MISTIS LEON GAK GUNA? 🤔",
+        "videoUrl": "https://youtu.be/_jyKC1Zdtv0",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Gear Leon",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2n1oneDPJHhrQUDGqNlbd-3sGSMoGVLnL7uor7qfOUY/b84eb7785e332a15fd27ebfe65ee2947/1173152974_1672823058.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/_jyKC1Zdtv0",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "HSOmzb3Mb17Tj5rsbo5wX369Ig8YhYdBC38wfWQfYqc",
+        "postDate": "1677232260",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN UNIK HADIR KEMBALI DI BRAWL STARS! 😍",
+        "videoUrl": "https://youtu.be/TuLD9PctOk8",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Nita Permen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/28mp2tXF_YYsgpGBc2nv8KI2MQiOYJPxhkAnBDabQaw/25d1bab01d5d51face627c1020ebcb95/1459550267_1672742185.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/TuLD9PctOk8",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "kAL_hvVbHsA4c5uMN-ZKjQH3RHorxdi083WvZJJPuB0",
+        "postDate": "1677232258",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SAATNYA KALIAN SEMUA WAJIB MEMBELI BRAWL PASS! 😱",
+        "videoUrl": "https://youtu.be/Z4koZ9PIYfM",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "S16 Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/JIjJuHsfXv0yeENVvBaElZFVWG1qndUYof9uvYgtK8M/a51943c61af8c34aad9992d130cd52e0/500232382_1672658322.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/Z4koZ9PIYfM",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "1sacOwsJwkNAn6gQqQ_dE0pAmBTkCo_ZFWcWIdpVC7M",
+        "postDate": "1677232255",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "10 SKIN BRAWL STARS TERBAIK DI TAHUN 2022! 😍",
+        "videoUrl": "https://youtu.be/SryP6XS1KDc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Skin Terbaik 2022",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/F5yCGc8a_sF8STMmrxRbS1oAF2y30OQD73OODWi8p3o/43d43c8b7735d791ead1a04525e580fa/1351111821_1672481421.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/SryP6XS1KDc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "b3YmIs7C-Ma57tY0UQ75bLQeZ8Ej1qJ1AHn3yzONwog",
+        "postDate": "1677232254",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GADGET DAN STAR POWER 2 CHESTER BIKIN BINGUNG! 😤",
+        "videoUrl": "https://youtu.be/JRlmRBRFzVg",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "2 Item Baru Chester",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/-EcX_K4e1hd3uYhwFTgVWiOeINBsGmk1sygA-g8iGOI/71d0ff6c68f0635d15814bbe880d2ce5/383046554_1672318106.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/JRlmRBRFzVg",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "AEm4eP-hLI5tFGGaoKmiRk_2metwi4WDegYy7-SJh5c",
+        "postDate": "1677232253",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GEAR MISTIS CROW JADI GEAR TERBAIK SAAT INI! 😱",
+        "videoUrl": "https://youtu.be/iIXYxk3DeSc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Gear Crow",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/W6frZl7Vw_XsKctQIKWTLah-LHOoSCfq5KvtrkEgn7U/b3f9a4d347b9dc5844195d02c4958bb5/1718737098_1672223158.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/iIXYxk3DeSc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "-BQ0xq66M2moF62dYv6eAJJDABy-9u8Yrn-N7dzhDSM",
+        "postDate": "1677232253",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GADGET DAN STAR POWER 2 GRAY SANGAT OVER POWER! 😱",
+        "videoUrl": "https://youtu.be/JB8WJ_3tp2A",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Sp Gd 2 Gray Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/BYizeCswIGdnuqOmchwxqbYDcaGn6ry8T62csYGZHZg/04e51d06602b9743e039cdf913b25990/1183442977_1672142860.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/JB8WJ_3tp2A",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "-46Q30MGK6xAM3lRG9rhBlK0RLuFEiG6haKCLlX2lL0",
+        "postDate": "1677232250",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "TANTANGAN SET PIN SHELLY BISA BERES CUMAN PAKE SHELLY! 😱",
+        "videoUrl": "https://youtu.be/NRwQ2BYfcAU",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Shelly Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YKO0NfPM8gDyxVTQQwxmepwAB7kC_N4TV5r-VAVJxzE/7f751ef402eae294fe51e25a6b771096/931164141_1672067558.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/NRwQ2BYfcAU",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "hsde6M8GQWGRlkSThKLdt1VMx-TYEkaDBkFfBqWBS94",
+        "postDate": "1677232249",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "KLAIM SKIN SHELLY KLASIK GRATIS PLUS BELANJA 1000 GEMS! 😱",
+        "videoUrl": "https://youtu.be/61TP-VACqUA",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Shelly Klasik",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/M7PUjOd8KnAbPb2SxlOzXFF0Jg72bxkrnC3_Jxn-E8o/c6e000de7657e8509de8feb6b47c6ebf/638105557_1671881468.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/61TP-VACqUA",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "rseQuE5qe_sX8RUJAvBuFN0FKQx4GLnTbO0lJUTmN10",
+        "postDate": "1677232249",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "IKON PEMAIN SPESIAL INI GAK DIJUAL DI TOKO! 😍",
+        "videoUrl": "https://youtu.be/YmDUgW8U5o4",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Ikon Kreator",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/Nq9yCWXa3uERfZOIdHNyNxo0S93ALuNCO-oxZViT4h8/660fcd1749e9735d8fff851c80b3f12d/1591996846_1671796958.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/YmDUgW8U5o4",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "JdgxAnwATg6lDOTVZOWpzxD90fEaq-_GX3j3-Gopfaw",
+        "postDate": "1677232246",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "BRAWLIDAYS CHALLENGE DIGENDONG SAMA TOP LOKAL INDO! 😍",
+        "videoUrl": "https://youtu.be/SDvkUb-xwXk",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Brawlidays Challenge",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/0OV7C86nEjQtO-er2aeXIdbbzx4ZS7ceIZRiiQiqgjI/17454bd7269f09f501c8a85defa0cd52/71623250_1671713116.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/SDvkUb-xwXk",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "tLGx41vaL8DX_fZhXPrsD89qmzzUsVuse_G6fQTvSh0",
+        "postDate": "1677232246",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "PEMAIN BARU WAJIB TAU TIPS DAN TRIK MILIH BRAWLER DI UPDATE SAAT INI! 🔥",
+        "videoUrl": "https://youtu.be/x5JiSFfzTm8",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Starroad Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WzVL1zlA6Oydo5Gd8ZoeP8ZeZMQ76tbHVvK_8nZnL1w/49513640d6cad47abfe65bc835400a0e/1776987498_1671619459.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/x5JiSFfzTm8",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "cNK03W8VQbIsymJSW3YUZbJ4QgCdLFM4iSzuMj9aQtE",
+        "postDate": "1677232246",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SETELAH DI BUFF LANGSUNG DIKASIH SKIN SAMA SUPERCELL! 😍",
+        "videoUrl": "https://youtu.be/WDOozPiCQHQ",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Sam Yeti",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/SSlgBQrtkS3DZqsGKCxV1SL2gXpOl5eE3LB-PAsu8Vk/144152c125cdfc51dfe25d138f8f6dbb/1731116697_1671426537.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/WDOozPiCQHQ",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "71lx4g_V04R05rSFi4C-m2iI2Q9wdz-7pinmMSE0U8A",
+        "postDate": "1677232243",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN BRAWLIDAYS TERBAIK TAHUN INI AMBER RATU ES! ❄",
+        "videoUrl": "https://youtu.be/eLBTWPnJ1wE",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Amber Ratu Es",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/HeRWBrX5Tosai6xYTyokTXGAF6j_o6Ku9FGOVhvWdeA/1e5b46690b261feb91cb292cc5569271/1168012294_1671280682.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/eLBTWPnJ1wE",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "Tpl9xoJEqF9P74tTbxtUB1DT-t_J5sF_3kIXOLlcqQA",
+        "postDate": "1677232244",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "HADIAH KOMPENSASI TROFI ROAD!!! 😊",
+        "videoUrl": "https://youtu.be/s1W6gHBV6VQ",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Kompen",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/PdYOmiBzMMRtSmhtuHFfVzAU9JED9617NwOMLTAN3aA/60beab6f0090a004e369db4add71c39f/320273227_1671197320.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/s1W6gHBV6VQ",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "CrxCFUQsLg6aFxWlr9ve3Txw2ebAVYxa0nDIPG2dwz0",
+        "postDate": "1677232243",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SUMPAH CHESTER INI GAK ADA OBATNYA GUYS TERLALU OVER POWER! 😱",
+        "videoUrl": "https://youtu.be/MK_ZpTmav1s",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Chester Thumb Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mRM1JsH7q5ExK0AhbS9xNJkx23VIYrXIvPPzA67elUg/2bc77107c657145a9b2509e7d919c8a6/1312833704_1671183933.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/MK_ZpTmav1s",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "00F6hxiUXvPtD5nKnTJupxuJuJt_faGwTh6FW-g-pdw",
+        "postDate": "1677232241",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN INI BELUM RILIS TAPI UDAH BISA KITA REVIEW! 😱",
+        "videoUrl": "https://youtu.be/3vqKpKCRzd4",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Ash Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ipKDcFM_bLH9t4XsxmWVGH88Zate88AjDp9paTQRpgI/f52d0c6f5a5d7bad912b77bca125b52e/607449072_1671094139.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/3vqKpKCRzd4",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "bKU3RBCgk35vj-Gmx_DxtGK2gTveLj-0z5wvDGLfVJA",
+        "postDate": "1677232240",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "MAIN GRAY TERNYATA GAK BOLEH AUTO AIM! 🤔",
+        "videoUrl": "https://youtu.be/_RJYfmobJLc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Gray Thumb",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/jI5MB-luJjZDwZNfXru1Km7x63HOFjd3HrBnBzpTuHU/c780b9a131061aaefc997c39e22536c5/571866081_1671001725.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/_RJYfmobJLc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "sWMtqPkMUtCUWz9KMNq_Hokph3E8uqECNVAcTEVDCms",
+        "postDate": "1677232241",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "PAKE SKIN BARU GUS INI BIAR SKILL KALIAN KAYAK PRO PLAYER ZETA ! 😍",
+        "videoUrl": "https://youtu.be/sZe_iVh0a-c",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Gus Zeta",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ewK0RrVJ1Ndo20dTXEBGStfWvabFcxp4NoVU7r7yu-c/d7c9e91a3af028ed35f5c6ec724a1811/1185195861_1670930295.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/sZe_iVh0a-c",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "X9yCd4-bRgSQtPhH5yk0-6ehuZiX0xtoVRve6ny4ZD4",
+        "postDate": "1677232236",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "(BOCORAN UPDATE) MANDY BAKAL JADI SNIPER PALING OVER POWER! 😱",
+        "videoUrl": "https://youtu.be/19ohCAd3VaM",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Mandy Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/ZTyA7_SEGpMZdzWFheaA9pA_zvfFykLAGr1gB0i0ZLA/600ab1c7d19883782b486288691f5940/1997976894_1670861526.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/19ohCAd3VaM",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "iy_h3fWe0WIwWOWgHmTMoj4dq6R85X0I-3kzkxz0H0k",
+        "postDate": "1677232238",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "UPDATE BESAR SUPERCELL TERLALU BAIK HATI SAMPE MAU DIKASIH BRAWLER LEGEND GRATIS! 😍",
+        "videoUrl": "https://youtu.be/CZuGIu30GbY",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Update",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/mmRsYtQokZhLoXLySeytXwjgzUf5uwk4NkEDW4r0wWs/336f3c98a1db37f9e7b12b8ce3164da1/1166901764_1670845082.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/CZuGIu30GbY",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "Yt6tIXG7xEmhFKeA7EAwxkpc6pu43MC1JiF5sIDL2d4",
+        "postDate": "1677232237",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "(BOCORAN UPDATE) SEMUA SKILL ADA DI BRAWLER LEGEND BARU CHESTER! 🤡",
+        "videoUrl": "https://youtu.be/rLAT2RE8dCg",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Chester Stormm",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p1R2yUzzDEDoVoMto8T3AuywQT0FrVo8YLL0hGR5l-M/9727df5d07a04d24e3565caede3d1a37/884024998_1670775396.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/rLAT2RE8dCg",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "kQQ9I_wpoCDvfeCv1R8m_D8hoFp9Y1vzFwIn1RZru3E",
+        "postDate": "1677232232",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "OMEGA BOX JADI BOX PERPISAHAN KITA! 😢 #BYEBYEBOXES",
+        "videoUrl": "https://youtu.be/8BioIMcbFto",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Perpisahan Box",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/WEHLf9Q6zKEHnUMa87pxz_5GkH7ByOHOw9fXzxBgkbw/a0a1a1bcea12348362411024d78023b7/1008082263_1670753872.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/8BioIMcbFto",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "aTYphaJ9s1RiOBfPj_okH7u5uZMxCOtsbaJu49xtkfo",
+        "postDate": "1677232232",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "(BOCORAN UPDATE) BRAWLER MISTIS GRATIS KEREN BANGET! 😍",
+        "videoUrl": "https://youtu.be/ROYj9_2fagc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Gray",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/R5dDs2F793QgnZUSVEe0bxT-8lqvizUqXnJ_WiAC_g0/0c77a890e1d129d6f03055b4f527e6fc/868173406_1670689238.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/ROYj9_2fagc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "jxO6JFAUhHzwHO2ehekxco8AsL38eqY1yCBVTTYNCMA",
+        "postDate": "1677232232",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "(BOCORAN UPDATE) STARR ROAD, ISI BRAWL PASS, SKIN BARU & BALANCE CHANGES! 😱",
+        "videoUrl": "https://youtu.be/nqoM79kQNgA",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Bocoran Update Starr Road",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/YtB-1FRFcPp4f4Jd45mH7NTDLWY3j-4hWokQq22C4Bc/cdcfbad4ad92956497351272b004eea0/1810016009_1670645699.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/nqoM79kQNgA",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "xLFGPkxOxFMGdSDBFzU3CnDSDrTTRPNN46-HYE9qjlE",
+        "postDate": "1677232228",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "4 MILYAR KILL SUDAH TERCAPAI AUTO KLAIM SKIN OMEGA BOX DARRYL! 😱",
+        "videoUrl": "https://youtu.be/Cos8oL4BDgk",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Stormm Darly",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4cyX37YXYcgJUVwhfGY34-bnUrvujtVpGY5uifOq6oo/5ea09e29d70191ee9a63de7b8e765db9/1809326578_1670556911.jpg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "w9GLJ8860IzjuuHZxke3kyGyjYRsaLLUBWoVAbh1mcE": {
+            "type": "communityCreator",
+            "name": "Stromm",
+            "creatorId": "23-26f2a72b-3365-49cf-8fd0-dda08e2206a9",
+            "submissionInfo": "https://admin.creators.supercell.com/user/23-26f2a72b-3365-49cf-8fd0-dda08e2206a9",
+            "thumbnail": {
+              "default": {
+                "height": 140,
+                "width": 140,
+                "title": "Guest Content Creator 23 26F2A72B 3365 49Cf 8Fd0 Dda08E2206A9 Bosi",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VyqYeyc49qvBizMqOBFXCzlz9tRXCZEcaBeNG9mVc48/8096315da2628319d3d94f983070a405/50863720_1641444962.jpeg"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/Cos8oL4BDgk",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1670630400"
+      },
+      {
+        "id": "sWqYYIoxV-syn04yvs_g4o6gmMvQoGKOi-bFzRS6bXo",
+        "postDate": "1677232229",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "BAHAS TUNTAS BRAWL TALK DESEMBER: BRAWLER LEGEND BARU, BRAWLER GRATIS & UPDATE BESAR-BESARAN! 🔥",
+        "videoUrl": "https://youtu.be/JxvPTLxGUkU",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "20221207 223720",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/_GviHa0YdarD3ORlypzrD_0we2wT_kcM8TitVMfUC10/ea0350ab15c973a0531d16335444e584/46800471_1670431785.png?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/JxvPTLxGUkU",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "2Iwxhyh6ChlBxQSHrhWZGaqOwJzeOJNfO7CRwcl5Ihk",
+        "postDate": "1677232229",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "PREDIKSI UPDATE BUKAN 2 TAPI 3 BRAWLER BARU DAN SALAH SATUNYA ADALAH BADUT?! 😱",
+        "videoUrl": "https://youtu.be/ot2LrQOgzYo",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Prediksi Update Candyland",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/TJwEb1CO83Z1KKMG3fdezvyuwlsJlKEgBt5KRTGGMN4/63ab06352e6e8fbeb9922cf3746198d2/2082448338_1670396261.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/ot2LrQOgzYo",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "HZJF5W3KJeYwBjUEHF_E9zDXtHwEL-J1-Mkb1CoPqbw",
+        "postDate": "1677232226",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "GOLDEN CODE 200X MEGA BOX ITU NYATA DAN PERTAMA ADA DI INDONESIA! 😱",
+        "videoUrl": "https://youtu.be/EEnNjgNIXig",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "100 Mega Golden Code",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/woS6FG-jIWZHKqp6K59DLpIZmz92bUDgt-zOheVOKF0/d74bb8012ab22a98893e53f7c0729a93/1255553814_1670285508.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/EEnNjgNIXig",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "KQGp2X92W9ErVhvSIt0lfqFTwVZN6jUNScGTSNA_i4A",
+        "postDate": "1677232227",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "TIPS & TRIK CARA MAIN BRAWLER BUSTER/CAM! 📽",
+        "videoUrl": "https://youtu.be/goKb7VYMkoc",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Tips N Trik Cam",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/utvDVLiu5BRdvOfJM9pt_1G6Us03884yWhKeKAU-Wbk/ac788a6829d5989363aaefaed1fd2cde/1924010285_1670249693.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/goKb7VYMkoc",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "ePsbidQvvlB_KaA0sGVRcGiqWhLo8oLwz6RNF1KrsYU",
+        "postDate": "1677232226",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "2 BRAWLER BARU, SIAPA BILANG JADI GAME P2W & BRAWLER TROFI JADI EPIK! 😱",
+        "videoUrl": "https://youtu.be/qvIFuK0IGoA",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Video Baru",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/iCWASZRETjxa0Lc-vZNfJMjVIiET5E2DR6AinT23C6U/13c316c55e1eadf66eb88f3b041bcd0f/441836038_1669984252.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/qvIFuK0IGoA",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      },
+      {
+        "id": "E1eaNrV0lbLslKIEsfYspPJ9zb3Oq_HMJLWhPEyj-1s",
+        "postDate": "1677232223",
+        "expiryDate": null,
+        "lang": "id",
+        "section": "communityEntries",
+        "title": "SKIN CHAINSAW CAM TERLALU BRUTAL! 😱",
+        "videoUrl": "https://youtu.be/pbf-jSULRUk",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "smallRetina": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "medium": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "mediumRetina": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "large": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          },
+          "largeRetina": {
+            "title": "Chainsaw Cam Id",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/N1eaRvuvqbCoKdT-Wj8jcl0v1PDc6cEyJygdpA-LY0I/9f33355d670ad706da8fd734c51e9f4e/1145032912_1669983223.jpeg?w=800&h=433&fit=fill&f=center",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "submissionInfo": "",
+        "creator": {
+          "": {
+            "type": "communityCreator",
+            "name": "",
+            "creatorId": "",
+            "submissionInfo": ""
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/pbf-jSULRUk",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1677662935"
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langCastYourVote": "Berikan Suaramu",
+    "globalText.esportLive": "",
+    "globalText.esportFollowing": "",
+    "globalText.esportChangeRegion": "",
+    "globalText.esportFollow": "",
+    "globalText.esportDone": "",
+    "communityText.langLive": "Langsung",
+    "globalText.langNew": "Baru",
+    "globalText.langHourCountdown": "j",
+    "globalText.langDayAgo": "{x} hari yang lalu",
+    "globalText.langDays": "hari",
+    "globalText.langDaysAgo": "{x} hari yang lalu",
+    "globalText.langHourAgo": "{x} jam yang lalu",
+    "globalText.langHoursAbbreviated": "j",
+    "globalText.langMinuteAgo": "{x} menit yang lalu",
+    "globalText.langMinutesAgo": "{x} menit yang lalu",
+    "globalText.langMinutesAbbreviated": "mnt",
+    "globalText.langLoading": "Memuat...",
+    "globalText.langVoteTryAgainLabel": "Coba Lagi",
+    "globalText.langYouVoted": "Telah Memilih",
+    "globalText.langHoursAgo": "{x} jam yang lalu",
+    "globalText.langHoursCountdown": "j",
+    "globalText.langNewer": "Lebih Baru",
+    "globalText.langOlder": "Lebih Lama"
+  }
+}

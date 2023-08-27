@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>荒野乱斗国际服新闻镜像</title>
+    <style>
+        body {
+            font-family: 'Nunito', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        .background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            filter: blur(5px);
+            background-image: url('https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=640&h=346&f=center&fit=fill&fm=webp');
+            background-size: cover;
+        }
+
+        .container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            z-index: 1;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 36px;
+            font-weight: bold;
+            margin-top: 40px;
+            color: #4CAF50;
+            font-family: 'Lilita One', sans-serif;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: orange;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .button:hover {
+            background-color: #ff9800;
+            color: white;
+            text-decoration: none;
+        }
+
+        .bilibili-link {
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+            margin-top: 20px;
+        }
+        
+        .bilibili-link a {
+            color: #FF5722;
+            text-decoration: none;
+        }
+        
+        .bilibili-link a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+        }
+
+        .footer a {
+            color: #FF5722;
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        .region-selector {
+            text-align: center;
+            margin-top: 20px;
+            overflow-y: hidden; /* 默认隐藏滚动条 */
+        }
+
+        @media screen and (max-width: 600px) {
+            .region-selector {
+                overflow-y: scroll; /* 小屏幕下显示滚动条 */
+            }
+        }
+
+        select {
+            padding: 5px;
+            font-size: 14px;
+        }
+
+        .buttons {
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: orange;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        .button:hover {
+            background-color: #ff9800;
+            color: white;
+            text-decoration: none;
+        }
+
+        .selected-region {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background"></div>
+    <div class="container">
+        <div class="title">荒野乱斗国际服新闻镜像</div>
+        <div class="region-selector">
+            <label for="region">选择地区：</label>
+            <select id="region" onchange="changeRegion(this)">
+                <option value="de">德语</option>
+                <option value="en">英语</option>
+                <option value="es">西班牙语</option>
+                <option value="fr">法语</option>
+                <option value="id">印度尼西亚语</option>
+                <option value="it">意大利语</option>
+                <option value="ja">日语</option>
+                <option value="ko">韩语</option>
+                <option value="py">葡萄牙语</option>
+                <option value="ru">俄语</option>
+                <option value="tr">土耳其语</option>
+                <option value="zh" selected>中文</option>
+            </select>
+        </div>
+
+        <div class="buttons">
+            <a class="button" id="newsButton" data-path="/news" href="/index.html#/zh/news/">新闻</a>
+            <a class="button" id="communityButton" data-path="/community" href="/index.html#/zh/community">社区</a>
+            <a class="button" id="esportButton" data-path="/esport" href="/index.html#/zh/esport/">电竞赛事</a>
+        </div>
+
+        <div class="selected-region" id="selectedRegion"></div>
+    </div>
+
+    <div class="footer">
+        <h2>关注我的 <a href="https://space.bilibili.com/593622951" target="_blank">B站</a> 获取更多内容！</h2>
+    </div>
+
+    <script>
+        var regionSelector = document.getElementById("regionSelector");
+        var previousWidth = window.innerWidth;
+
+        function checkWindowSize() {
+            var currentWidth = window.innerWidth;
+            if (currentWidth <= 600 && previousWidth > 600) {
+                regionSelector.style.overflowY = "scroll"; // 小屏幕下显示滚动条
+            } else if (currentWidth > 600 && previousWidth <= 600) {
+                regionSelector.style.overflowY = "hidden"; // 大屏幕下隐藏滚动条
+            }
+            previousWidth = currentWidth;
+        }
+
+        // 初始化时执行一次
+        checkWindowSize();
+
+        // 在窗口尺寸变化时调用
+        window.addEventListener("resize", checkWindowSize);// 允许横屏时上下滚动
+        window.addEventListener("orientationchange", function() {
+            if (window.orientation === 90 || window.orientation === -90) {
+                document.body.style.overflowY = "scroll";
+            } else {
+                document.body.style.overflowY = "hidden";
+            }
+        });
+
+        function changeRegion(select) {
+            var value = select.value;
+            var selectedRegion = document.getElementById("selectedRegion");
+            selectedRegion.textContent = "已选择的地区：" + select.options[select.selectedIndex].text;
+
+            var buttons = document.querySelectorAll('.button');
+            var baseUrls = {
+                de: '/index.html#/de',
+                en: '/index.html#/en',
+                es: '/index.html#/es',
+                fr: '/index.html#/fr',
+                id: '/index.html#/id',
+                it: '/index.html#/it',
+                ja: '/index.html#/ja',
+                ko: '/index.html#/ko',
+                py: '/index.html#/py',
+                ru: '/index.html#/ru',
+                tr: '/index.html#/tr',
+                zh: '/index.html#/zh'
+            };
+
+            buttons.forEach(function(button) {
+                button.href = baseUrls[value] + button.getAttribute('data-path');
+            });
+        }
+    </script>
+</body>
+
+</html>

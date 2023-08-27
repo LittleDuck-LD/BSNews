@@ -1,0 +1,624 @@
+{
+  "entries": {
+    "esportNewsEntries": [
+      {
+        "id": "1qLjjvFmqOG9jVtlRvB2Ha",
+        "targeting": null,
+        "metadata": {
+          "id": "1qLjjvFmqOG9jVtlRvB2Ha",
+          "publishedVersion": 12,
+          "publishedAt": "2023-08-12T09:47:36.293Z"
+        },
+        "postDate": "1691833653",
+        "lang": "ja",
+        "section": "esportNewsEntries",
+        "title": "東アジア8月マンスリー決勝戦",
+        "categories": [{ "title": "eスポーツ", "color": "#0000ff" }],
+        "newUntil": "1693125091",
+        "esportRegions": ["APAC"],
+        "type": "externalNewsEntry",
+        "url": "https://www.youtube.com/watch?v=kxHy_EiI0Wk",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "MF_Aug_jp.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1Qs74fBOv41oCSxLVWjrzl/296fadcb16a3a14971bbe02cbbc6ab99/MF_Aug_jp.jpeg?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "tAk4kzGa9WHYvsGe1hFHA",
+        "targeting": null,
+        "metadata": {
+          "id": "tAk4kzGa9WHYvsGe1hFHA",
+          "publishedVersion": 9,
+          "publishedAt": "2023-07-23T00:08:51.902Z"
+        },
+        "postDate": "1690070929",
+        "lang": "ja",
+        "section": "esportNewsEntries",
+        "title": "東アジア7月マンスリー決勝戦",
+        "categories": [{ "title": "eスポーツ", "color": "#0000ff" }],
+        "newUntil": "1693125091",
+        "esportRegions": ["APAC"],
+        "type": "externalNewsEntry",
+        "url": "https://www.youtube.com/watch?v=ZbLj5IQK4PA",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "maxresdefault.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1936wRPS80NEvvbuXiJIrt/6617a4e90a8d29c237b283a9d42b8e5c/maxresdefault.jpeg?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "52g7J7IondlMxShSIGAEJk",
+        "targeting": null,
+        "metadata": {
+          "id": "52g7J7IondlMxShSIGAEJk",
+          "publishedVersion": 9,
+          "publishedAt": "2023-07-04T13:00:13.579Z"
+        },
+        "postDate": "1688475613",
+        "lang": "ja",
+        "section": "esportNewsEntries",
+        "title": "東アジア6月ポイントランキング",
+        "categories": [{ "title": "eスポーツ", "color": "#0000ff" }],
+        "newUntil": "1693125091",
+        "esportRegions": ["APAC"],
+        "type": "externalNewsEntry",
+        "url": "https://twitter.com/brawlstarsjp/status/1672549627093196801?s=20",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "スクリーンショット 2023-07-04 21.58.49.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5ue0TVj6buqiYYTFLDm9qT/03937619fefdaba824c1791c0ef9e4ff/__________2023-07-04_21.58.49.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "4DPWYcKMPVxsHuvEIXYbx4",
+        "targeting": null,
+        "metadata": {
+          "id": "4DPWYcKMPVxsHuvEIXYbx4",
+          "publishedVersion": 9,
+          "publishedAt": "2023-07-04T12:56:27.690Z"
+        },
+        "postDate": "1688475387",
+        "lang": "ja",
+        "section": "esportNewsEntries",
+        "title": "東アジア6月マンスリー決勝戦",
+        "categories": [{ "title": "eスポーツ", "color": "#0000ff" }],
+        "newUntil": "1693125091",
+        "esportRegions": ["APAC"],
+        "type": "externalNewsEntry",
+        "url": "https://www.youtube.com/live/dDhOT30RtFY?feature=share",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "MF6_JP (1).jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3WkQiUCrLbxx6U679z7Dip/6c2fce79684543f683b40d87fd1a9313/MF6_JP__1_.jpeg?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "7gGydtLP8tPrdlv7IcnkNX",
+        "targeting": null,
+        "metadata": {
+          "id": "7gGydtLP8tPrdlv7IcnkNX",
+          "publishedVersion": 9,
+          "publishedAt": "2023-06-19T09:02:09.408Z"
+        },
+        "postDate": "1687165329",
+        "lang": "ja",
+        "section": "esportNewsEntries",
+        "title": "【あと5日】ブロスタチャンピオンシップ 東アジアマンスリー決勝戦",
+        "categories": [{ "title": "eスポーツ", "color": "#0000ff" }],
+        "newUntil": "1693125091",
+        "esportRegions": ["APAC"],
+        "type": "externalNewsEntry",
+        "url": "https://event.brawlstars.com/jp/",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "countdown_5.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/425Is22witSVx7nhygshYt/34e7bdb86f5139ade7139c7be469cec2/countdown_5.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      }
+    ],
+    "esportCarouselEntries": [
+      {
+        "type": "eventEntry",
+        "title": "【優勝】REJECT！",
+        "subtitle": "東アジア8月マンスリー決勝戦",
+        "carouselImage": {
+          "small": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "RC_MF_JP.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3LxEIJtH9lQmeulEVUlP3a/25cf9a94a4c1b9be555d105b8760c4d1/RC_MF_JP.jpeg?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [
+          {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "blue",
+            "url": "https://twitter.com/brawlstarsjp/status/1690297068970299393?s=20",
+            "label": "詳しく"
+          }
+        ],
+        "esportRegions": ["APAC"]
+      },
+      {
+        "type": "eventEntry",
+        "title": "ブロスタチャンピオンシップ 2023 ルールブック公開！",
+        "subtitle": "",
+        "carouselImage": {
+          "small": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "Rulebook Announcement Jp 1 1 1",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/h8Qi6cgrs1-U502ygRYGcsj-2KfnxvEdMYsIn8eVwTA/8a6b069152384b678ebc303cb291100d/536760193_1676961726.png?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [
+          {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "orange",
+            "url": "https://blog.brawlstars.com/ja/blog/esports/esports_jp-11.html",
+            "label": "チェック！"
+          }
+        ],
+        "esportRegions": ["APAC"]
+      },
+      {
+        "type": "eventEntry",
+        "title": "ブロスタ世界一決定戦2022 優勝！ZETA DIVISION ZERO",
+        "subtitle": "",
+        "carouselImage": {
+          "small": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=192&h=108&f=center&fit=fill",
+            "width": 192,
+            "height": 108
+          },
+          "smallRetina": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=384&h=216&f=center&fit=fill",
+            "width": 384,
+            "height": 216
+          },
+          "medium": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=480&h=270&f=center&fit=fill",
+            "width": 480,
+            "height": 270
+          },
+          "mediumRetina": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=576&h=324&f=center&fit=fill",
+            "width": 576,
+            "height": 324
+          },
+          "large": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "largeRetina": {
+            "title": "Bsc Msi Champion Graphic",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/p2D9yo4taxIYE_TeYVwoejqq2hVimHBJ0hYufgTaYDA/1e6fd46b5760393f0943e5d68b2ef61a/1878075305_1669581701.png?w=960&h=540&f=center&fit=fill",
+            "width": 960,
+            "height": 540
+          }
+        },
+        "ctaButtons": [],
+        "esportRegions": ["APAC"]
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langNewer": "新着",
+    "globalText.langVoteTryAgainLabel": "もう一度お試しください！",
+    "globalText.langVoteResultsButtonLabel": "結果を表示",
+    "globalText.langVoteDefaultButtonLabel": "投票",
+    "globalText.close": "閉じる",
+    "globalText.thanksForVoting": "投票ありがとうございました",
+    "globalText.langVoteSubmitLabel": "送信",
+    "globalText.langDay": "日",
+    "globalText.langOlder": "過去のもの",
+    "globalText.langLoadMore": "もっと見る",
+    "globalText.langNew": "新着",
+    "globalText.esportLive": "ライブ配信中",
+    "globalText.langCastYourVote": " Cast your vote",
+    "globalText.langBy": "By",
+    "globalText.langEsportLive": "ライブ配信中",
+    "globalText.langEsportGlobalPosts": "グローバル投稿",
+    "globalText.langCommunityWatchLive": "[NAME_OF_PLAYER]のライブ配信を見る",
+    "globalText.langCommunityLive": "LIVE",
+    "globalText.langFollowUs": "フォロー",
+    "globalText.esportFollowing": "フォロー中",
+    "globalText.esportChangeRegion": "地域を変更",
+    "globalText.esportFollow": "フォロー可能",
+    "globalText.esportDone": "完了",
+    "communityText.langLive": "LIVE",
+    "globalText.langEsportChange Region": "地域を変更",
+    "globalText.langEsportCurrentlyFollowing": "フォロー中",
+    "globalText.langEsportFollowMore": "フォローする",
+    "globalText.langEsportDoneCTAButton": "完了",
+    "globalText.langEsportYouCanFollow": "フォロー可能",
+    "globalText.langEsportCTANextText": "次へ",
+    "globalText.langEsportWelcomeTo": "eスポーツへようこそ！",
+    "globalText.langEsportEsportIntro": "はじめに",
+    "globalText.langEsportRevealScore": "スコアを見る",
+    "globalText.langEsportLiveIn": "ライブまで",
+    "globalText.langHourCountdown": "時間",
+    "globalText.langDayAgo": "{x} 日前",
+    "globalText.langDays": "日",
+    "globalText.langDaysAgo": "{x} 日前",
+    "globalText.langHourAgo": "{x} 時間前",
+    "globalText.langHoursAbbreviated": "時間",
+    "globalText.langMinuteAgo": "{x} 分前",
+    "globalText.langMinutesAgo": "{x} 分前",
+    "globalText.langMinutesAbbreviated": "分",
+    "globalText.langLoading": " Loading...",
+    "globalText.langYouVoted": " You Voted",
+    "globalText.langHoursAgo": "{x} 時間前",
+    "globalText.langHoursCountdown": "時間",
+    "globalText.langMinuteCountdown": "分",
+    "globalText.langMinutesCountdown": "分",
+    "globalText.langEndsIn": "終了まで",
+    "globalText.langGo": "Go!"
+  },
+  "socialLinks": [
+    {
+      "linkUrl": "https://twitter.com/Brawl_esports",
+      "socialLinkImage": {
+        "small": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2gkWLPVeAMd7IDEwxschg1/34f835f85529370de479c38ab81e63f6/twitter.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.youtube.com/channel/UCjvzNXGGlnC4jcCnhglf8-Q",
+      "socialLinkImage": {
+        "small": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/78Odv7HWLwEphGOZSDoz9x/fb4ef0f762ce7f56aba5471f99e112b7/youtube.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.instagram.com/brawlstars_esports/",
+      "socialLinkImage": {
+        "small": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=50&h=37&f=center&fit=fill",
+          "width": 50,
+          "height": 37
+        },
+        "smallRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=99&h=74&f=center&fit=fill",
+          "width": 99,
+          "height": 74
+        },
+        "medium": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=124&h=93&f=center&fit=fill",
+          "width": 124,
+          "height": 93
+        },
+        "mediumRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=149&h=112&f=center&fit=fill",
+          "width": 149,
+          "height": 112
+        },
+        "large": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=198&h=149&f=center&fit=fill",
+          "width": 198,
+          "height": 149
+        },
+        "largeRetina": {
+          "title": "instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/7rjBfMXaJGTQKFsX8TuImy/67c185adfce93c145f2b255f0d0a9635/instagram.svg?w=248&h=186&f=center&fit=fill",
+          "width": 248,
+          "height": 186
+        }
+      }
+    }
+  ]
+}

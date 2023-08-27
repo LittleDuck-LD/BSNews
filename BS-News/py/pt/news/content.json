@@ -1,0 +1,1659 @@
+{
+  "entries": {
+    "eventEntries": [
+      {
+        "id": "6ZW8SCHzvRyrx8QVuzomsD",
+        "metadata": {
+          "id": "6ZW8SCHzvRyrx8QVuzomsD",
+          "publishedAt": "2023-08-26T09:54:50.404Z",
+          "publishedVersion": 70
+        },
+        "targeting": null,
+        "postDate": "1693040725",
+        "sortDate": "1693040725",
+        "lang": "pt",
+        "title": "Devemos trazer de volta Visuais exclusivos?",
+        "hideTitle": false,
+        "background": {
+          "small": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=160&h=232&f=center&fit=fill",
+            "width": 160,
+            "height": 232
+          },
+          "smallRetina": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=320&h=464&f=center&fit=fill",
+            "width": 320,
+            "height": 464
+          },
+          "medium": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=400&h=581&f=center&fit=fill",
+            "width": 400,
+            "height": 581
+          },
+          "mediumRetina": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=480&h=697&f=center&fit=fill",
+            "width": 480,
+            "height": 697
+          },
+          "large": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=640&h=929&f=center&fit=fill",
+            "width": 640,
+            "height": 929
+          },
+          "largeRetina": {
+            "title": "0822-OldSkins-800x1161.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/41MAJD1H8m5M2MS6W4OPm1/1b086b15692ef1089220a1b546a10e4a/0822-OldSkins-800x1161.png?w=800&h=1161&f=center&fit=fill",
+            "width": 800,
+            "height": 1161
+          }
+        },
+        "type": "pollEntry",
+        "pollTitle": "Devemos trazer de volta Visuais exclusivos?",
+        "options": [
+          {
+            "id": "1",
+            "title": "SIM!",
+            "image": {
+              "small": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=60&h=80&f=center&fit=fill",
+                "width": 60,
+                "height": 80
+              },
+              "smallRetina": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=120&h=160&f=center&fit=fill",
+                "width": 120,
+                "height": 160
+              },
+              "medium": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=150&h=200&f=center&fit=fill",
+                "width": 150,
+                "height": 200
+              },
+              "mediumRetina": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=180&h=240&f=center&fit=fill",
+                "width": 180,
+                "height": 240
+              },
+              "large": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=240&h=320&f=center&fit=fill",
+                "width": 240,
+                "height": 320
+              },
+              "largeRetina": {
+                "title": "vote_yes.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3Jtb3dLYYI3c8ky3qlf46I/bb4183a55ec7b3085b0de291e801c820/vote_yes.png?w=300&h=400&f=center&fit=fill",
+                "width": 300,
+                "height": 400
+              }
+            }
+          },
+          {
+            "id": "2",
+            "title": "NÃO!",
+            "image": {
+              "small": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=60&h=80&f=center&fit=fill",
+                "width": 60,
+                "height": 80
+              },
+              "smallRetina": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=120&h=160&f=center&fit=fill",
+                "width": 120,
+                "height": 160
+              },
+              "medium": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=150&h=200&f=center&fit=fill",
+                "width": 150,
+                "height": 200
+              },
+              "mediumRetina": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=180&h=240&f=center&fit=fill",
+                "width": 180,
+                "height": 240
+              },
+              "large": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=240&h=320&f=center&fit=fill",
+                "width": 240,
+                "height": 320
+              },
+              "largeRetina": {
+                "title": "vote_no.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3OZJ3TtCR8zO0dKPHqxwM4/8caa8e72ede08246e9023024bdbc339e/vote_no.png?w=300&h=400&f=center&fit=fill",
+                "width": 300,
+                "height": 400
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2wmu3w0pnfADquAJDRKzLL",
+        "metadata": {
+          "id": "2wmu3w0pnfADquAJDRKzLL",
+          "publishedAt": "2023-07-03T09:22:59.992Z",
+          "publishedVersion": 7
+        },
+        "targeting": null,
+        "postDate": "1688375703",
+        "sortDate": "1688375703",
+        "lang": "pt",
+        "title": "Enchanted Woods BP Video",
+        "hideTitle": true,
+        "background": {
+          "small": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=160&h=232&f=center&fit=fill",
+            "width": 160,
+            "height": 232
+          },
+          "smallRetina": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=320&h=464&f=center&fit=fill",
+            "width": 320,
+            "height": 464
+          },
+          "medium": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=400&h=581&f=center&fit=fill",
+            "width": 400,
+            "height": 581
+          },
+          "mediumRetina": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=480&h=697&f=center&fit=fill",
+            "width": 480,
+            "height": 697
+          },
+          "large": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=640&h=929&f=center&fit=fill",
+            "width": 640,
+            "height": 929
+          },
+          "largeRetina": {
+            "title": "A_BPS19_inbox_EN(800x1161).png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/46UulcTwKGe6JkCmDGVUxV/8be06167921702d03a9d650264e9257e/A_BPS19_inbox_EN_800x1161_.png?w=800&h=1161&f=center&fit=fill",
+            "width": 800,
+            "height": 1161
+          }
+        },
+        "type": "eventEntry",
+        "ctas": {
+          "5YDU3JASOKsW1Z8XCVnBnJ": {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "pink",
+            "url": "https://youtube.com/shorts/B9_-9lTu18M",
+            "label": "FLORESTA ENCANTADA!"
+          }
+        },
+        "displayTimer": false,
+        "timerTarget": "1693125080"
+      },
+      {
+        "id": "570FnXUK1aIPKlDJbUldP9",
+        "metadata": {
+          "id": "570FnXUK1aIPKlDJbUldP9",
+          "publishedAt": "2023-06-24T15:30:41.084Z",
+          "publishedVersion": 26
+        },
+        "targeting": null,
+        "postDate": "1687521643",
+        "sortDate": "1687521643",
+        "lang": "pt",
+        "title": "BRAWL TALK FLORESTA ENCANTADA",
+        "hideTitle": true,
+        "background": {
+          "small": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=160&h=232&f=center&fit=fill",
+            "width": 160,
+            "height": 232
+          },
+          "smallRetina": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=320&h=464&f=center&fit=fill",
+            "width": 320,
+            "height": 464
+          },
+          "medium": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=400&h=581&f=center&fit=fill",
+            "width": 400,
+            "height": 581
+          },
+          "mediumRetina": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=480&h=697&f=center&fit=fill",
+            "width": 480,
+            "height": 697
+          },
+          "large": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=640&h=929&f=center&fit=fill",
+            "width": 640,
+            "height": 929
+          },
+          "largeRetina": {
+            "title": "0624 BT Thumb 800x1161.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/69CfZh7gTIH1nVmDDBKcgo/4ef3de8752b65803811dbdc16fd11196/0624_BT_Thumb_800x1161.jpg?w=800&h=1161&f=center&fit=fill",
+            "width": 800,
+            "height": 1161
+          }
+        },
+        "type": "eventEntry",
+        "ctas": {
+          "4l67azumdbNA3vzkQL8Kt0": {
+            "type": "url",
+            "urlType": "url",
+            "order": "0",
+            "variant": "pink",
+            "url": "https://youtu.be/WEY708twW_g",
+            "label": "BRAWL TALK!"
+          }
+        },
+        "displayTimer": false,
+        "timerTarget": "1693125080"
+      }
+    ],
+    "newsEntries": [
+      {
+        "id": "18zmQ0jNrRbAAuHBu6FPii",
+        "targeting": null,
+        "metadata": {
+          "id": "18zmQ0jNrRbAAuHBu6FPii",
+          "publishedVersion": 15,
+          "publishedAt": "2023-08-25T14:07:17.957Z"
+        },
+        "postDate": "1692972435",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Precisamos do seu feedback! ",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1693125080",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0822 OldSkins 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4aSoTpqOnr57gG1BT7bHmN/f3b46e61320b8d0929eea0d1311f1a39/0822_OldSkins_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "pt_0822-OldSkins-1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/39msDmfOAqvGzIZU3Q0gXN/a602e1f0c9671e55db5b0f5b3b3c5a54/pt_0822-OldSkins-1600x443.png?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Para resumir: <b>você gostaria de ver de volta os visuais que não estão mais disponíveis no jogo?\n</b>\nOs visuais do Brawl Pass e da liga estelar (antes da atualização da Biomutação), comemorativos e de temporada (Bibi Heroica, Ricochet) e até a Shelly Estelar foram oferecidos ou vendidos como conteúdo exclusivo, ou seja, só quem conseguiu esses visuais enquanto eles estavam disponíveis pode tê-los. \n\nMas o tempo passou, muita gente nova chegou, e a maioria dos jogadores não teve sequer a chance de obter esses visuais. Para um colecionador ou alguém que perdeu um visual bacana para o Brawler favorito, a ideia de nunca mais poder conseguir esse visual é bem triste. </p><p>Por outro lado, queremos respeitar aqueles que compraram ou receberam esses visuais quando eles estavam disponíveis. Por isso lançamos a questão. Queremos ouvir a opinião de todos antes de tomar uma decisão.</p><p>No sábado de 26/08 teremos enquetes nas redes sociais e no jogo. Sabemos que a audiência de cada canal é diferente e os resultados também serão. Vamos comparar os resultados de todas as enquetes, ler os comentários e tomar uma decisão com base em tudo isso.</p><p>Para esclarecer: se o resultado da enquete for empate ou a maioria dos jogadores for contra o retorno dos visuais, eles não voltarão. Mas se a maioria for a favor, o retorno dos visuais será considerado.</p><p>Agradecemos pela atenção e não se esqueça de votar amanhã nos canais que você normalmente usa!</p>"
+          }
+        }
+      },
+      {
+        "id": "2xzLr3zMXCrE9ep8jIjNVD",
+        "targeting": null,
+        "metadata": {
+          "id": "2xzLr3zMXCrE9ep8jIjNVD",
+          "publishedVersion": 15,
+          "publishedAt": "2023-08-24T15:57:25.543Z"
+        },
+        "postDate": "1692892644",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Conheça o novo Community Manager! ",
+        "categories": [{ "title": "Notícias", "color": "#000000" }],
+        "newUntil": "1693125080",
+        "type": "videoNewsEntry",
+        "embed": {
+          "id": "24Ej0bUqC7GpOc9fYdmnes",
+          "provider": "youtube",
+          "url": "https://youtube.com/shorts/Ba4Hu3VZ8xo"
+        },
+        "embedVideo": false,
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Marzio_CM_Intro-Thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2nVaailMgjXZ78FZQBBjEQ/17160cd0c773a21be651bc10565d922e/Marzio_CM_Intro-Thumb.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "6Az7IDWRhNr1gumxWSUO3a",
+        "targeting": null,
+        "metadata": {
+          "id": "6Az7IDWRhNr1gumxWSUO3a",
+          "publishedVersion": 83,
+          "publishedAt": "2023-08-15T11:55:02.467Z"
+        },
+        "postDate": "1691046601",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Diga sua opinião sobre Mudanças de Balanceamentos! ",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1691442000",
+        "type": "externalNewsEntry",
+        "url": "https://www.reddit.com/r/Brawlstars/comments/15gxi27/tell_us_your_balance_changes_opinions/?utm_source=share&utm_medium=web2x&context=3",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Emz_Liberty_Statue_inbox.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1w4IFHdMQaRYmjBA2N75lP/3a4d00c47dcfc487bb13818d51674c3c/Emz_Liberty_Statue_inbox.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "63JGLz34wLjBittBLcKpvZ",
+        "targeting": null,
+        "metadata": {
+          "id": "63JGLz34wLjBittBLcKpvZ",
+          "publishedVersion": 17,
+          "publishedAt": "2023-07-24T14:13:04.755Z"
+        },
+        "postDate": "1690207982",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "PODCAST | HORA DE EXPLICAR! #EPISÓDIO3 pelo Power Couple ",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1693125080",
+        "type": "externalNewsEntry",
+        "url": "https://youtu.be/9McGvaM94P8",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Time to Explain 3 thumb.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6nDOOAHpSGbDes5BPZCKci/1881fbb8f087646ef25fb326987a120c/Time_to_Explain_3_thumb.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "4IA4URllZEP1J8EqyFzkz2",
+        "targeting": null,
+        "metadata": {
+          "id": "4IA4URllZEP1J8EqyFzkz2",
+          "publishedVersion": 156,
+          "publishedAt": "2023-07-20T11:03:13.111Z"
+        },
+        "postDate": "1689757200",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Supercell MAKE - Spectral Warrior Fang é o Vencedor!",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1693125080",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "PT_0719 SC Make Winner announcement 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5XQ8gCb03N4JRZLs7aRuS3/d08dc880ba1b11b9d49442f2330ec890/PT_0719_SC_Make_Winner_announcement_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "0714 Supercell Make_Finalists 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3vjsueynGFddzg4yiz3iAU/a1287d3dd0641a2fac88e30257957d00/0714_Supercell_Make_Finalists_1600x443.png?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Supercell MAKE - Escolha a sua favorita!",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>A campanha &quot;Faça uma Skin assustadora para o Fang&quot; está terminando, e agora cabe a VOCÊ escolher qual Skin você quer ver no Brawl Stars!</p><p>Temos quatro finalistas, e a que tiver mais votos será adicionada ao jogo! São elas:\n</p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcreation%2Fvam-fang')\">  Vam-Fang de Elumin</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcreation%2Fslasher-fang-9')\">Slasher Fang de LukeDraw</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcreation%2Fcrazy-scarecrow-fang-9')\">Crazy Scarecrow Fang de Alexito247</a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fmake.supercell.com%2Fen%2Fcreation%2Fspectral-warrior-fang-4')\">Spectral Warrior Fang de GlowingShark</a></p></li></ul><p>Veja como votar em seu favorito:\n\n- Vá para a página de NOTÍCIAS\n- Toque em &quot;Votar&quot; no banner alto à esquerda\n- Selecione sua skin favorita\n- Toque em &quot;Enviar&quot; para dar seu voto</p><p>A votação termina em 19 de julho às 04:00 BRT.</p><p>Boa sorte a todos os finalistas e obrigado a todos os participantes!</p>"
+          }
+        }
+      },
+      {
+        "id": "7xF38JYOy8sdiHYY9Wdv1C",
+        "targeting": null,
+        "metadata": {
+          "id": "7xF38JYOy8sdiHYY9Wdv1C",
+          "publishedVersion": 35,
+          "publishedAt": "2023-07-11T15:29:44.598Z"
+        },
+        "postDate": "1689087600",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "MAKE: Vote no seu visual SPOOKY FANG favorito!",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1689109200",
+        "type": "externalNewsEntry",
+        "url": "http://make.supercell.com",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0626 MAKE voting 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/5maWhBUPoMVSmZsKQZIk6s/8373c37852406909544e95e0f458c897/0626_MAKE_voting_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "4eNrgZVYSasGvDwThZdEUw",
+        "targeting": null,
+        "metadata": {
+          "id": "4eNrgZVYSasGvDwThZdEUw",
+          "publishedVersion": 13,
+          "publishedAt": "2023-07-07T15:38:35.550Z"
+        },
+        "postDate": "1688744218",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Criador em Foco - Apollo BS",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1688943600",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "CriadorEmFoco2_BS.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1HnEwUlJvLKoyAXYd7XxHQ/b736e97631d45d160352d74f35dfeb31/CriadorEmFoco2_BS.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "lendario.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2l1dhdSV2Nl1Z49V9btevM/8cf995369a5daec549066af4116f2cda/lendario.png?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Criador em Foco | Apollo BS",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Se você gosta de Brawl Stars e ainda não acompanha este criador de conteúdo, você está perdendo tempo! </p><p>No quadro <b>“Criador em Foco”</b> de hoje, vamos bater um papo com o <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ApolloBS')\"><b>Apollo BS</b></a>, que é brabo no jogo e traz conteúdos OPs de segunda à sábado, sem falhar!</p><p>Confira abaixo as perguntinhas que fizemos para o <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ApolloBS')\"><b>Apollo BS</b></a>, para que a comunidade mais linda do Brasil, possa conhecer um pouco mais desse Youtuber que faz parte do Programa de Criadores da Supercell!</p><p><b></b></p><p><b>1. Quem é o criador de conteúdo Apollo?\nR: </b>Um menino de 19 anos, que sonha em crescer ainda mais nesse Programa de Criadores da Supercell. E com isso, poder inspirar alguns futuros criadores de conteúdo…</p><p><b>2. Porque decidiu ser Criador de Conteúdo da Supercell e porque escolheu Brawl Stars?\nR: </b>Sempre tive vontade de poder gravar vídeos no YouTube. Porém, nada dava certo. Mas aí encontrei o Brawl Stars e essa comunidade incrível, que até hoje me faz continuar seguindo em frente.</p><p><b>3. Qual o Criador de Conteúdo que mais te inspira?\nR:</b> Citar apenas UM é meio complicado, mas se tem uma pessoa que admiro demais é a Prothagame.</p><p><b>4. Qual a sua melhor memória com Brawl Stars?\nR:</b> Foi quando me tornei parceiro oficial da Supercell. Além do mais, foi esse jogo e essa comunidade que me trouxeram até aqui.</p><p><b>5. Qual é o seu Brawler favorito e porquê?\nR: </b>Mortizadaaa! Com certeza o Mortis. Gosto demais desse Brawler, por que acho muito satisfatório fazer uma<i> triple kill </i>com ele haha</p><p><b>6. Se pudesse fazer alguma mudança de balanceamento no jogo, em geral o que faria?\nR:</b> O Edgar é um dos Brawlers mais amado e odiado do Brawl Stars. O motivo é simples: Ele apenas é visto para o modo Combate (e nem se encaixa em todos mapas, já que pode sofrer). </p><p>A galera julga muito ele, já que é um Brawler que depende muito do Super para finalizar os oponentes. Se formos olhar, não tem como fazer uma grande mudança nele, maaaaas se eu fosse fazer alguma mudança, seria aumentar o alcance de ataque e colocaria uma engrenagem especial, que possibilitaria ele ganhar uns 10% da força dos ataques. Talvez assim, ele fique mais viável para alguns mapas do Combate e, tentaria entrar em alguns mapas no modo 3x3.</p><p>Bom, não jogo competitivo e não sou o Gaebe, mas é isso que eu faria! :) </p><p>\n<b>7. Selecione 3 vídeos do seu canal que valem a pena serem compartilhados, e o porquê?</b></p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fyoutu.be%2Fo80GIi4qybQ')\">COMO ALTERAR O E-MAIL DO SUPERCELL-ID</a>\nAcho muito importante a galera saber como ter a sua conta 100% segura. Eu fiz esse vídeo justamente para ajudar a comunidade a saber como fazer isso!</p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=%20https%3A%2F%2Fyoutu.be%2Fd_MvXtDR55E%20')\">DICAS PARA SUBIR TROFÉUS</a>\nEsse é um conteúdo para ajudar o pessoal que tem dificuldade em subir troféus. Principalmente os iniciantes! Vale a pena conferir!</p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fyoutu.be%2FZO98eb_2_ik')\">PARCERIA OFICIAL COM A SUPERCELL</a>\nTenho certeza que esse vídeo servirá para outras pessoas que também tem vontade de ser um futuro parceiro Oficial da Supercell. Afinal, se eu consegui, outros também podem.</p></li></ul><p>\nEsse foi só um pouquinho de quem é o criador <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ApolloBS')\">Apollo BS</a>!</p><p>Curtiu? Então corre pro canal dele e já se inscreve para conferir os novos conteúdos e muitas dicas sobre o Brawlzinho!</p><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.youtube.com%2F%40ApolloBS')\">Youtube</a>\n<a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.instagram.com%2Fapollo.dzn%2F')\">Instagram</a></p><p>\n</p>"
+          }
+        }
+      },
+      {
+        "id": "5ZiHxuNEPtOr1F5mMMFgC",
+        "targeting": null,
+        "metadata": {
+          "id": "5ZiHxuNEPtOr1F5mMMFgC",
+          "publishedVersion": 14,
+          "publishedAt": "2023-06-27T14:14:06.585Z"
+        },
+        "postDate": "1687854125",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Animação | Um cachorro-quente, por favor!",
+        "categories": [{ "title": "Video", "color": "#ff8000" }],
+        "newUntil": "1688252400",
+        "type": "videoNewsEntry",
+        "embed": {
+          "id": "5ZwNOepMcowD2UokQcRkzh",
+          "provider": "youtube",
+          "url": "https://youtu.be/UDeXoajHutI "
+        },
+        "embedVideo": false,
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0627 Update vid thumb 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/pUGKFvlnrCJe5fzrBajv7/a4393e1def30f3b2cb71c74db34bb592/0627_Update_vid_thumb_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "7GIx5Al9fl9pdUfZJij9NR",
+        "targeting": null,
+        "metadata": {
+          "id": "7GIx5Al9fl9pdUfZJij9NR",
+          "publishedVersion": 27,
+          "publishedAt": "2023-06-28T10:29:59.411Z"
+        },
+        "postDate": "1687853638",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Notas de Atualização #FlorestaEncantada",
+        "categories": [{ "title": "Notas de Lançamento", "color": "#00000e" }],
+        "newUntil": "1688252400",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0627 Update vid thumb 800x433_v2.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2U3CMTNoEt1KpveHmsHf4I/0d7af482f632b8dfeecb1241ca8551e2/0627_Update_vid_thumb_800x433_v2.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "0627 Update vid thumb 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3L1igqY0kSUvsIRuuy5DCO/d20c44c0086c54a83e80fd70c9adf5f6/0627_Update_vid_thumb_1600x443.jpg?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Notas de Atualização #FlorestaEncantada",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<h3><b>Manutenção | 15 de agosto</b></h3><p><b>Mudanças de Balanceamento</b></p><p><u><b>Buffs</b></u></p><ul><li><p><b>Hank</b></p><ul><li><p>HP base aumentada de 5000 → 5400</p></li><li><p>Aumento do dano do Super de 1000 → 1320</p></li></ul></li><li><p><b>Doug</b></p><ul><li><p>Supercarga diminuída (ainda 5 golpes → nenhuma mudança efetiva)</p></li><li><p>HP base aumentada de 4800 → 5000</p></li><li><p>Super agora pode atravessar paredes</p></li><li><p>Alvos ressuscitados têm 100% HP (acima de 50%)</p></li></ul></li><li><p><b>Rosa</b></p><ul><li><p>Traço de tanque adicionado (carrega o super com dano recebido)</p></li></ul></li><li><p><b>Bull</b></p><ul><li><p>Dano base aumentada de 400 → 440</p></li><li><p>Como resultado, ligeiro aumento da carga do Super </p></li></ul></li><li><p><b>Gale</b></p><ul><li><p>HP base aumentada de 3600 → 3800</p></li></ul></li><li><p><b>Jacky</b></p><ul><li><p>Engrenagem de velocidade aumentada em 5% (de 20% → 25%) e duração em 1s (3s → 4s)</p></li></ul></li></ul><p><b>\n</b><u><b>Nerfs</b></u></p><ul><li><p><b>Shelly</b></p><ul><li><p>Velocidade de movimento de Muito Rápido → Rápido</p></li></ul></li><li><p><b>Cordelius</b></p><ul><li><p>Cordelius não carrega mais o Super no Reino das Sombras</p></li><li><p>Cordelius não pode mais usar Super no Reino das Sombras</p></li><li><p>Redução do tempo de silêncio do Cogumelo Venenoso de 1,5s → 1s</p></li></ul></li><li><p><b>Corvo</b></p><ul><li><p>Redução de dano do Poder de Estrela de  25% → 20%</p></li></ul></li></ul><p><b>\nCorreções de bugs</b></p><ul><li><p>Corrigida uma falha que estava acontecendo ao abrir o jogo</p></li></ul><p></p><p><b>Manutenção &amp; Atualização opcional para Android | 30 de junho</b></p><ul><li><p>Corrigido um problema raro com o calendário de login.</p></li><li><p>Corrigidos vários problemas com elementos ausentes dos ambientes de Zona Estratégica.</p></li><li><p>Sobre os problemas com as compras dos Sprays de Esports, reembolsaremos as Gemas aos jogadores que compraram por acidente, o mais rápido possível, provavelmente ao longo da próxima semana.</p><ul><li><p>No momento, não temos tecnologia para remover os Sprays das contas, então isso será feito posteriormente.</p></li></ul></li></ul><p><b></b></p><p><b>Atualização opcional para iOS | 29 de junho</b></p><p>Uma nova atualização opcional está agora disponível para dispositivos iOS. Certifique-se de baixar a versão mais recente do jogo na App Store para corrigir os seguintes problemas:</p><ul><li><p>Corrigida uma falha que às vezes acontecia no final de uma batalha.</p></li><li><p>Removido um botão de compra redundante para Sprays de Esports no menu de Sprays dos Brawlers.</p></li><li><p>Corrigido o Visual padrão de Bonnie.</p></li><li><p>Corrigidos os marcadores de Missão sendo visíveis em Eventos sem uma Missão ativa.</p></li><li><p>Também lançaremos uma atualização opcional para dispositivos Android em breve para resolver esses problemas.</p></li></ul><p><b></b></p><p><b>Manutenção | 28 de junho</b></p><ul><li><p>Corrigidos os mapas do Criador de Mapas que estavam usando um ambiente incorreto.</p></li><li><p>Corrigido um bug em que o limite do mapa era ultrapassado pelos Brawlers na prorrogação no Fute-Brawl.</p></li><li><p>Corrigidas as vitórias do Combate não sendo contabilizadas para o progresso do Sorteio Starr.</p></li><li><p>Corrigido o tornado do Acessório do Gale sendo hostil para amigos.</p></li><li><p>Corrigidas as minas de Bo sendo ilimitadas.</p></li><li><p>Além disso, estamos investigando um problema contínuo com alguns Sprays de Organizações de Esports, então estamos desativando as compras desses Sprays enquanto tentamos encontrar a melhor solução para isso.</p></li></ul><p><b>------------------</b></p><p><b>Atualização: </b>estamos cientes de um bug em que as vitórias do Combate não contam para os Fragmentos Starr e a equipe está procurando uma solução para isso. As vitórias ainda estão funcionando bem para todos os outros modos!</p><p></p><h3>Novo Brawler: <b>Cordelius </b>(Cromático)</h3><ul><li><p>Atributo: <b>Carregamento de Super por Proximidade</b></p><ul><li><p>Cordelius carrega o seu Super ao ficar perto de Brawlers inimigos.</p></li></ul></li><li><p>Ataque:<b> Cogumelos</b></p><ul><li><p>Cordelius atira 2 cogumelos com sua ferramenta de jardinagem em um curto alcance à sua frente, causando dano aos inimigos atingidos.</p></li></ul></li><li><p>Super: <b>Outra Dimensão</b></p><ul><li><p>Cordelius atira um cogumelo sombrio que atravessa muros. O Brawler atingido e Cordelius são levados ao Vale das Sombras por 8 segundos ou até um dos dois morrerem. Cordelius ganha 20% de velocidade de movimento e 30% de velocidade de recarga dentro do Vale das Sombras.</p></li></ul></li><li><p>Acessório: <b>Replantio</b></p><ul><li><p>Cordelius salta sobre uma área do terreno rapidamente.</p></li></ul></li><li><p>Acessório: <b>Cogumelo Venenoso</b></p><ul><li><p>O próximo ataque de Cordelius atira um cogumelo venenoso que impede o inimigo de atacar por 1,5 segundos.</p></li></ul></li><li><p>Poder de Estrela:<b> Combomelos</b></p><ul><li><p>Se Cordelius acertar o segundo <b>cogumelo</b> no mesmo alvo, o segundo cogumelo causa 30% de dano extra.</p></li></ul></li><li><p>Poder de Estrela: <b>Reino do Cogumelo</b></p><ul><li><p>Ao entrar no Vale das Sombras, Cordelius gera 3 cogumelos que curam aliados e causam dano aos inimigos em 1090 pontos de vida ao serem coletados. </p></li></ul></li></ul><p>Cordelius será lançado como parte das recompensas do Brawl Pass (patamar 30) durante a temporada da Floresta Encantada.</p><p></p><h3>Novo Brawler: <b>Doug </b>(Mítico)</h3><ul><li><p>Ataque: <b>Ataque de Fome</b></p><ul><li><p>Doug causa dano a inimigos e cura aliados nas proximidades. Quanto mais perto estiverem, maior o efeito causado. O valor da cura é 50% do valor do dano.</p></li></ul></li><li><p>Super: <b>Repeteco</b></p><ul><li><p>Doug melhora ele mesmo ou um aliado que dura 2 segundos. Se o Brawler com o Buff for derrotado nesse tempo, ele renascerá com 50% de saúde no mesmo lugar.</p></li></ul></li><li><p>Acessório:<b> Salsicha em Dobro</b></p><ul><li><p>O próximo <b>Ataque de Fome </b>(ataque básico)<b> só cura aliados, </b>sem causar dano aos inimigos.<b> </b>Mas dobra a cura!</p></li></ul></li><li><p>Acessório: <b>Mostarda extra </b></p><ul><li><p>O próximo <b>Ataque de Fome </b>(ataque básico) só causa dano aos inimigos, sem curar aliados. Mas dobra o dano!</p></li></ul></li><li><p>Poder de Estrela: <b>Fast Food</b></p><ul><li><p>Aliados renascidos ganham 30% a mais de velocidade de movimento por 3 segundos após o ressurgimento..</p></li></ul></li><li><p>Poder de Estrela: <b>Buffet Livre</b></p><ul><li><p>O <b>Ataque de Fome</b> agora também cura o Doug, mas apenas com 20% de eficácia.</p></li></ul></li></ul><p>Doug estará disponível para compra na loja no início de Agosto.</p><p>\n</p><h3><b>Novos Visuais</b></h3><p>Temporada: <b>FLORESTA ENCANTADA</b></p><ul><li><p>8-Bit Casa Assombrada (149 Gemas / 5.000 Blings) </p></li><li><p>Chester Espírito da Mata (79 Gemas / 2.750 Blings) </p></li><li><p>Lou Troll de Pedra (149 Gemas / 5.000 Blings) | Visual da liga Estelar</p></li><li><p>Janet Fada Sombria (149 Gemas / 5.000 Blings) </p></li></ul><p>Os Visuais da Floresta Encantada estarão disponíveis no início de Julho após o início da Temporada.</p><p></p><p>Tema paralelo: <b>Mar está para Piratas! </b></p><ul><li><p>Meg Alodonte (199 Gemas)</p></li><li><p>Griff Baú Submerso (149 Gemas / 5.000 Blings) </p></li><li><p>Wattson Kraken (149 Gemas / 5.000 Blings) | Visual do Supercell MAKE (Feito por Steamfish)</p></li><li><p>Bibi Pirata Amaldiçoada (149 Gemas / 5.000 Blings)</p></li></ul><p>Os Visuais do tema paralelo estarão disponíveis em meados de Agosto.</p><p><b></b></p><p><b>Repaginações!</b></p><ul><li><p>Corvo Fênix (299 Gemas) | Incluindo uma nova dublagem</p></li><li><p>Carl Barba Negra (39 Gemas / 1.500 Blings) | Cromática (Carl Capitão | pré-requisito)</p></li><li><p>Tara Azul (29 Gemas / 1.000 Blings) </p></li><li><p>Penny Espacial (Indisponível)</p></li></ul><p>Os Visuais repaginados estarão disponíveis no lançamento da Atualização.\n</p><p><b>Outros</b></p><ul><li><p>Bonnie Unicórnio (29 Gemas / 1.000 Blings) | Disponível na loja em meados de Agosto</p></li><li><p>Bonnie Craque (29 Gemas / 1.000 Blings) | Disponível na loja em meados de Agosto (durante a celebração da Copa do Mundo feminina)</p></li><li><p>Doug Dragão (29 Gemas / 1.000 Blings) | Disponível no início de Agosto quando Doug for lançado</p></li><li><p>Cordelius Chapéu Venenoso (29 Gemas / 1.000 Blings) | Disponível no início de Julho quando Cordelius for lançado</p></li><li><p>Cordelius Mente-Esporo (149 Gemas / 5.000 Blings) | Disponível como recompensa no Patamar 70 do Brawl Pass </p></li></ul><p>\n</p><h3><b>Engrenagens</b></h3><p>Nova Engrenagem: <b>Supertorreta (Mítica)</b></p><ul><li><p>Aumenta a cura da Torreta da Pam em 20%</p></li><li><p>Disponível para Pam\n</p></li></ul><p></p><h3><b>Itens de Personalização</b></h3><p><b>Reações\n</b>Reações do Cordelius\nReações do Cordelius Mente-Esporo\nReação do Doug\nEl Brown\nPenny Espacial, 8-Bit do Faroeste, Jacky de Jet Ski, Byron Mago, Buzz Diretor,\nPerigo de Cogumelo, 8-Bit Casa Assombrada, Lou Troll de Pedra, Janet Fada Sombria, Chester Espírito da Mata\nCrow Fênix\nRelíquia de Caveira, Baú de Pirata, Gancho (2x), Meg Alodonte, Wattson Kraken, Bibi Pirata Amaldiçoada, Griff Baú Submerso\nCartão Vermelho, Cartão Amarelo, Vuvuzela, Apito\nParque Aquático Velocirapids (4x) \nEquipes de E-sports (2x)\nLiga de Base de E-sports\nCoroa de Criador</p><p>\n<b>Novos Sprays\n</b>Cordelius\nDoug\nMeg Alodonte, Wattson Kraken, Bibi Pirata Amaldiçoada, Griff Baú Submerso\nCogumelo Tóxico, 8-BIT Casa Assombrada, Lou Troll de Pedra, Janet Fada Sombria, Chester Espírito da Mata\nCorvo Fênix, fogo de fênix\nBoias do Parque Aquático Velocirapids (4x)\nEquipe de e-sports (10x), espectador de e-sports (2x)\n</p><p><b>Ícone de Perfil</b>\nFloresta Encantada, Cogumelo Encantado, 8-BIT Casa Assombrada, Lou Troll de Pedra, Janet Fada Sombria, Chester Espírito da Mata\nCorvo Fênix, fogo de fênix\nMaré está para piratas, Meg Alodonte, Wattson Kraken, Bibi Pirata Amaldiçoada, Griff Baú Submerso\nFute-Brawl de ouro\nVelocirapids\n</p><p><b>TÍtulos</b></p><ul><li><p>Tóxico (Cordelius)</p></li><li><p>Salsichão (Doug)</p></li></ul><p></p><h3><b>Mudanças de Balanceamento</b></h3><p>Um problema recorrente com Poder de Estrela e Gadgets é que geralmente um deles é péssimo. Nosso objetivo com essas mudanças é tornar ambos interessantes o suficiente para que possam ser usados ​​em diferentes construções ou estratégias! Além disso, alguns buffs necessários para Maisie e nerfs merecedores de Hank.</p><p><b><u>Melhorias (Buffs)</u></b></p><ul><li><p>Maisie</p><ul><li><p>Aumentada a velocidade básica do projétil</p></li><li><p>Direção do Acessório foi invertida</p></li><li><p>Poder de Estrela - Precisão Cirúrgica - Bônus de dano de 10% → 20%</p></li></ul></li><li><p>Ash</p><ul><li><p>Poder de Estrela - Descontrole - Velocidade de recarga de 30 → 40 % </p></li><li><p>Acessório - Banana Podre - De 40% redução de saúde para obter 40% de fúria → para 25% de redução de saúde para obter 40% de fúria</p></li></ul></li><li><p>Belle</p><ul><li><p>Poder de Estrela - Estado de Choque - Impedimento de recarga dos inimigos de 3 → 5 segundos</p></li></ul></li><li><p>Gray</p><ul><li><p>Poder de Estrela - Lesão Ilusória - Redução do dano na saúde máxima de 25 → 75% </p></li><li><p>Poder de Estrela - Lesão Ilusória - Negação de Dano - 25% → 50%</p></li></ul></li><li><p>Dynamike</p><ul><li><p>Acessório - Giro Explosivo - Dano de 1200 → 2000</p></li></ul></li><li><p>Mortis</p><ul><li><p>Acessório - Pá Rodopiante - Dano de 1300 → 1500</p></li></ul></li><li><p>Rico</p><ul><li><p>Acessório - Disparador Múltiplo - Dano de 320 → 800</p></li></ul></li><li><p>Lola</p><ul><li><p>Poder de Estrela - Alegria dos Fãs - Restauração da saúde de 100 → 150</p></li></ul></li><li><p>Fang</p><ul><li><p>Acessório - Pipoca Explosiva - Dano de 500 → 750</p></li></ul></li><li><p>Sandy</p><ul><li><p>Acessório - Sonífero - Demora de 2s→1.5s</p></li></ul></li><li><p>Spike</p><ul><li><p>Poder de Estrela - Solo Fértil - Restauração de saúde de 800 → 1000</p></li><li><p>Acessório - Bomba de Espetos - Dano de 520 → 800</p></li></ul></li><li><p>Emz</p><ul><li><p>Acessório - Laquê Letal - Penalidade de dano de 20% → 10%</p></li></ul></li><li><p>Bibi</p><ul><li><p>Acessório - Megagrude - Duração do desaceleramento de 2 → 3s</p></li></ul></li><li><p>Gus</p><ul><li><p>Acessório - Troca de Alma - Auto dano 15 → 5%</p></li></ul></li><li><p>Squeak</p><ul><li><p>Poder de Estrela - Reação em Cadeia - Dano de 10 → 20%</p></li></ul></li><li><p>Carl</p><ul><li><p>Acessório - Rastro Flamejante - Dano de 1200 → 2000</p></li></ul></li><li><p>Bea</p><ul><li><p>Acessório - Colméia Colérica - Dano máximo de 600 → 1000</p></li></ul></li><li><p>Amber</p><ul><li><p>Acessório - Órbita Flamejante - Dano de 500 → 1000</p></li></ul></li><li><p>Buster</p><ul><li><p>Acessório - Cinto de utilidades - Cura de 500 → 750</p></li></ul></li><li><p>Mandy</p><ul><li><p>Poder de estrela - Bala dura - Redução de dano de 20% → 30%</p></li></ul></li><li><p>Bonnie</p><ul><li><p>Acessório - Colisão - Dano de 300 → 1000\n</p></li></ul></li></ul><p><b><u>Enfraquecimentos (Nerfs)</u></b></p><ul><li><p>Hank</p><ul><li><p>Poder de estrela - Vai explodir - Velocidade de movimento de 20% → 10%</p></li><li><p>Agora Hank ficará visível nos arbustos enquanto carrega seu Ataque Básico</p></li></ul></li></ul><p><b></b></p><h3><b>Mudanças em Mapas, Modos de Jogo e Troca de Eventos</b></h3><p><b>Geral</b></p><ul><li><p>Modo temporário: <b>Empurra e Puxa</b> está de volta com algumas alterações muito pedidas!</p><ul><li><p>Agora você pode atirar e caminhar através do carrinho</p></li></ul></li><li><p><b>Paredes indestrutíveis </b>agora são destruídas na prorrogação (não são mais tão indestrutíveis)!</p></li></ul><p>Novo evento especial: <b>Domínio doido </b>(+50% de domínio obtido)</p><p><b></b></p><h3><b>Redefinição da temporada da liga estelar</b></h3><p>Levando em conta seus comentários e a redução de recompensas, decidimos mudar a redefinição da Temporada de Liga Estelar mais uma vez. Não haverá mais uma redefinição completa nas divisões entre Bronze I e Ouro III. Os jogadores retornarão ao ponto médio das divisões. No entanto, além dessas divisões, a redefinição será mais drástica. Jogadores entre as divisões Mítica II e Mestres voltarão para Mítica I.</p><p>\n<b>Com a comunidade</b></p><p>Você votou no jogo, e os resultados são:</p><ul><li><p><b>Caça ao chefe - 41% </b>(vencedor)</p></li><li><p><b>Extermínio - 24% </b>(vencedor)</p></li><li><p>Duelos - 18% </p></li><li><p>Volei-Brawl - 16%</p></li></ul><p>Comentário sobre <b>Extermínio</b>:\nRecebemos vários comentários dizendo que Extermínio e Caça-Estrelas são praticamente o mesmo Modo de Jogo: mesmo objetivo com diferenças sutis. Então decidimos pôr à prova: qual dos modos é mais popular no dia a dia dos nossos jogadores? </p><p>Os dois modos vão estar no ar durante os mesmos dias (com uma pequena diferença de tempo por motivos técnicos) e colocaremos os mesmos mapas nos dois modos todo dia. Usaremos o resultado para decidir qual dos modos ficará se alternando com Nocaute daqui para frente</p><p>\n</p><ul><li><p><b>Caça-Estrelas</b></p><ul><li><p>Adições</p><ul><li><p>Destino Fatídico (novo, anteriormente usado em Extermínio)</p></li><li><p>Paraíso do caçador (novo, anteriormente usado em Extermínio)</p></li></ul></li><li><p>Remoções</p><ul><li><p>Eminente </p></li><li><p>Ruínas do templo</p></li></ul></li></ul></li><li><p><b>Fute-Brawl</b></p><ul><li><p>Adições</p><ul><li><p>Centro do palco</p></li><li><p>Pintando o pinball</p></li></ul></li><li><p>Remoções</p><ul><li><p>Quicada extra</p></li><li><p>Salto</p></li></ul></li></ul></li><li><p><b>Pique-Gema</b></p><ul><li><p>Adições</p><ul><li><p>Ilumina</p></li><li><p>Arapuca mortal</p></li></ul></li><li><p>Remoções</p><ul><li><p>Ângulo agudo</p></li><li><p>Centro sólido</p></li></ul></li></ul></li><li><p><b>Roubo</b></p><ul><li><p>Nenhuma mudança!</p></li></ul></li><li><p><b>Zona Estratégica</b></p><ul><li><p>Nenhuma mudança!</p></li></ul></li><li><p><b>Nocaute</b></p><ul><li><p>Nenhuma mudança!</p></li></ul></li><li><p><b>Combate</b></p><ul><li><p>Adições</p><ul><li><p>Caverna convulsiva</p></li><li><p>Invasão da ilha</p></li></ul></li><li><p>Remoções</p><ul><li><p>Limite invariável</p></li><li><p>Lago de ossos</p></li></ul></li></ul></li><li><p><b>Caça ao Chefe</b></p><ul><li><p>Adições</p><ul><li><p>Frações (novo)</p></li><li><p>Desvio (novo)</p></li><li><p>Círculo da morte (novo)</p></li><li><p>Campos envenenados (novo)</p></li></ul></li></ul></li><li><p><b>Extermínio</b></p><ul><li><p>Adições</p><ul><li><p>Destino fatídico </p></li><li><p>Paraíso do caçador</p></li><li><p>Tocaia</p></li><li><p>Canal grande</p></li><li><p>Estação seca</p></li><li><p>Bolo em camadas</p></li><li><p>Campo de tiro</p></li><li><p>Pradaria traiçoeira</p></li></ul></li></ul></li><li><p><b>Empurra e Puxa</b></p><ul><li><p>Adições</p><ul><li><p>Todos a bombordo (novo)</p></li><li><p>À prancha (novo)</p></li><li><p>Baú de Davy Jones (novo)</p></li><li><p>Nó firme (novo)</p></li></ul></li></ul></li><li><p><b>Ranqueado</b> (Liga Estelar - Liga de Clubes)</p><ul><li><p>Caça-estrelas</p><ul><li><p>Campo de tiro</p></li><li><p>Canal grande</p></li><li><p>Destino fatídico</p></li></ul></li><li><p>Fute-Brawl</p><ul><li><p>Tiro livre</p></li><li><p>Tiro de meta</p></li><li><p>Pintando o pinball</p></li></ul></li><li><p>Pique-Gema</p><ul><li><p>Mina rochosa</p></li><li><p>Fliperama de cristal</p></li><li><p>Arco duplo</p></li></ul></li><li><p>Roubo</p><ul><li><p>Ravina kabum</p></li><li><p>Zona segura</p></li><li><p>Pit stop</p></li></ul></li><li><p>Zona Estratégica</p><ul><li><p>Anel de fogo</p></li><li><p>Besouros brigões</p></li><li><p>Zona livre</p></li></ul></li><li><p>Nocaute</p><ul><li><p>Garganta do braço dourado</p></li><li><p>Fênix flamejante</p></li><li><p>Rocha da Belle</p></li></ul></li></ul></li></ul><p>\n</p><p><b>Mudanças no ambiente de mapas</b></p><p><b>Adições: </b></p><ul><li><p>Floresta Encantada (novo)</p></li><li><p>Velocirapids</p></li><li><p>Arena de Fute-Brawl</p></li><li><p>Barco do Darryl</p></li></ul><p><b>Remoções:</b></p><ul><li><p>Show de Acrobacia + Show de Acrobacia (Combate)</p></li><li><p>Salão de jogos + Salão de jogos (combate)</p></li><li><p>Luta nas Profundezas</p></li></ul><p>\n</p><h3><b>Novidade: Sorteios Starr diários</b></h3><p>As caixas não estão de volta, mas a emoção está!</p><p>Basta vencer partidas para obter recompensas aleatórias com os sorteios Starr!</p><ul><li><p>Você ganha sorteios Starr na 1ª, 4ª e 8ª vitórias do dia, totalizando até 3 sorteios Starr por dia!</p></li><li><p>As recompensas incluem: Moedas, Pontos de Poder, Vales, Blings, Duplicadores de Fichas, Brawlers, Reações, Sprays, Ícones de Perfil, Poderes de Estrela, Acessórios e até Visuais!</p></li><li><p>Não estarão entre as recompensas: Gemas, Vales Cromáticos, Visuais de 199 e 299 Gemas e Engrenagens (de nenhuma raridade)</p></li><li><p>Além disso, há um conjunto de Reações Starr que só pode ser obtido nos sorteios Starr.</p></li><li><p>Liberado com 50 troféus (automaticamente, não é pelo Caminho de Troféus)</p></li></ul><p>Para que os sorteios Starr sejam empolgantes nas raridades mais altas, tivemos que redistribuir as recompensas do jogo para manter o equilíbrio. Com isso, algumas recompensas da Liga Estelar, Liga de Clubes e Brawl Pass agora são disponíveis no sorteio Starr.</p><p>Além de realocar as recompensas, também aumentamos a quantidade de recompensas recebidas em cerca de 20%.</p><p>Agora você ganha mais recompensas no geral se continuar jogando a mesma quantidade de partidas de antes.</p><p>\n</p><h3><b>Mudanças: Recompensas da Liga Estelar</b></h3><p>Metade das recompensas da liga estelar será transferida para os sorteios Starr diários.</p><ul><li><p>A recompensa em bling de todos os patamares foi reduzida em 50%.</p></li></ul><p>\n</p><h3><b>Mudanças: Recompensas da Liga de Clubes</b></h3><p>Metade das recompensas da Liga de Clubes será transferida para os sorteios Starr diários.</p><ul><li><p>Recompensa em Moedas do Clube de todos os patamares foi reduzida em 50%.</p><ul><li><p>Isso afeta as semanas com Liga de Clubes e com missões do Clube</p></li></ul></li></ul><p>\n</p><h3><b>Mudanças: Recompensas do Brawl Pass</b></h3><p>Parte das recompensas do Brawl Pass será transferida para os sorteios Starr diários.</p><ul><li><p>Os Vales recebidos no Patamar grátis serão reduzidos de 95 para 70.</p></li><li><p>Usaremos o resultado para decidir qual dos modos ficará se alternando com Nocaute daqui para frente.</p><ul><li><p>De 145 para 50 Moedas</p></li><li><p>De 42 para 20 Pontos de Poder</p></li><li><p>De 25 para 5 Vales</p></li></ul></li></ul><p>\n</p><h3><b>Mudanças nas Missões</b></h3><ul><li><p>Os seguintes tipos de Missões foram removidos do jogo:</p><ul><li><p>Social: jogue em equipe</p></li><li><p>Modo de jogo:</p><ul><li><p>Curar X de saúde </p></li><li><p>Pique-Gema: segure gemas por X segundos</p></li><li><p>Caça-Estrelas: complete X partidas com 4 ou mais estrelas</p></li><li><p>Fute-Brawl: passe a bola X vezes</p></li><li><p>Nocaute: vença X rodadas sem perder</p></li></ul></li></ul></li><li><p>Novos tipos de Missão:</p><ul><li><p>Missão de <b>vitória com mais de um Brawler</b> (o jogador pode escolher entre 3 Brawlers)</p><ul><li><p>Substituirá algumas Missões semanais de terça e quinta de Brawler único</p></li><li><p>Um dos 3 Brawlers será um Brawler que você tem com poucos troféus</p></li></ul></li><li><p>Missão de <b>vitória com mais de um Modo de Jogo</b> (o jogador pode escolher entre 2 modos de jogo)</p><ul><li><p>Substituirá algumas Missões semanais de terça e quinta de modo de jogo único</p></li><li><p>Ela sempre terá um modo de jogo ativo</p></li></ul></li><li><p>Ao trocar uma Missão de múltipla escolha, a nova Missão também será de <b>múltipla escolha</b> do mesmo tipo</p></li></ul></li><li><p>Agora o menu de Missões fica disponível diretamente na interface da página inicial (ao lado do Brawl Pass)</p><ul><li><p>O botão da Trilha Estelar será colocado perto do botão de Brawlers</p></li><li><p>O progresso de fichas diárias será movido para a página de Missões</p></li></ul></li><li><p>O progresso de Missões exclusivas do Brawl Pass pago será salvo mesmo que o Brawl Pass não tenha sido comprado</p><ul><li><p>Para coletar as recompensas do Brawl Pass exclusivo, ainda é preciso comprá-lo.</p></li></ul></li></ul><p></p><h3><b>Novidade: recompensas de boas-vindas de volta</b></h3><p>Dependendo de sua quantidade de troféus, quando um jogador voltar depois de um longo período de ausência, ele receberá recompensas e terá uma experiência única para recuperar o tempo perdido.</p><p>As recompensas recebidas são baseadas em uma porcentagem do progresso estimado se o jogador tivesse continuado ativo.</p><p>Além disso, todos os jogadores em atividade terão um calendário único de 7 dias. O calendário ficará disponível por tempo limitado depois desta atualização.</p><p>\n</p><h3><b>Novidade: Evento de lançamento dos sorteios Starr - calendário de 7 dias</b></h3><p>Jogadores com mais de 125 troféus e ativos no jogo terão um calendário de login de 7 dias. Já os jogadores que voltaram a jogar agora terão uma experiência de &quot;boas-vindas de volta&quot;.</p><p>\n</p><h3><b>Correções de erros</b></h3><ul><li><p>Correções e melhorias de erros menores</p></li></ul><p></p><h3><b>Outros</b></h3><ul><li><p>Melhorias de desempenho em alguns dispositivos de baixo custo</p></li><li><p>Agora disponível em dispositivos dobráveis</p></li></ul><p></p>"
+          }
+        }
+      },
+      {
+        "id": "AZRmC34qa2XcLPL1RhJxq",
+        "targeting": null,
+        "metadata": {
+          "id": "AZRmC34qa2XcLPL1RhJxq",
+          "publishedVersion": 4,
+          "publishedAt": "2023-06-24T16:09:51.833Z"
+        },
+        "postDate": "1687622991",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Brawl Talk Dublado pelo Tio Gus!",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1693125080",
+        "type": "videoNewsEntry",
+        "embed": {
+          "id": "VUeZInLAGCONRRlj0oA9n",
+          "provider": "youtube",
+          "url": "https://youtu.be/EnAgybQzrb0"
+        },
+        "embedVideo": false,
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "Picsart_23-06-24_03-24-38-102.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4ZIkLPaA3NuIRJWvRrydfp/afedbadc17ee07a348aea279d3be0e9f/Picsart_23-06-24_03-24-38-102.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "fQCrciVhrZ3enFyegItM0",
+        "targeting": null,
+        "metadata": {
+          "id": "fQCrciVhrZ3enFyegItM0",
+          "publishedVersion": 29,
+          "publishedAt": "2023-06-23T12:01:53.928Z"
+        },
+        "postDate": "1687467600",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Animação - Lendas do Olimpo",
+        "categories": [{ "title": "Notícias", "color": "#000000" }],
+        "newUntil": "1686690000",
+        "type": "videoNewsEntry",
+        "embed": {
+          "id": "2HOHh8dHx6kdymKYdju3Mi",
+          "provider": "youtube",
+          "url": "https://youtu.be/u8p7QNz5M7M"
+        },
+        "embedVideo": false,
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0609 Legends of the Gods 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/srQhRy0oOhrHp0gRXC006/44eda1c56888e43e1767ad8c27b2efed/0609_Legends_of_the_Gods_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      },
+      {
+        "id": "1Yeq5nzlkkgTHBNfLAgdeo",
+        "targeting": null,
+        "metadata": {
+          "id": "1Yeq5nzlkkgTHBNfLAgdeo",
+          "publishedVersion": 70,
+          "publishedAt": "2023-06-12T08:18:49.189Z"
+        },
+        "postDate": "1686555000",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Notas de Atualização #OResgate",
+        "categories": [{ "title": "Notas de Lançamento", "color": "#00000e" }],
+        "newUntil": "1686690000",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0421 Update Live Ops 800x433_v3.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4unlPs4JMufD4QdWYITNfM/25cbeacda7c1eca4a23cf85673b8a069/0421_Update_Live_Ops_800x433_v3.jpg?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "0421 Update Live Ops 1600x443.jpg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6MQp5lctYgSpEuQa1OL3qM/0348a4b8a2455ad61dfac5813ceb542b/0421_Update_Live_Ops_1600x443.jpg?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p><b>Manutenção | 12 de Junto</b></p><p><u><b>Mudanças de Balanceamento</b></u></p><p><b>Hank</b></p><ul><li><p>Dano do ataque principal reduzido de 2000 → 1800</p></li><li><p>Saúde base reduzida de 6000 → 5000</p></li></ul><p><b>Correções de bugs</b></p><ul><li><p>Corrigido um bug em que Hank estava recebendo muito poder de fontes de buff (Cubos de energia, Gear, etc.)</p></li><li><p>Corrigida a escala de Super dano de Hank ao melhorar o Brawler</p></li><li><p>Corrigido um bug que ocorria quando Hank usava o Super bem em cima de um Brawler e causava mais dano do que deveria</p></li><li><p>A carga do Super de Hank agora escala de acordo com o dano causado</p></li><li><p>Corrigido o áudio de Hank ao receber dano</p></li></ul><p><b></b></p><p><b>Manutenção | 06 de Junho</b></p><p><u><b>Mudanças de Balanceamento</b></u></p><p><u>Buffs:</u>\n<b>Tara</b></p><ul><li><p>Dano básico por carta: 440 → 480</p></li><li><p>Cartas para o Super: 12 → 11</p></li></ul><p><b>Mortis</b></p><ul><li><p>Dano básico: 900 → 940</p></li></ul><p><b>Willow</b></p><ul><li><p>Inimigos controlados mentalmente agora não carregam seu Super através do dano causado quando estão sob o controle mental da Willow.</p></li><li><p>Aumento do alcance do super: 23 → 25</p></li><li><p>Willow agora recebe 25% menos dano ao controlar mentalmente um inimigo.</p></li></ul><p><b>8-bit</b></p><ul><li><p>Saúde base: 4800 → 5000</p></li></ul><p><u>\nNerfs:</u>\n<b>Janet</b></p><ul><li><p>Acessório  Som na Caixa - Saúde da Torreta: 1500 → 1000</p></li><li><p>Acessório | Som na Caixa - Deterioração da Torreta: 50 por mil → 100 por mil (100 Saúde por segundo)</p></li><li><p>Dano base: 1000 → 940 Acertos para o super: 6 → 7</p></li></ul><p><b>Max</b></p><ul><li><p>Saúde: 3200 → 3000</p></li><li><p>Dano: 340 → 320</p></li><li><p>Super: 13 tiros → 14 tiros</p></li></ul><p><b>Meg</b></p><ul><li><p>Saúde do Robô: 4000 → 3700</p></li><li><p>Acessório | Recarga Elétrica - 450 → 300 de cura</p></li></ul><p><b>Shelly</b></p><ul><li><p>Poder de Estrela | Xeque-mate - Desaceleração: 4,5 → 2 segundos</p></li><li><p>Saúde base: 3800 → 3700</p></li></ul><p><b>Surge</b></p><ul><li><p>Acessório | Escudo Energizador - Duração: 5 → 2 segundos</p></li><li><p>Acessório | Escudo Energizador - Redução de dano: 80 → 50%</p></li></ul><p><b>Penny</b></p><ul><li><p>Acessório | Barril de Sal - Saúde: 2000 → 1500</p></li><li><p>Saúde base: 3400 → 3200</p></li></ul><p><b>Ash</b></p><ul><li><p>Saúde base: 5400 → 5200</p></li></ul><p><b>Bea</b></p><ul><li><p>Recarga do Super: 3 munições → 4 munições</p></li></ul><p><b></b></p><p><b>Correção de Bugs</b></p><ul><li><p>Corrigido um problema de controle mental para Willow em Fute-Brawl</p></li><li><p>Correção de problema que resultava em Hank causando valores de dano inconsistentes</p></li></ul><p><b></b></p><p><b>Atualização opcional do Android | 31 de maio</b></p><ul><li><p>Adicionado um botão que permite aos jogadores fechar a mensagem de oferta do Visual da Liga Estelar ao desbloqueá-la.</p></li></ul><p><b></b></p><p><b>Manutenção | 23 de maio</b></p><p><b><u>Alterações na redefinição de troféus:</u></b></p><ul><li><p>A duração da Temporada de Troféus aumentou de 2 semanas para 4 semanas.</p></li><li><p>Redefinição do Brawler reduzida de 20 para 10 Brawlers.</p></li><li><p>Adicionado um limite “extra” a cada 25 Troféus após 500 Troféus (vai até 1000 Troféus).</p></li><li><p>Diminuiu o número de Troféus que você perde (Seu limite atual -1 Troféu), por ex. 750-774 troféus serão redefinidos para 749 troféus, por ex. 1450-1499 troféus serão redefinidos para 1449 troféus</p></li><li><p>As recompensas por Brawler agora são de 4 Bling (501-524 Troféus) até 64 Bling (1500 Troféus+) por Brawler.</p></li><li><p>Todas as alterações se aplicam à temporada atual, que agora vai até segunda-feira, 12 de junho</p></li></ul><p><b><u>Mudanças de Balanceamento</u></b></p><ul><li><p>Engrenagem de Visão: Não revela mais a invisibilidade concedida por habilidades (Sandy Super, Leon Gadget, Super do Leon)</p></li></ul><p><b></b></p><p><b>Manutenção | 15 de Maio</b></p><p><u><b>Mudanças de Balanceamento</b></u></p><p><b>Buffs</b></p><ul><li><p><b>Chester</b></p><ul><li><p>Saúde base: 3300 -&gt; 3500</p></li></ul></li><li><p><b>Mr. P</b></p><ul><li><p>Saúde base: 3000 -&gt; 3400</p></li></ul></li></ul><p><b>Nerfs</b></p><ul><li><p><b>Bea</b></p><ul><li><p>Multiplicador de dano de tiro carregado: 275% -&gt; 250% (3300 -&gt; 3000 Dano no Nível de Poder 11)</p></li></ul></li><li><p><b>Penny</b></p><ul><li><p>Saúde base: 3600 -&gt; 3400</p></li></ul></li><li><p><b>Amber</b></p><ul><li><p>Engrenagem Mítica: Quantidade de lentidão reduzida de 20% -&gt; 10%</p></li></ul></li><li><p><b>Meg</b></p><ul><li><p>Poder de Estrela: Campo de Força</p></li><li><p>Duração: 30 seg -&gt; 10 seg</p></li><li><p>Duração do Dano: 35% -&gt; 25%</p></li></ul></li><li><p><b>Janet</b></p><ul><li><p>Saúde base: 3400 -&gt; 3200</p></li></ul></li><li><p><b>Grom</b></p><ul><li><p>Saúde base: 3000 -&gt; 2800</p></li></ul></li></ul><p><u><b>Correções &amp; Melhorias</b></u></p><ul><li><p>Corrigido um problema em que as estatísticas de fim de batalha mostravam informações incorretas em alguns modos de jogo</p></li><li><p>Estamos testando uma medida para reduzir a quantidade de Brawlers duplicados no Combate (chega de Apocalipse de Meg!)</p></li></ul><p><b></b></p><p><b>Manutenção | 03 de Maio\n</b>Corrigidas as recompensas de redefinição da Temporada da Liga Estelar com base no progresso do jogador na temporada anterior da Liga Estelar.</p><p><b></b></p><p><b>Manutenção | 27 de Abril</b>\nEstamos fazendo várias correções para problemas relacionados ao novo Catálogo, travamentos e muito mais. Essas correções serão introduzidas por meio de uma Atualização Opcional, portanto, para aplicá-las, certifique-se de baixar a versão mais recente do jogo na Google Play Store ou na App Store!</p><p>Correções na atualização opcional:</p><ul><li><p>Corrigidos os Destaques de fim de batalha travando em algumas situações;</p></li><li><p>Corrigido o conteúdo antigo do Brawl Pass aparecendo no Catálogo;</p></li><li><p>Corrigido o ícone do Jogo aparecendo quebrado em alguns sistemas Android;</p></li><li><p>Corrigida a localização do Poder de Estrela do Grey;</p></li><li><p>Corrigida a notificação vermelha “Novo” aparecendo presa sobre o ícone da Loja;</p></li><li><p>Corrigido o problema em que o Visual Detetive Grey Edição Noir Cromática podia ser comprada sem possuir o Visual base;</p></li><li><p>Também estamos oferecendo 1.000 Bling (disponíveis por 7 dias na Loja) como compensação para os jogadores que compraram o Visual Detetive Grey e sua variação Edição Noir.</p></li></ul><p></p><p>---</p><p></p><p>Bem-vindo à Selva, parça!\nVocê vai lutar!</p><p></p><p>Novo Brawler: <b>Maisie</b> (Cromático)</p><ul><li><p>Ataque: <b>Canhão de Pressão</b></p><ul><li><p>Maisie dispara um projétil que ganha velocidade enquanto viaja.</p></li></ul></li><li><p>Super: <b>Onda de Choque</b></p><ul><li><p>Maisie carrega por uma fração de segundo, então cria uma grande onda de choque ao seu redor, causando dano e repelindo os inimigos.</p></li></ul></li><li><p>Acessório: <b>Desprendimento</b></p><ul><li><p>Maisie dispara no chão, recuando e deixando os inimigos atordoados por 0,5 segundos na explosão, enquanto corre para trás.</p></li></ul></li><li><p>Acessório: <b>Golpe Final</b></p><ul><li><p>Maisie recarrega instantaneamente 1 munição e aumenta o dano do próximo Canhão de Pressão em 30% com base na saúde restante do seu alvo.</p></li></ul></li><li><p>Poder de Estrela: <b>Precisão Cirúrgica</b></p><ul><li><p>Onda de Choque causa 10% de dano extra na distância máxima.</p></li></ul></li><li><p>Poder de Estrela: <b>Tremor</b></p><ul><li><p>Inimigos atingidos pelo Super Onda de Choque também são desacelerados em 20% por 2 segundos após o impacto. </p></li></ul></li></ul><p>Maisie estará disponível como recompensa do Brawl Pass (Patamar 30) durante a Temporada O Resgate. </p><p>Novo Brawler: <b>Hank</b> (Épico)</p><ul><li><p>Atributo: Atributo Tanque - Carrega o Super com danos sofridos</p></li><li><p>Ataque: <b>Balão Explosivo</b></p><ul><li><p>Hank começa a encher um balão que explode após ele disparar ou após 6 segundos, causando dano de área aumentado, máximo alcançado é 3 segundos. Hank tem apenas 1 munição que recarrega rápido (como a Amber).</p></li></ul></li><li><p>Super: <b>Peixe Torpedo</b></p><ul><li><p>Hank lança torpedos de peixe em todas as direções ao seu redor, que continuam viajando até atingir um alvo ou uma parede, causando pequenos danos à área</p></li></ul></li><li><p>Acessório: <b>Balão de Água</b></p><ul><li><p>O próximo Balão Explosivo também desacelera os inimigos por 3 segundos,  quanto mais tempo o balão tiver sido segurado. </p></li></ul></li><li><p>Acessório: <b>Barricada</b></p><ul><li><p>Hank recebe menos 40% de dano por 3 segundos.</p></li></ul></li><li><p>Poder de Estrela: <b>Vai Explodir</b></p><ul><li><p>Quando o carregamento do Balão Explosivo ultrapassa 80%, Hank ganha mais 20% de velocidade.</p></li></ul></li><li><p>Poder de Estrela:<b> Cobertura</b></p><ul><li><p>Hank recebe 20% menos dano quando está perto de muros/caixas/etc. </p></li></ul></li></ul><p>Hank estará disponível na loja para compra no início de Junho. \n</p><p>Nova Temporada: \n<b>LUTA NA SELVA: O RESGATE</b></p><p><b>\nNovos Visuais</b></p><p>Visuais da Temporada: <b>HERÓIS DA SELVA</b></p><ul><li><p>Colt Macaco (149 Gemas / 5.000 Bling)</p></li><li><p>Meg Jaguar (149 Gemas / 5.000 Bling) | Liga Estelar</p></li><li><p>Max Onça (79 Gemas / 2.750 Bling) + Max Pantera (Você precisa ter a Max Onça - 29 Gemas / 1.000 Bling) | Cromático</p></li><li><p>Buster Crocodilo (149 Gemas / 5.000 Bling) </p></li></ul><p>Os visuais <b>Heróis da Selva</b> estarão disponíveis no início de Maio. </p><p></p><p>Mini Tema: <b>LENDAS DO OLIMPO</b></p><ul><li><p>Tik Cérbero (199 Gemas)</p></li><li><p>Nani Ares (199 Gemas)</p></li><li><p>Brock Zeus (199 Gemas)</p></li></ul><p>Os visuais de <b>Lendas do Olimpo</b> estarão disponíveis no início de Junho.\n</p><p><b>Remodelação:</b></p><ul><li><p>Jessie Amazona (149 Gemas / 5.000 Bling) + Jessie Amazona Sombria (Você precisa ter a Jessie Amazona - 49 Gemas / 1.750 Bling)  | Cromático</p></li><li><p>Jessie Dragão Escarlate (Visual exclusivo do Aniversário Chinês)</p></li></ul><p>Vai estar disponível assim que a atualização estiver disponível.</p><p><b></b></p><p><b>Outros:</b></p><ul><li><p>Emz Fashionista (79 Gemas / 2.750 Bling) | Disponível durante a Golden Week</p></li><li><p>Carl Goblin (29 Gemas / 1.000 Bling) | Disponível fim de Maio</p></li><li><p>Leon Malhado (29 Gemas / 1.000 Bling) | Disponível fim de Maio</p></li><li><p>Buzz Monstro (29 Gemas / 1.000 Bling) | Disponível fim de Maio</p></li><li><p>Edgar Asa Preta  (29 Gemas / 1.000 Bling) | Disponível fim de Maio</p></li><li><p>Bibi Babalu (29 Gemas / 1.000 Bling) | Disponível fim de Maio</p></li></ul><p></p><p><b>Engrenagens</b></p><p>Nova Engrenagem:<b> Dano do Animal </b>(Épico)</p><ul><li><p>Pets causam 20% mais dano/cura </p></li><li><p>Disponível para:</p><ul><li><p>Jessie</p></li><li><p>Nita</p></li><li><p>Mr. P</p></li><li><p>Tara</p></li><li><p>Penny</p></li></ul></li></ul><p>Nova Engrenagem: <b>Amber</b> (Mítica)</p><ul><li><p>Os derramamentos de óleo de Amber agora também retardam os Brawlers inimigos</p></li><li><p>Disponível para:</p><ul><li><p>Amber</p></li></ul></li></ul><p>Nova Engrenagem: <b>Eve</b> (Mítica)</p><ul><li><p>O Super da Eve agora gera um filhote adicional</p></li><li><p>Disponível para:</p><ul><li><p>Eve</p></li></ul></li></ul><p><b></b></p><p><b>Novo Fluxo Final de Batalha</b></p><ul><li><p>Destaques do Jogo:</p><ul><li><p>Mostra um destaque do jogo para todos antes da Tela de Resultados</p></li></ul></li><li><p>Melhorias na Tela de Resultados:</p><ul><li><p>Agora você pode ver o dano total, derrubadas, mortes e muito mais</p></li><li><p>Parabéns: agora você pode dar “Parabéns” se gostou do desempenho de alguém (aliado ou oponente).</p></li></ul></li></ul><p>\n<b>Nova Moeda: Bling! </b></p><p>Estamos removendo os Pontos Estelares e introduzindo uma nova moeda, que é mais descritiva de sua finalidade:</p><p><b>Bling!</b></p><ul><li><p>Seu Saldo de Pontos Estelares atual será convertido em Bling na proporção de 10 para 1</p></li><li><p>Bling tem um limite de 7.000</p><ul><li><p>Seus Pontos Estelares convertidos podem ultrapassar o limite, mas você não poderá coletar mais nenhum Bling a menos que gaste o excedente.</p></li></ul></li><li><p>O Bling pode ser adquirido no Brawl Pass, Liga Estelar, Liga de Troféus, Missões, Desafios &amp; Presentes Diários.</p></li></ul><p>\n</p><p>Mudanças: <b>Liga Estelar</b> </p><p><b>Recompensas:</b></p><ul><li><p>A recompensa por vencer 30 rodadas agora é um Spray em vez de um Ícone de Jogador</p></li><li><p>A recompensa por vencer 60 rodadas permanece inalterada (opção de compra de Visual)</p></li><li><p>A recompensa por alcançar o Ouro I na Temporada permanece inalterada (Ícone de Jogador)</p></li><li><p>Em vez de uma recompensa única de Pontos Estelares no final da temporada, com base na classificação mais alta, os jogadores agora:</p><ul><li><p>Receberão 250 Bling a cada Classificação, que pode ser reivindicado imediatamente e apenas uma vez por temporada</p></li><li><p>Quando uma nova temporada começa, poderão coletar Bling de Classificações anteriores retroativamente.</p></li></ul></li></ul><p>\n<b>Reajuste sazonal:</b></p><p>O reajuste da temporada bimestral agora é mais significativo. A lógica por trás disso é que as pessoas podem ganhar uma quantidade considerável de Pontos Estelares sem esforço. Em outras palavras: a moeda “pra ganhar” deve ser... “ganhada”! Um efeito colateral positivo disso é que a velocidade do pareamento será mais rápida, especialmente no início da temporada.</p><p></p><p>Mudanças: <b>Liga de Troféus</b></p><p><b>Reajuste de Temporada:</b></p><p>O reajuste da Temporada vai ser a cada 2 semanas novamente, ao invés de a cada 2 meses. A grande mudança é que ao invés de reajustar todos os Brawler acima de 500 Troféus, iremos apenas reajustar os 20 Brawlers com maior número de Troféus na Temporada. </p><p>Também alteramos a tabela de reajuste para enfatizar o peso da <b>habilidade</b> do que puro investimento de tempo, ou seja, agora você será capaz de sustentar sua classificação atual com o mínimo de esforço, mesmo no limite superior, enquanto pode subir lentamente as classificações dos Brawlers - o que também deve melhorar indiretamente o pareamento porque a extremidade superior do intervalo de troféus (750+) se tornará mais competitiva com o tempo.</p><p>Você receberá Bling no reajuste da Temporada de Troféus. Será baseado em quantos troféus <b>seus 20 melhores Brawlers</b> possuem. Quanto mais troféus, mais Bling!</p><p></p><p>Mudanças: <b>Classificação de Brawler</b> / <b>Rank Up</b></p><p>Atualmente, você pode ganhar Pontos Estelares como recompensas únicas em determinadas classificações. Agora você receberá a mesma quantia, mas convertida em Bling.</p><p><b></b></p><p><b>Novo: Catálogo</b></p><p>O Catálogo é o novo local para encontrar e coletar todos os itens de personalização (cosméticos) que temos no jogo! Não precisa mais ficar esperando que aquele Visual ou Pacote de Reações tão desejados estejam em rotação. Agora está tudo num só lugar!</p><p>Você pode acessar através da Loja ou pela página do Brawler. </p><p><b></b></p><p><b>Mudanças nos Visuais:</b></p><p>Agora os Visuais tem raridades:</p><ul><li><p>Raridades de Visuais:</p><ul><li><p>Lendário = 299 Gemas | Não disponível por Bling</p></li><li><p>Mítico = 199 Gemas | Não disponível por Bling</p></li><li><p>Épico = 149 Gemas / 5.000 Bling</p></li><li><p>Super Raro = 79 Gemas / 2.750 Bling</p></li><li><p>Raro = 29 Gemas / 1.000 Bling</p></li></ul></li></ul><p><b>Brawl Pass</b></p><p>Recompensas:</p><ul><li><p>Patamar 1 do Brawl Pass Premium agora oferece 2.750 Bling ao invés de um Visual</p></li><li><p>Patamar 10 do Brawl Pass Premium  agora oferece 1.600 Bling ao invés de um Pacote de Reações</p></li><li><p>Patamar 43 do Brawl Pass Premium agora oferece um Ícone de Jogador ao invés de um Spray</p></li><li><p>Patamar 70 do Brawl Pass Grátis agora oferece 2.000 Moedas ao invés de um Pacote de Reações</p></li></ul><p>Compra:</p><ul><li><p>O Brawl Pass ainda estará disponível por 169 Gemas</p></li><li><p>O Pacote do Brawl Pass que inclui 10 Patamares não estará mais disponível</p></li><li><p>Estamos incluindo um novo pacote do Brawl Pass incluindo 5 Patamares por 9.99 USD (As moedas locais podem variar) </p></li></ul><p><b>Mudanças de Economia:</b></p><p>Já se passaram cerca de 4 meses desde que introduzimos o novo sistema de progressão linear para Brawl Stars e agora coletamos dados suficientes para fazer alguns pequenos ajustes para melhorar o sistema onde ele tem falhado no momento.</p><p><u>Melhorias para Jogadores Novos/Iniciais </u>(Abaixo de 10.000 Troféus)</p><p>Identificamos que os jogadores novos/iniciais desbloqueiam menos Brawlers do que o pretendido e mais lentos do que o pretendido. </p><p>Recebemos feedback de que desbloquear Brawlers de forma relativamente rápida e bater em uma parede assim que o primeiro Brawler Mítico Brawler estiver disponível na Trilha Estelar não parece bom.</p><p>Para resolver isso, faremos os seguintes ajustes:</p><ul><li><p>Aumentamos a quantidade de Vales no Caminho de Troféus entre 1.000 e 10.000 Troféus</p></li><li><p>Adicionamos 2 recompensas no Caminho de Troféus com 500 Vales Cromáticos em 2.000 e 4.000 Troféus</p></li><li><p>Estamos descontando o primeiro Brawler Épico que os jogadores desbloqueiam em 25%, e o primeiro Brawler Mítico em 50%, exatamente como já acontece com os Brawlers Lendários.</p></li></ul><p><u>Brawlers Cromáticos </u></p><p>Diminuiremos a quantidade de Vales Cromáticos necessários para desbloquear Brawlers Cromáticos nos estágios iniciais de seu lançamento:</p><ul><li><p>Temporada 1: 2.500 (antiga: 4.500)</p></li><li><p>Temporada 2: 1.250 (antiga: 1.500)</p></li><li><p>Temporada 3: 500 (inalterado)</p></li></ul><p><b>Gás Venenoso\n</b>O Gás Venenoso agora causa 20% de dano baseado no na saúde máxima do Brawler por segundo, nos primeiros 5 segundos no gás. Em seguida, causa 5% de dano extra por segundo para cada segundo extra no gás.</p><p>Essa mudança se aplica para:</p><ul><li><p>Combate</p></li><li><p>Nocaute</p></li><li><p>Duelos</p></li></ul><p><b>Pareamento</b></p><ul><li><p>Azarão</p><ul><li><p>Atualmente, pode ser desmotivador ver o banner &quot;Azarão&quot; no início de uma partida. Você não pode fazer nada sobre isso neste momento e é mais provável que perca troféus se for um Azarão. Então decidimos fazer algumas mudanças:</p></li><li><p>O banner “Azarão” só será mostrado no final da batalha;</p></li><li><p>Azarões não perderão nenhum troféu se perderem a partida, mas ainda receberão mais troféus do que o normal se vencerem;</p></li><li><p>O requisito para ativar o Azarão diminuiu para 150 Troféus;</p></li></ul></li><li><p>Nomes</p><ul><li><p>Os nomes dos jogadores agora estarão visíveis para partidas (3v3, Combate) até 1.000 Troféus (em vez de 600) e Mestres (em vez de Mítico) para Liga Estelar;</p></li></ul></li><li><p>Lista Negra de jogadores em pareamento de ponta (800+ troféus)</p><ul><li><p>Reduzimos o período de &quot;lista negra&quot; após conhecer jogadores em partidas de alto nível. Isso vai melhorar o tempo de pareamento para jogadores com mais troféus e reduzirá a quantidade de partidas Azarão, tornando o pareamento melhor.</p></li><li><p>Essa mudança também afeta a Liga Estelar e a Liga de Clubes.</p></li></ul></li></ul><p><b>Caça-Estrelas</b></p><p>Adicionamos uma nova condição de vitória para Caça-Estrelas. Atualmente, a partida só termina após 120 segundos, com a vitória do time com mais estrelas. Com esta atualização você também pode vencer ao atingir 20 Estrelas, antes do seu adversário.</p><p>Se nenhuma equipe atingir 20 estrelas antes de 120 segundos de jogo, a equipe com mais estrelas vence - como antes. E se for um empate, o time com a Estrela Azul vence.</p><p>Essa alteração deve ajudar a diminuir o tempo total de jogo do Caça-Estrelas se um time acabar DESTRUINDO o outro.</p><p><b>Novo Modificador: Cachorro Cura </b>(Temporário)</p><p>Estamos testando uma nova variação de Combate (Solo, Duplo) <b>sem</b> recuperação automática de vida.</p><p>As habilidades de cura ativas disponíveis para alguns Brawlers funcionarão normalmente.</p><p>Além disso, cachorros-quentes curativos aparecerão no mapa ao derrotar Brawlers!</p><p>Esperamos recompensar um estilo de jogo mais agressivo e desencorajar os jogadores a pararem de fazer timinho.</p><p>Se você é o último vivo, você é o vencedor!</p><p><b>Evento da Comunidade\n</b>Os resultados estão aí! Mais de 300.000 de vocês votaram no YouTube, e aqui está o que temos:</p><ul><li><p><b>Volei-Brawl</b> venceu com 60% dos votos e será adicionado ao jogo!</p></li><li><p><b>Duelos</b> foi o vice-campeão com 18% dos votos e vai permanecer no jogo. Porém, vamos introduzir novos mapas! </p></li><li><p><b>Hunters</b> recebeu 15% dos votos e não será adicionado ao jogo. </p></li><li><p><b>Basquete-Brawl </b>só recebeu 7% dos votos e foi removido do jogo.</p></li></ul><p><b>Evento: Salvem os Sapos</b></p><ul><li><p>Semelhante ao evento de Ovos da temporada anterior, mas nesse você coleta Sapos (para salvá-los!).</p></li><li><p>Você pode obter Moedas, Pontos de Poder e Bling dos sapos coletados.</p></li><li><p>Antes do limite máximo de Sapos coletados, os jogadores receberão recompensas em uma margem conforme mostrado abaixo;</p><ul><li><p>Existe um limite máximo de 40 sapos, ou seja, após 40 sapos, você receberá apenas 1 unidade de cada uma das recompensas.</p></li><li><p>Há também um limite máximo de 85 Sapos, você não receberá mais nenhuma recompensa mesmo se coletar mais sapos e receberá uma mensagem dizendo para você voltar no dia seguinte.</p></li></ul></li><li><p>Evento será executado entre 3 a 5 dias.</p></li></ul><p><b>Itens de Personalização (Cosméticos)</b></p><p><b>Reações\n</b>Colt Macaco, Buster Crocodilo, Meg Jaguar, Max Onça, Max Pantera, 3 Macacos Espertos,\nNani Ares, Brock Zeus, Tick Cerbéro, Punho do Olimpo, Relâmpago do Olimpo, Fogo do Olimpo,\nGato da Golden Week, Caveira da Semana de Ouro, Emz Fashionista, \nSapo Amazônico\nEugênio do Mal, Dynamáquina, El Rey Primo, Emz Superfã, Max Hermes, Jessie Felina, Jessie Amazona, 8-bit Virus, Colt Esportista\nLeon Esports, Max Esports </p><p><b>Novos Sprays\n</b>Spray da Selva, Colt Macaco, Buster Crocodilo, Meg Jaguar, Max Onça\nNani Ares, Brock Zeus , Tick Cerbéro \nSpray Golden Week, Emz Fashionista\nSapo Amazônico\nBling</p><p><b>Ícone de Jogador\n</b>Ícone de Jogador da Selva, Máscaras da Selva, Colt Macaco, Buster Crocodilo, Meg Jaguar, Max Onça\nVisuais de Heróis do Olimpo, Nani Ares, Brock Zeus , Tick Cerbéro \nGolden Week (5x), Emz Fashionista\nSapo Amazônico\nÍcone de Jogador do Fundo do Mar</p><p>\n<b>Títulos\n</b></p><p><b>Mudanças de Balanceamento</b></p><p>SUPERCELL ONDE ESTÃO AS MUDANÇAS?\nEstamos tendo alguns eventos competitivos logo após a atualização, então não queremos abalar TANTO o meta - com isso dito, devemos ter mudanças de balanceamento maiores no final do mês.</p><p><b><u>Buffs</u></b></p><p><b>Edgar</b></p><ul><li><p>Saúde base - 2800 → 3000\nAgora estamos ciente de que esta é a reformulação que realmente era esperada. No entanto, até que possamos lidar com isso, aqui está um pouco mais de amor por Edgar, que está tendo um desempenho ligeiramente inferior. Isso deve ajudá-lo a utilizar melhor seu roubo de vida passivo, pois ele não será derrotado tão rápido.</p></li></ul><p>\n<b>Shelly</b></p><ul><li><p>Velocidade de movimento - 720 → 820 (rápido → muito rápido)\nAgora finalmente sabemos a resposta para &quot;QUANDO VOCÊ VAI BUFF SHELLY?&quot; - é agora. Parabéns!</p></li></ul><p><u>Nerfs</u></p><p><b>R-T</b></p><ul><li><p>Saúde Base - 4100 → 3900</p></li><li><p>Tempo entre ataques na forma dividida - 250 ms -&gt; 500 ms\nR-T pousou em uma posição bastante forte depois que o Meta se estabilizou um pouco. Seus 2 pontos fortes mais significativos são sua durabilidade como um Brawler de longo alcance e a velocidade de descarga + explosão de sua forma dividida, então estamos ajustando ambos ligeiramente. Isso deve ajudar em algumas interações e colocá-lo em um lugar mais equilibrado. Estamos observando ele tanto quanto ele está nos observando!</p></li></ul><p><u>Repaginação</u></p><p><b>Meg</b></p><ul><li><p>Meg agora começa na sua forma de Robô</p></li><li><p>A forma de robô tem menos saúde e dano</p></li><li><p>A forma de robô não perde saúde com o tempo</p></li><li><p>A forma de robô não recebe mais cura reduzida</p></li><li><p>O Super da forma de robô carrega com dano e não ao longo do tempo\nA repaginação que ninguém pediu mas todos queriam (ou assim esperamos)! Na verdade, Meg tem se saído muito bem, especialmente em classificações mais altas, mas ela é muito pouco utilizada. Achamos que muitos jogadores nunca conseguem experimentar a alegria da forma de Robô, apenas a fragilidade de sua forma pequena. Inverter um pouco o design deve ajudá-la a se sentir melhor desde o início, mas é claro que tivemos que compensar tornando sua forma Robô mais fraca.</p></li></ul><p>\n<b>Mapas, Modos de Jogo &amp; Mudanças de Rotação</b></p><ul><li><p><b>Volei-Brawl</b></p></li><li><p>Adicionado</p><ul><li><p>Estratégia de Isolamento (Novo)</p></li><li><p>Caminho da Vitória (Novo)</p></li><li><p>Terra da Cortada (Novo)</p></li><li><p>Filho de Peixe (Novo)</p></li></ul></li><li><p>Removido</p><ul><li><p>Nenhum</p></li></ul></li><li><p><b>Caça-Estrelas</b></p></li><li><p>Adicionado</p><ul><li><p>Pradaria Traiçoeira</p></li></ul></li><li><p>Removido</p><ul><li><p>Cruzamento</p></li></ul></li><li><p><b>Fute-Brawl</b></p></li><li><p>Adicionado</p><ul><li><p>Salto</p></li><li><p>Quicada Extra</p></li></ul></li><li><p>Removido</p><ul><li><p>Corredor de Ferro</p></li><li><p>Movimento Circular</p></li></ul></li><li><p><b>Duelos</b></p></li><li><p>Adicionado</p><ul><li><p>Circuito letal (Novo)</p></li><li><p>Foco no Chão (Novo)</p></li><li><p>Afunilamento Afoito (Novo)</p></li><li><p>Campo em Ruínas (Novo) </p></li></ul></li><li><p>Removido</p><ul><li><p>Núcleo de Ferro</p></li><li><p>Ilha Sinistra</p></li><li><p>Quatro Lagos</p></li><li><p>Buraco de Toupeira</p></li></ul></li><li><p><b>Pique-Gema</b></p></li><li><p>Adicionado</p><ul><li><p>Fliperama Rústico</p></li></ul></li><li><p>Removido</p><ul><li><p>Quatro Portas</p></li></ul></li><li><p><b>Roubo</b></p></li><li><p>Adicionado</p><ul><li><p>Piscar de Olhos</p></li></ul></li><li><p>Removido</p><ul><li><p>Roubo Desviado</p></li></ul></li><li><p><b>Zona Estratégica</b></p></li><li><p>Adicionado</p><ul><li><p>Aberto</p></li><li><p>Templo Bum</p></li></ul></li><li><p>Removido</p><ul><li><p>Hora do Hush</p></li><li><p>Três Poderes</p></li></ul></li><li><p><b>Nocaute</b></p></li><li><p>Adicionado</p><ul><li><p>Profundezas</p></li></ul></li><li><p>Removido</p><ul><li><p>Passo a Passo</p></li></ul></li><li><p><b>Combate</b></p></li><li><p>Adicionado</p><ul><li><p>Fantasias Voadoras</p></li></ul></li><li><p>Removido</p><ul><li><p>Polos Exuberantes</p></li></ul></li><li><p><b>Classificação</b> (Liga Estelar / Liga de Clubes)</p><ul><li><p>Caça-Estrelas: Campo de Tiro, Estação Seca, Bolo em Camadas</p></li><li><p>Fute-Brawl: Bocha, Tiro livre, Buraco de Toupeira</p></li><li><p>Pique-Gema: Mina Rochosa, Forte de Gemas, Fliperama de Cristal</p></li><li><p>Roubo: Batata Quente, Ravina Kabum, Zona Segura</p></li><li><p>Zona Estratégica: Anel de Fogo, Jogadas Paralelas, Dividido</p></li><li><p>Nocaute: Caverna do Braço dourado, Descampado, Fênix Flamejante</p></li></ul></li></ul><p><b>Mudanças de Ambiente de Mapas</b></p><p>Adicionado: </p><ul><li><p>O Resgate (Novo) | Casa do Bo, Nita e Leon </p></li><li><p>Show de Acrobacia  </p></li><li><p>Fundo do Mar</p></li><li><p>Combate - Fliperama (Novo) </p></li><li><p>Combate - Show de Acrobacia (Novo)</p></li></ul><p>Removido:</p><ul><li><p>Rábrica de Robôs</p></li><li><p>Combate Fábrica de Robôs </p></li><li><p>Bazar da Tara</p></li><li><p>Fábrica de Doces</p></li></ul><p><b>Correção de Bugs</b></p><ul><li><p>Corrigido um bug que permitia que as solicitações de amizade &quot;Fantasmas&quot; bloqueassem a lista de amigos das pessoas</p></li><li><p>Corrigido um bug com o Super VFX do Detetive Gray edição Noir</p></li><li><p>Corrigido um bug visual com a torreta da Penny Coelha e Penny Coelha Sombria </p></li></ul><p></p>"
+          }
+        }
+      },
+      {
+        "id": "1qAy9fn5Mwb73DzSsR7H27",
+        "targeting": null,
+        "metadata": {
+          "id": "1qAy9fn5Mwb73DzSsR7H27",
+          "publishedVersion": 29,
+          "publishedAt": "2023-06-05T11:17:02.806Z"
+        },
+        "postDate": "1685952821",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "Salve Os Sapos!",
+        "categories": [{ "title": "Notícias", "color": "#000000" }],
+        "newUntil": "1686171600",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "05_Save the frogs 800x433.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/3fb0jK0uPaVdFzhPKdBjR0/b3c892ec5045a7c55530a4b1d6d179b3/05_Save_the_frogs_800x433.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=320&h=89&f=center&fit=fill",
+            "width": 320,
+            "height": 89
+          },
+          "smallRetina": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=640&h=177&f=center&fit=fill",
+            "width": 640,
+            "height": 177
+          },
+          "medium": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=800&h=222&f=center&fit=fill",
+            "width": 800,
+            "height": 222
+          },
+          "mediumRetina": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=960&h=266&f=center&fit=fill",
+            "width": 960,
+            "height": 266
+          },
+          "large": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=1280&h=354&f=center&fit=fill",
+            "width": 1280,
+            "height": 354
+          },
+          "largeRetina": {
+            "title": "0605 Save the frogs 1600x443.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/11xgxyHpFcEeh8Kvg7NJZs/35eed471a7691cce998929876983436b/0605_Save_the_frogs_1600x443.png?w=1600&h=443&f=center&fit=fill",
+            "width": 1600,
+            "height": 443
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Para o Dia Mundial do Meio Ambiente, estamos aumentando a conscientização sobre o Sapo Arlequim encontrado nas densas selvas da Amazônia, por meio do nosso evento &quot;Save the Frogs&quot;. \nEsses anfíbios coloridos estão à beira da extinção, com mais de 40% das espécies tendo desaparecido de seus locais conhecidos. A mudança climática e a perda de biodiversidade são dois lados da mesma moeda, ambos em risco devido às atividades insustentáveis que realizamos como seres humanos. Desde o corte de florestas para abrir espaço para a agricultura e a pecuária, ou mesmo para o desenvolvimento urbano, até a pesca excessiva e a mineração, tudo isso afeta os animais selvagens, as plantas e os ecossistemas ao nosso redor. </p><p>Com nossa participação na Green Game Jam da Play for the Planet, esperamos conectar os jogadores à natureza e compartilhar conhecimento sobre o papel fundamental que a natureza desempenha em nossa saúde e bem-estar. Tudo está conectado em nosso planeta. A natureza nos dá a água em nossas torneiras, a comida em nossos pratos e muito mais. Sem um planeta saudável, tudo fica muito mais difícil para todos nós. </p><p>Todos nós podemos fazer uma contribuição positiva aprendendo mais sobre os efeitos da mudança climática e nosso impacto no ambiente ao nosso redor. Leia mais aqui: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fwww.milkywire.com%2Fgreengamejam%2Fsupercell%2Fbrawl-stars-amazon%20')\">https://www.milkywire.com/greengamejam/supercell/brawl-stars-amazon </a></p><p>E se você gostou desse evento, VOTE para que o Brawl Stars vença o prêmio Escolha do Jogador do Green Game Jam: <a href=\"javascript:window.sendCommand('OpenWeb?url=https%3A%2F%2Fgreengamejam.playing4theplanet.org%2Fparticipants%2Fbrawl-stars')\">https://greengamejam.playing4theplanet.org/participants/brawl-stars</a></p>"
+          }
+        }
+      },
+      {
+        "id": "yRL5Wxev5q98IbkGlFPnX",
+        "targeting": null,
+        "metadata": {
+          "id": "yRL5Wxev5q98IbkGlFPnX",
+          "publishedVersion": 29,
+          "publishedAt": "2023-06-01T15:40:55.335Z"
+        },
+        "postDate": "1685628000",
+        "lang": "pt",
+        "section": "newsEntries",
+        "title": "PODCAST - HORA DE EXPLICAR #EPISÓDIO2 (EM INGLÊS)",
+        "categories": [{ "title": "Comunidade", "color": "#ff0000" }],
+        "newUntil": "1685826000",
+        "type": "videoNewsEntry",
+        "embed": {
+          "id": "22foQWfEpgPSw1kFVtdmPM",
+          "provider": "youtube",
+          "url": "https://youtu.be/qwqJy_rwX5s"
+        },
+        "embedVideo": false,
+        "listingSize": "large",
+        "thumbnail": {
+          "small": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=160&h=87&f=center&fit=fill",
+            "width": 160,
+            "height": 87
+          },
+          "smallRetina": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=320&h=173&f=center&fit=fill",
+            "width": 320,
+            "height": 173
+          },
+          "medium": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=400&h=217&f=center&fit=fill",
+            "width": 400,
+            "height": 217
+          },
+          "mediumRetina": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=480&h=260&f=center&fit=fill",
+            "width": 480,
+            "height": 260
+          },
+          "large": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=640&h=346&f=center&fit=fill",
+            "width": 640,
+            "height": 346
+          },
+          "largeRetina": {
+            "title": "0601 Time to explain 1920x1080.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4hX8ggq8MxYDlcdiZ3bHih/de30eb8163105778b84a6069f13b86f6/0601_Time_to_explain_1920x1080.png?w=800&h=433&f=center&fit=fill",
+            "width": 800,
+            "height": 433
+          }
+        }
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langNewer": "Mais recentes",
+    "globalText.langVoteTryAgainLabel": "Ops! Tente novamente.",
+    "globalText.langVoteResultsButtonLabel": "Mostrar resultados",
+    "globalText.langVoteDefaultButtonLabel": "Votar",
+    "globalText.close": "Fechar",
+    "globalText.thanksForVoting": "Agradecemos pelo seu voto!",
+    "globalText.langVoteSubmitLabel": "Enviar",
+    "globalText.langDay": "dia",
+    "globalText.langOlder": "Mais antigos",
+    "globalText.langLoadMore": "Carregar mais",
+    "globalText.langNew": "Novo",
+    "globalText.esportLive": "Ao vivo",
+    "globalText.langCastYourVote": "Dê seu voto",
+    "globalText.langBy": "Por:",
+    "globalText.langEsportLive": " Ao vivo",
+    "globalText.langEsportGlobalPosts": "Publicações globais",
+    "globalText.langCommunityWatchLive": "Veja [NAME_OF_PLAYER] ao vivo",
+    "globalText.langCommunityLive": "Ao vivo",
+    "globalText.langFollowUs": "Siga-nos",
+    "globalText.esportFollowing": "Seguindo",
+    "globalText.esportChangeRegion": "Alterar região",
+    "globalText.esportFollow": "Você pode seguir",
+    "globalText.esportDone": "Concluído",
+    "communityText.langLive": "Ao vivo",
+    "globalText.langEsportChange Region": "Alterar região",
+    "globalText.langEsportCurrentlyFollowing": "Seguindo",
+    "globalText.langEsportFollowMore": "Seguir mais",
+    "globalText.langEsportDoneCTAButton": "Concluído",
+    "globalText.langEsportYouCanFollow": "Você pode seguir",
+    "globalText.langEsportCTANextText": "Próximo",
+    "globalText.langEsportWelcomeTo": "Bem-vindo ao Esports!",
+    "globalText.langEsportEsportIntro": "Aqui você receberá notícias e transmissões do Campeonato Mundial de Brawl Stars e de torneios da comunidade",
+    "globalText.langEsportRevealScore": "Mostrar Pontuação",
+    "globalText.langEsportLiveIn": "Ao vivo em",
+    "globalText.langHourCountdown": "h",
+    "globalText.langSecondsAbbreviated": "sec",
+    "globalText.langDayAgo": "{x} dia atrás",
+    "globalText.langDays": "dias",
+    "globalText.langDaysAgo": "{x} dias atrás",
+    "globalText.langHourAgo": "{x} hora atrás",
+    "globalText.langHoursAbbreviated": "h",
+    "globalText.langMinuteAgo": "{x} minuto atrás",
+    "globalText.langMinutesAgo": "{x} minutos atrás",
+    "globalText.langMinutesAbbreviated": "min",
+    "globalText.langHoursAgo": "{x} horas atrás",
+    "globalText.langHoursCountdown": "h",
+    "globalText.langMinuteCountdown": "min",
+    "globalText.langMinutesCountdown": "min",
+    "globalText.langEndsIn": "Termina em:",
+    "globalText.langSecondCountdown": "sec",
+    "globalText.langSecondsCountdown": "sec",
+    "globalText.langGo": "Ir!"
+  },
+  "socialLinks": [
+    {
+      "linkUrl": "https://www.reddit.com/r/Brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Reddit.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2QJWRX8PoH2SyZNswGtEXA/755b49532d5c03d8f337dec9975561f3/Reddit.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.youtube.com/channel/UCooVYzDxdwTtGYAkcPmOgOw",
+      "socialLinkImage": {
+        "small": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Youtube.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/4EvkmgRSM70aRGQQ1PN5kT/89ce0dfeeb9807ec9a3c0a214f7ab162/Youtube.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.facebook.com/brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Facebook.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1bqzktxmpHRlQIua9Aoqsn/65f2ec8b0111446b59aec195beb58485/Facebook.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://twitter.com/brawlstars",
+      "socialLinkImage": {
+        "small": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Twitter.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/rEnwKoOa24GXF1GuW2o2B/ab3703af35a4a5fe6e417a4c24a27d0b/Twitter.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "http://supr.cl/tiktok-inbox",
+      "socialLinkImage": {
+        "small": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Tiktok.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/VVOdLMCNBXRgxC5XIrchZ/53636aa214417c077d988c21898bcd24/Tiktok.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.instagram.com/brawlstars/",
+      "socialLinkImage": {
+        "small": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=10&h=10&f=center&fit=fill",
+          "width": 10,
+          "height": 10
+        },
+        "smallRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=19&h=19&f=center&fit=fill",
+          "width": 19,
+          "height": 19
+        },
+        "medium": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=24&h=24&f=center&fit=fill",
+          "width": 24,
+          "height": 24
+        },
+        "mediumRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "large": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "largeRetina": {
+          "title": "Instagram.svg",
+          "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/55ULOqOmM6Fv9UdWNFTOxK/d5e4ef7bbbe9641b791a0a0d55de2005/Instagram.svg?w=48&h=48&f=center&fit=fill",
+          "width": 48,
+          "height": 48
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "meta": { "id": 0, "date": "1693125087" },
+  "entries": {
+    "communityCreators": [
+      {
+        "id": "40uHUOfvJi3rwJJarsT71m",
+        "postDate": "1692806243",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Cleopatra",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra"
+      },
+      {
+        "id": "2xJRMydQzidRn7sc7w36Sd",
+        "postDate": "1692806243",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Cleopatra",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra"
+      },
+      {
+        "id": "11u792ccqwrLBKuOe20Bye",
+        "postDate": "1687855479",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Robzi",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "75-b90a3992-699b-4aca-aade-3c0444838cb2",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 75-b90a3992-699b-4aca-aade-3c0444838cb2\nUser Name: Robzi"
+      },
+      {
+        "id": "6lLMXUfpXNyASedCTUMMI6",
+        "postDate": "1692806243",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Cleopatra",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra"
+      },
+      {
+        "id": "2c0fxAWTAmtVVbpYYGm967",
+        "postDate": "1687710581",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "ClusTy",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "58-9f88496b-3940-4b8b-86a2-01ef7c083b85",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 58-9f88496b-3940-4b8b-86a2-01ef7c083b85\nUser Name: ClusTy"
+      },
+      {
+        "id": "2SFxgfIYsz0DIaWZPM3ouZ",
+        "postDate": "1692806243",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityCreators",
+        "type": "communityCreator",
+        "author": "GuestContent",
+        "name": "Cleopatra",
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=10&h=10&f=center&fit=fill",
+            "width": 10,
+            "height": 10
+          },
+          "smallRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=20&h=20&f=center&fit=fill",
+            "width": 20,
+            "height": 20
+          },
+          "medium": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=25&h=25&f=center&fit=fill",
+            "width": 25,
+            "height": 25
+          },
+          "mediumRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=30&h=30&f=center&fit=fill",
+            "width": 30,
+            "height": 30
+          },
+          "large": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=40&h=40&f=center&fit=fill",
+            "width": 40,
+            "height": 40
+          },
+          "largeRetina": {
+            "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603?w=50&h=50&f=center&fit=fill",
+            "width": 50,
+            "height": 50
+          }
+        },
+        "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra"
+      }
+    ],
+    "communityEntries": [
+      {
+        "id": "40uHUOfvJi3rwJJarsT71m",
+        "postDate": "1690380060",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "10 СОВЕТОВ НОВИЧКАМ ДЛЯ БЫСТРОЙ ПРОКАЧКИ АККАУНТА",
+        "videoUrl": "https://youtu.be/ufE4qVCuh9M",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/27CkL5bWb2aBYT8myBzoh4/beefafb8267e68149a70dfc0a63cfc7a/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-dpme.jpeg-1690380053894?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+        "creator": {
+          "A8bwxs9AhwgTbVrgT9JhHHDNppwQiVHGI5L6Jj45sEk": {
+            "type": "communityCreator",
+            "name": "Cleopatra",
+            "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+            "thumbnail": {
+              "default": {
+                "height": 720,
+                "width": 720,
+                "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/ufE4qVCuh9M",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1690552853"
+      },
+      {
+        "id": "2xJRMydQzidRn7sc7w36Sd",
+        "postDate": "1688557483",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "ОТКРЫЛА 300 ПРИЗОВ СТАРР НА АККЕ СО ВСЕМИ БРАВЛЕРАМИ",
+        "videoUrl": "https://youtu.be/PdsRNR-TrNo",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1kuKZlXa9AMBX9AE80Em0C/d30317f578baaff19372dfe5c6ba2fa5/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-cpvs.jpeg-1688557477183?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+        "creator": {
+          "A8bwxs9AhwgTbVrgT9JhHHDNppwQiVHGI5L6Jj45sEk": {
+            "type": "communityCreator",
+            "name": "Cleopatra",
+            "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+            "thumbnail": {
+              "default": {
+                "height": 720,
+                "width": 720,
+                "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/PdsRNR-TrNo",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1688730276"
+      },
+      {
+        "id": "11u792ccqwrLBKuOe20Bye",
+        "postDate": "1687855479",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "БРАВЛ ТОЛК НА РУССКОМ! ЯЩИКИ? ПРОЩАЙ ПАУЛА BRAWL STARS",
+        "videoUrl": "https://www.youtube.com/watch?v=uwRyx28EllI",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/6yNeaJNqvFDQ2fycn3LJmX/9772bab4303c88a10f3e24bb94e34499/guest-content-video-75-b90a3992-699b-4aca-aade-3c0444838cb2-bvjl.jpeg-1687855473398?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 75-b90a3992-699b-4aca-aade-3c0444838cb2\nUser Name: Robzi",
+        "creator": {
+          "sQn0AHtetJi1_RlsC0c_IQ7dMom0jm3lJ4vxAkwCGuM": {
+            "type": "communityCreator",
+            "name": "Robzi",
+            "creatorId": "75-b90a3992-699b-4aca-aade-3c0444838cb2",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 75-b90a3992-699b-4aca-aade-3c0444838cb2\nUser Name: Robzi",
+            "thumbnail": {
+              "default": {
+                "height": 400,
+                "width": 400,
+                "title": "guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/79OEdTxGbyRpUvKZheLFZX/f5e8da4e59e020c95eddd88499d1fbeb/guest-content-creator-75-b90a3992-699b-4aca-aade-3c0444838cb2-oaph.png-1682412429717"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://www.youtube.com/watch?v=uwRyx28EllI",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1688028272"
+      },
+      {
+        "id": "6lLMXUfpXNyASedCTUMMI6",
+        "postDate": "1687804270",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "19 СЕЗОН БРАВЛ ПАСС: ТЕСТ КОРДЕЛИУСА, 2 ПАССИВКИ И ГАДЖЕТЫ",
+        "videoUrl": "https://youtu.be/nZFURSypvcI",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1oUTAOkpsGq9673TsuD0yO/bbebfcdd542379f3c77003deff8662e9/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-lqrl.jpeg-1687804263571?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+        "creator": {
+          "A8bwxs9AhwgTbVrgT9JhHHDNppwQiVHGI5L6Jj45sEk": {
+            "type": "communityCreator",
+            "name": "Cleopatra",
+            "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+            "thumbnail": {
+              "default": {
+                "height": 720,
+                "width": 720,
+                "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/nZFURSypvcI",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1687977062"
+      },
+      {
+        "id": "2c0fxAWTAmtVVbpYYGm967",
+        "postDate": "1687710581",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "СНИК ПИК 1 ДЕНЬ ПРИЗЫ СТАРР И МНОГОЕ ДРУГОЕ",
+        "videoUrl": "https://www.youtube.com/watch?v=wB2nJ2QP4bw&t=148s",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/47aV3BxhxgMktxMtPAFUcO/6c40d79bf3971d17946df8711492ff4a/guest-content-video-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-br7k.png-1687710576097?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 58-9f88496b-3940-4b8b-86a2-01ef7c083b85\nUser Name: ClusTy",
+        "creator": {
+          "wBom8iLAcf75YtDeQEYXv": {
+            "type": "communityCreator",
+            "name": "ClusTy",
+            "creatorId": "58-9f88496b-3940-4b8b-86a2-01ef7c083b85",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 58-9f88496b-3940-4b8b-86a2-01ef7c083b85\nUser Name: ClusTy",
+            "thumbnail": {
+              "default": {
+                "height": 50,
+                "width": 50,
+                "title": "guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/2G7VP0lV0P65NfJb4uTU9N/c9cd878e2c9cd453816bbef9e854481d/guest-content-creator-58-9f88496b-3940-4b8b-86a2-01ef7c083b85-u8lr.png-1683370793887"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://www.youtube.com/watch?v=wB2nJ2QP4bw&t=148s",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1687883374"
+      },
+      {
+        "id": "2SFxgfIYsz0DIaWZPM3ouZ",
+        "postDate": "1685639949",
+        "expiryDate": null,
+        "lang": "ru",
+        "section": "communityEntries",
+        "categories": [],
+        "title": "ПИКИ ДЛЯ ПОБЕДЫ В ИСПЫТАНИИ ЧЕМПИОНАТА",
+        "videoUrl": "https://youtu.be/YKPRx16JHAE",
+        "author": "GuestContent",
+        "embedVideo": false,
+        "thumbnail": {
+          "small": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=256&h=144&f=center&fit=fill",
+            "width": 256,
+            "height": 144
+          },
+          "smallRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=512&h=288&f=center&fit=fill",
+            "width": 512,
+            "height": 288
+          },
+          "medium": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=640&h=360&f=center&fit=fill",
+            "width": 640,
+            "height": 360
+          },
+          "mediumRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=768&h=432&f=center&fit=fill",
+            "width": 768,
+            "height": 432
+          },
+          "large": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=1024&h=576&f=center&fit=fill",
+            "width": 1024,
+            "height": 576
+          },
+          "largeRetina": {
+            "title": "guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg",
+            "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1nCnx9qn1dhX4IjPVnxWli/ebaab1c8404a9ca37c1e46b7b7d4336e/guest-content-video-28-7da17170-82bd-4fff-878d-8adb0419adec-ub9m.jpeg-1685639943706?w=1280&h=720&f=center&fit=fill",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+        "creator": {
+          "A8bwxs9AhwgTbVrgT9JhHHDNppwQiVHGI5L6Jj45sEk": {
+            "type": "communityCreator",
+            "name": "Cleopatra",
+            "creatorId": "28-7da17170-82bd-4fff-878d-8adb0419adec",
+            "submissionInfo": "Submission Type: Portal\nUser ID: 28-7da17170-82bd-4fff-878d-8adb0419adec\nUser Name: Cleopatra",
+            "thumbnail": {
+              "default": {
+                "height": 720,
+                "width": 720,
+                "title": "guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg",
+                "path": "https://brawlstars.inbox.supercell.com/xdjcscmv3zo3/1AqeH88DAyOqF94jYe6E1D/75d01364dc27c48c79b17e6a587a037e/guest-content-creator-28-7da17170-82bd-4fff-878d-8adb0419adec-gxsa.jpeg-1678977079603"
+              }
+            }
+          }
+        },
+        "embed": {
+          "url": "https://youtu.be/YKPRx16JHAE",
+          "provider": "youtube",
+          "id": ""
+        },
+        "type": "communityEntry",
+        "newUntil": "1685812742"
+      }
+    ]
+  },
+  "globals": {
+    "globalText.langNewer": "Новое",
+    "globalText.langVoteTryAgainLabel": "Ой! Придется попробовать еще раз.",
+    "globalText.langVoteResultsButtonLabel": "Результаты",
+    "globalText.langVoteDefaultButtonLabel": "Голосовать",
+    "globalText.close": "Закрыть",
+    "globalText.thanksForVoting": "Спасибо за участие в голосовании!",
+    "globalText.langVoteSubmitLabel": "Отправить",
+    "globalText.langDay": "день",
+    "globalText.langOlder": "Архив",
+    "globalText.langLoadMore": "Еще",
+    "globalText.langNew": "Новое",
+    "globalText.esportLive": "Прямой эфир!",
+    "globalText.langCastYourVote": "Oтдай свой голос",
+    "globalText.langBy": "Автор:",
+    "globalText.langEsportLive": "Прямой эфир!",
+    "globalText.langEsportGlobalPosts": "Глобальные события",
+    "globalText.langCommunityWatchLive": "Прямой эфир: [NAME_OF_PLAYER]",
+    "globalText.langCommunityLive": "Прямой эфир",
+    "globalText.langFollowUs": "Подписаться",
+    "globalText.esportFollowing": "Подписки",
+    "globalText.esportChangeRegion": "Сменить регион",
+    "globalText.esportFollow": "Вы можете отслеживать 3 региона - мы выбрали самые подходящии для вас.",
+    "globalText.esportDone": "Готово",
+    "communityText.langLive": "Прямой эфир",
+    "globalText.langEsportChange Region": "Сменить регион",
+    "globalText.langEsportCurrentlyFollowing": "Подписки",
+    "globalText.langEsportFollowMore": "Подписаться ещё",
+    "globalText.langEsportDoneCTAButton": "Готово",
+    "globalText.langEsportYouCanFollow": "Вы можете отслеживать 3 региона - мы выбрали самые подходящии для вас.",
+    "globalText.langEsportCTANextText": "Далее",
+    "globalText.langEsportWelcomeTo": "Добро пожаловать в Киберспорт!",
+    "globalText.langEsportEsportIntro": "Здесь вы сможете найти новости про киберспорт, трансляции игр ЧБС 2021 и общественных турниров!",
+    "globalText.langEsportRevealScore": "Показать счёт",
+    "globalText.langEsportLiveIn": "Прямой эфир через",
+    "globalText.langHourCountdown": "ч.",
+    "globalText.langSecondsAbbreviated": "sec",
+    "globalText.langDayAgo": "{x} день назад",
+    "globalText.langDays": "д.",
+    "globalText.langDaysAgo": "{x} д. назад",
+    "globalText.langHourAgo": "{x} час назад",
+    "globalText.langHoursAbbreviated": "ч.",
+    "globalText.langMinuteAgo": "{x} минуту назад",
+    "globalText.langMinutesAgo": "{x} мин. назад",
+    "globalText.langMinutesAbbreviated": "мин.",
+    "globalText.langHoursAgo": "{x} ч. назад",
+    "globalText.langHoursCountdown": "ч.",
+    "globalText.langMinuteCountdown": "мин.",
+    "globalText.langMinutesCountdown": "мин.",
+    "globalText.langEndsIn": "Окончание:",
+    "globalText.langSecondCountdown": "sec",
+    "globalText.langSecondsCountdown": "sec",
+    "globalText.langGo": "Перейти"
+  }
+}
